@@ -8,287 +8,289 @@ msgstr ""
 "Project-Id-Version: Lexi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-12 12:59+0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-04-14 20:37+0000\n"
+"Last-Translator: Jiri Grönroos <jiri.gronroos@iki.fi>\n"
+"Language-Team: Finnish <https://hosted.weblate.org/projects/lexi/lexi/fi/>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.11-dev\n"
 
 #: data/gtk/window.blp:36
 msgid "Lexicons"
-msgstr ""
+msgstr "Leksikot"
 
 #: data/gtk/window.blp:47 data/gtk/window.blp:761
 msgid "Toggle sidebar"
-msgstr ""
+msgstr "Sivupalkki päällä/pois"
 
 #: data/gtk/window.blp:52
 msgid "Find Lexicon"
-msgstr ""
+msgstr "Löydä leksikko"
 
 #: data/gtk/window.blp:62
 msgid "Add Lexicon"
-msgstr ""
+msgstr "Lisää leksikko"
 
 #: data/gtk/window.blp:67
 msgid "App menu"
-msgstr ""
+msgstr "Sovellusvalikko"
 
 #: data/gtk/window.blp:80
 msgid "Search…"
-msgstr ""
+msgstr "Etsi…"
 
 #: data/gtk/window.blp:127
 msgid "Sort by…"
-msgstr ""
+msgstr "Järjestä…"
 
 #: data/gtk/window.blp:134
 msgid "Filter words by their type"
-msgstr ""
+msgstr "Suodata sanoja niiden tyypin mukaan"
 
 #: data/gtk/window.blp:164
 msgid "Select words"
-msgstr ""
+msgstr "Valitse sanat"
 
 #: data/gtk/window.blp:176
 msgid "Delete selected words"
-msgstr ""
+msgstr "Poista valitut sanat"
 
 #: data/gtk/window.blp:185
 msgid "Find a word"
-msgstr ""
+msgstr "Löydä sana"
 
 #: data/gtk/window.blp:191 data/gtk/ui/LexiconRow.blp:75
 msgid "Add word"
-msgstr ""
+msgstr "Lisää sana"
 
 #: data/gtk/window.blp:203 data/gtk/window.blp:229 data/gtk/window.blp:802
 #: data/gtk/ui/LexiconRow.blp:56 lexi/ui/widgets.py:310 lexi/ui/widgets.py:311
 #: lexi/ui/widgets.py:449 lexi/ui/widgets.py:499 lexi/ui/widgets.py:500
 msgid "Word"
-msgstr ""
+msgstr "Sana"
 
 #: data/gtk/window.blp:210
 msgid "Save"
-msgstr ""
+msgstr "Tallenna"
 
 #: data/gtk/window.blp:235 data/io.github.dzheremi2.lexi.metainfo.xml.in:14
 msgid "Pronunciation"
-msgstr ""
+msgstr "Ääntäminen"
 
 #: data/gtk/window.blp:241
 msgid "Translations"
-msgstr ""
+msgstr "Käännökset"
 
 #: data/gtk/window.blp:249
 msgid "Add translation"
-msgstr ""
+msgstr "Lisää käännös"
 
 #: data/gtk/window.blp:258
 msgid "Word Type"
-msgstr ""
+msgstr "Sanatyyppi"
 
 #: data/gtk/window.blp:262 data/gtk/window.blp:524 lexi/enums.py:60
 msgid "Noun"
-msgstr ""
+msgstr "Substantiivi"
 
 #: data/gtk/window.blp:271 data/gtk/window.blp:533 lexi/enums.py:61
 msgid "Verb"
-msgstr ""
+msgstr "Verbi"
 
 #: data/gtk/window.blp:280 data/gtk/window.blp:542 lexi/enums.py:62
 msgid "Adjective"
-msgstr ""
+msgstr "Adjektiivi"
 
 #: data/gtk/window.blp:289 data/gtk/window.blp:551 lexi/enums.py:63
 msgid "Adverb"
-msgstr ""
+msgstr "Adverbi"
 
 #: data/gtk/window.blp:298 data/gtk/window.blp:560 lexi/enums.py:64
 msgid "Pronoun"
-msgstr ""
+msgstr "Pronomini"
 
 #: data/gtk/window.blp:307 data/gtk/window.blp:569 lexi/enums.py:65
 msgid "Preposition"
-msgstr ""
+msgstr "Prepositio"
 
 #: data/gtk/window.blp:316 data/gtk/window.blp:578 lexi/enums.py:66
 msgid "Conjunction"
-msgstr ""
+msgstr "Konjuktio"
 
 #: data/gtk/window.blp:325 data/gtk/window.blp:587 lexi/enums.py:67
 msgid "Interjection"
-msgstr ""
+msgstr "Interjektio"
 
 #: data/gtk/window.blp:334 data/gtk/window.blp:596 lexi/enums.py:68
 msgid "Article"
-msgstr ""
+msgstr "Artikkeli"
 
 #: data/gtk/window.blp:343 data/gtk/window.blp:605 lexi/enums.py:69
 msgid "Idiom"
-msgstr ""
+msgstr "Idiomi"
 
 #: data/gtk/window.blp:352 data/gtk/window.blp:614 lexi/enums.py:70
 msgid "Clause"
-msgstr ""
+msgstr "Lauseke"
 
 #: data/gtk/window.blp:361 data/gtk/window.blp:623 lexi/enums.py:71
 msgid "Prefix"
-msgstr ""
+msgstr "Etuliite"
 
 #: data/gtk/window.blp:370 data/gtk/window.blp:632 lexi/enums.py:72
 msgid "Suffix"
-msgstr ""
+msgstr "Takaliite"
 
 #: data/gtk/window.blp:380
 msgid "Examples"
-msgstr ""
+msgstr "Esimerkit"
 
 #: data/gtk/window.blp:388 data/gtk/window.blp:405
 msgid "Add example"
-msgstr ""
+msgstr "Lisää esimerkki"
 
 #: data/gtk/window.blp:397 data/gtk/window.blp:814
 msgid "References"
-msgstr ""
+msgstr "Viittaukset"
 
 #: data/gtk/window.blp:461
 msgid "Refer a Word"
-msgstr ""
+msgstr "Viittaa sanaa"
 
 #: data/gtk/window.blp:492
 msgid "Filter by Word Type"
-msgstr ""
+msgstr "Suodata sanatyypin mukaan"
 
 #: data/gtk/window.blp:651
 msgid "Reset"
-msgstr ""
+msgstr "Nollaa"
 
 #: data/gtk/window.blp:664
 msgid "No Lexicons found yet"
-msgstr ""
+msgstr "Leksikkoja ei löytynyt vielä"
 
 #: data/gtk/window.blp:671
 msgid "No Lexicons found"
-msgstr ""
+msgstr "Leksikkoja ei löytynyt"
 
 #: data/gtk/window.blp:672
 msgid "No Lexicons found for this search request"
-msgstr ""
+msgstr "Tällä hakupyynnöllä ei löytynyt leksikkoja"
 
 #: data/gtk/window.blp:679
 msgid "No Words found yet"
-msgstr ""
+msgstr "Sanoja ei löytynyt vielä"
 
 #: data/gtk/window.blp:686
 msgid "Add Word"
-msgstr ""
+msgstr "Lisää sana"
 
 #: data/gtk/window.blp:697
 msgid "No Words found"
-msgstr ""
+msgstr "Sanoja ei löytynyt"
 
 #: data/gtk/window.blp:698
 msgid "No Words found for this search request"
-msgstr ""
+msgstr "Tällä hakupyynnöllä ei löytynyt sanoja"
 
 #: data/gtk/window.blp:703
 msgid "No Lexicon selected"
-msgstr ""
+msgstr "Leksikkoa ei ole valittu"
 
 #: data/gtk/window.blp:704
 msgid "Please select a Lexicon to view its words"
-msgstr ""
+msgstr "Valitse leksikko nähdäksesi siihen kuuluvat sanat"
 
 #: data/gtk/window.blp:719
 msgid "Lexicon name"
-msgstr ""
+msgstr "Leksikon nimi"
 
 #: data/gtk/window.blp:733 data/gtk/ui/Preferences.blp:6
 msgid "General"
-msgstr ""
+msgstr "Yleiset"
 
 #: data/gtk/window.blp:736
 msgid "Quit"
-msgstr ""
+msgstr "Lopeta"
 
 #: data/gtk/window.blp:741
 msgid "Search words"
-msgstr ""
+msgstr "Etsi sanoja"
 
 #: data/gtk/window.blp:746
 msgid "Show filter dialog"
-msgstr ""
+msgstr "Näytä suodatusikkuna"
 
 #: data/gtk/window.blp:751
 msgid "Show preferences"
-msgstr ""
+msgstr "Näytä asetukset"
 
 #: data/gtk/window.blp:756 data/gtk/window.blp:780
 msgid "Keybindings"
-msgstr ""
+msgstr "Pikanäppäimet"
 
 #: data/gtk/window.blp:767 data/gtk/ui/Preferences.blp:9
 msgid "Editing"
-msgstr ""
+msgstr "Muokkaus"
 
 #: data/gtk/window.blp:770
 msgid "Add new word"
-msgstr ""
+msgstr "Lisää uusi sana"
 
 #: data/gtk/window.blp:779
 msgid "Preferences"
-msgstr ""
+msgstr "Asetukset"
 
 #: data/gtk/window.blp:781
 msgid "About"
-msgstr ""
+msgstr "Tietoja"
 
 #: data/gtk/window.blp:788
 msgid "Ascending"
-msgstr ""
+msgstr "Nouseva"
 
 #: data/gtk/window.blp:794
 msgid "Descending"
-msgstr ""
+msgstr "Laskeva"
 
 #: data/gtk/window.blp:808
 msgid "First Translation"
-msgstr ""
+msgstr "Ensimmäinen käännös"
 
 #: data/gtk/ui/LexiconRow.blp:61 lexi/ui/widgets.py:290 lexi/ui/widgets.py:426
 msgid "Translation"
-msgstr ""
+msgstr "Käännös"
 
 #: data/gtk/ui/LexiconRow.blp:65 lexi/ui/widgets.py:291 lexi/ui/widgets.py:428
 msgid "Example"
-msgstr ""
+msgstr "Esimerkki"
 
 #: data/gtk/ui/LexiconRow.blp:112
 msgid "Delete this Lexicon?"
-msgstr ""
+msgstr "Poistetaanko tämä leksikko?"
 
 #: data/gtk/ui/LexiconRow.blp:117
 msgid "Cancel"
-msgstr ""
+msgstr "Peru"
 
 #: data/gtk/ui/LexiconRow.blp:118 data/gtk/ui/LexiconRow.blp:125
 msgid "Delete"
-msgstr ""
+msgstr "Poista"
 
 #: data/gtk/ui/LexiconRow.blp:124
 msgid "Rename"
-msgstr ""
+msgstr "Nimeä uudelleen"
 
 #: data/gtk/ui/Preferences.blp:12
 msgid "Automatically save word on change"
-msgstr ""
+msgstr "Tallenna sana automaattisesti sen muuttuessa"
 
 #: data/gtk/ui/ReferenceRow.blp:14
 msgid "Delete this reference"
-msgstr ""
+msgstr "Poista tämä viittaus"
 
 #: data/gtk/ui/WordRow.blp:15
 msgid "Selection check button"
@@ -298,93 +300,97 @@ msgstr ""
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:7
 #: data/io.github.dzheremi2.lexi.desktop.in:4
 msgid "Lexi"
-msgstr ""
+msgstr "Lexi"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:8
 #: data/io.github.dzheremi2.lexi.desktop.in:5
 msgid "Build your own dictionary"
-msgstr ""
+msgstr "Rakenna oma sanasto"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:10
 msgid ""
 "Lexi is a self-driven dictionary app for those who want to make their "
 "language learning (or creating) structured and easy"
 msgstr ""
+"Lexi on sanastosovellus niille, jotka haluavat tehdä kielten oppimisesta ("
+"tai luomisesta) jäsentynyttä ja helppoa"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:11
 msgid "You can give words:"
-msgstr ""
+msgstr "Voit antaa sanoille:"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:13
 msgid "Word itself"
-msgstr ""
+msgstr "Vain pelkän sanan"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:15
 msgid "Multiple translations"
-msgstr ""
+msgstr "Useita käännöksiä"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:16
 msgid "Word types e.g. Noun, Verb, Adjective e.t.c"
-msgstr ""
+msgstr "Sanatyyppejä, esimerkiksi substantiivi, verbi, adjektiivi jne."
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:17
 msgid "Multiple examples"
-msgstr ""
+msgstr "Useita esimerkkejä"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:18
 msgid "References to other words"
-msgstr ""
+msgstr "Viittauksia toisiin sanoihin"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:54
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:70
 msgid "Main window"
-msgstr ""
+msgstr "Pääikkuna"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:58
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:74
 msgid "Word type filter dialog"
-msgstr ""
+msgstr "Sanatyypin suodatusikkuna"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:62
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:78
 msgid "Main window with words sorted by reference count"
-msgstr ""
+msgstr "Pääikkuna, jossa sanat järjestetty viittausten määrän mukaan"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:66
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:82
 msgid "Main window on smaller display"
-msgstr ""
+msgstr "Pääikkuna pienellä näytöllä"
 
 #. Translators: Search terms to find this application. Please, do NOT delete original english keywords, just add yuor language translations to them. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
 #: data/io.github.dzheremi2.lexi.desktop.in:12
 msgid "dict;dictionary;word;words;lexi;lexicon;lexicons;"
 msgstr ""
+"dict;dictionary;word;words;lexi;lexicon;lexicons;sanasto;leksikko;sana;sanoja;"
+""
 
 #. Translators: Add Your Name, Your Name <your.email@example.com>, or Your Name https://your-site.com for it to show up in the About dialog. PLEASE, DON'T DELETE PREVIOUS TRANSLATORS CREDITS AND SEPARATE YOURSELF BY NEWLINE `\n` METASYMBOL
 #: lexi/main.py:129
 msgid "translator-credits"
-msgstr ""
+msgstr "Jiri Grönroos"
 
 #: lexi/main.py:136
 msgid "Chronograph"
-msgstr ""
+msgstr "Chronograph"
 
 #: lexi/main.py:137
 msgid "Sync lyrics of your loved songs"
-msgstr ""
+msgstr "Synkronoi rakastamiesi kappaleiden sanat"
 
 #: lexi/window.py:128
 msgid "Word autosave is enabled"
-msgstr ""
+msgstr "Sanan automaattinen tallennus on käytössä"
 
 #: lexi/window.py:514
 msgid "You have already referenced all words"
-msgstr ""
+msgstr "Olet jo viitannut kaikki sanat"
 
 #: lexi/window.py:696
 msgid "Word saved"
-msgstr ""
+msgstr "Sana tallennettu"
 
 #: lexi/ui/widgets.py:271 lexi/ui/widgets.py:399 lexi/ui/widgets.py:403
 msgid "No translation yet"
-msgstr ""
+msgstr "Ei käännöstä vielä"
