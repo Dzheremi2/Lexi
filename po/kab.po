@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Lexi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-12 12:59+0300\n"
-"PO-Revision-Date: 2025-04-14 00:03+0000\n"
+"PO-Revision-Date: 2025-04-14 20:37+0000\n"
 "Last-Translator: ButterflyOfFire <boffire@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Kabyle <https://hosted.weblate.org/projects/lexi/lexi/kab/>\n"
 "Language: kab\n"
@@ -48,7 +48,7 @@ msgstr "Smizzwer s…"
 
 #: data/gtk/window.blp:134
 msgid "Filter words by their type"
-msgstr ""
+msgstr "Sizdeg awalen s wanaw-nsen"
 
 #: data/gtk/window.blp:164
 msgid "Select words"
@@ -56,7 +56,7 @@ msgstr "Fren awalen"
 
 #: data/gtk/window.blp:176
 msgid "Delete selected words"
-msgstr ""
+msgstr "Kkes awalen yettwafernen"
 
 #: data/gtk/window.blp:185
 msgid "Find a word"
@@ -106,27 +106,27 @@ msgstr "Arbib"
 
 #: data/gtk/window.blp:289 data/gtk/window.blp:551 lexi/enums.py:63
 msgid "Adverb"
-msgstr ""
+msgstr "Amernu"
 
 #: data/gtk/window.blp:298 data/gtk/window.blp:560 lexi/enums.py:64
 msgid "Pronoun"
-msgstr ""
+msgstr "Amqim"
 
 #: data/gtk/window.blp:307 data/gtk/window.blp:569 lexi/enums.py:65
 msgid "Preposition"
-msgstr ""
+msgstr "Tanzeɣt"
 
 #: data/gtk/window.blp:316 data/gtk/window.blp:578 lexi/enums.py:66
 msgid "Conjunction"
-msgstr ""
+msgstr "Tasɣunt"
 
 #: data/gtk/window.blp:325 data/gtk/window.blp:587 lexi/enums.py:67
 msgid "Interjection"
-msgstr ""
+msgstr "Tayyayt"
 
 #: data/gtk/window.blp:334 data/gtk/window.blp:596 lexi/enums.py:68
 msgid "Article"
-msgstr ""
+msgstr "Amagrad"
 
 #: data/gtk/window.blp:343 data/gtk/window.blp:605 lexi/enums.py:69
 msgid "Idiom"
@@ -134,15 +134,15 @@ msgstr ""
 
 #: data/gtk/window.blp:352 data/gtk/window.blp:614 lexi/enums.py:70
 msgid "Clause"
-msgstr ""
+msgstr "Tafada"
 
 #: data/gtk/window.blp:361 data/gtk/window.blp:623 lexi/enums.py:71
 msgid "Prefix"
-msgstr ""
+msgstr "Azwir"
 
 #: data/gtk/window.blp:370 data/gtk/window.blp:632 lexi/enums.py:72
 msgid "Suffix"
-msgstr ""
+msgstr "Adfir"
 
 #: data/gtk/window.blp:380
 msgid "Examples"
@@ -154,7 +154,7 @@ msgstr "Rnu amedya"
 
 #: data/gtk/window.blp:397 data/gtk/window.blp:814
 msgid "References"
-msgstr ""
+msgstr "Iɣbula"
 
 #: data/gtk/window.blp:461
 msgid "Refer a Word"
@@ -170,19 +170,19 @@ msgstr "Ales awennez"
 
 #: data/gtk/window.blp:664
 msgid "No Lexicons found yet"
-msgstr ""
+msgstr "Ulac imawalen akka tura"
 
 #: data/gtk/window.blp:671
 msgid "No Lexicons found"
-msgstr ""
+msgstr "Ulac amawal"
 
 #: data/gtk/window.blp:672
 msgid "No Lexicons found for this search request"
-msgstr ""
+msgstr "Ulac amawal i d-yufraren i usuter-a n unadi"
 
 #: data/gtk/window.blp:679
 msgid "No Words found yet"
-msgstr ""
+msgstr "Ulac awalen akka tura"
 
 #: data/gtk/window.blp:686
 msgid "Add Word"
@@ -190,23 +190,23 @@ msgstr "Rnu awal"
 
 #: data/gtk/window.blp:697
 msgid "No Words found"
-msgstr ""
+msgstr "Ulac awalen i d-yufraren"
 
 #: data/gtk/window.blp:698
 msgid "No Words found for this search request"
-msgstr ""
+msgstr "Ulac awalen i d-yufraren i usuter-a n unadi"
 
 #: data/gtk/window.blp:703
 msgid "No Lexicon selected"
-msgstr ""
+msgstr "Ulac amawal yettwafernen"
 
 #: data/gtk/window.blp:704
 msgid "Please select a Lexicon to view its words"
-msgstr ""
+msgstr "Ttxil-k·m fren amawal akken ad twaliḍ awalen-is, ma ulac aɣilif"
 
 #: data/gtk/window.blp:719
 msgid "Lexicon name"
-msgstr ""
+msgstr "Isem n umawal"
 
 #: data/gtk/window.blp:733 data/gtk/ui/Preferences.blp:6
 msgid "General"
@@ -230,7 +230,7 @@ msgstr ""
 
 #: data/gtk/window.blp:756 data/gtk/window.blp:780
 msgid "Keybindings"
-msgstr ""
+msgstr "Inegzumen n unasiw"
 
 #: data/gtk/window.blp:767 data/gtk/ui/Preferences.blp:9
 msgid "Editing"
@@ -250,11 +250,11 @@ msgstr "Ɣef"
 
 #: data/gtk/window.blp:788
 msgid "Ascending"
-msgstr ""
+msgstr "S walluy"
 
 #: data/gtk/window.blp:794
 msgid "Descending"
-msgstr ""
+msgstr "S usider"
 
 #: data/gtk/window.blp:808
 msgid "First Translation"
@@ -270,7 +270,7 @@ msgstr "Amedya"
 
 #: data/gtk/ui/LexiconRow.blp:112
 msgid "Delete this Lexicon?"
-msgstr ""
+msgstr "Tebɣiḍ ad tekkseḍ amawal-a?"
 
 #: data/gtk/ui/LexiconRow.blp:117
 msgid "Cancel"
@@ -286,7 +286,7 @@ msgstr "Snifel isem"
 
 #: data/gtk/ui/Preferences.blp:12
 msgid "Automatically save word on change"
-msgstr ""
+msgstr "Sekles awalen s wudem awurman ma yella-d usnifel"
 
 #: data/gtk/ui/ReferenceRow.blp:14
 msgid "Delete this reference"
@@ -312,26 +312,28 @@ msgid ""
 "Lexi is a self-driven dictionary app for those who want to make their "
 "language learning (or creating) structured and easy"
 msgstr ""
+"Lexi d asnas n umawal i d-yettawin iman-is i wid akked tid yebɣan ad lemden "
+"tutlayt-nsen (neɣ ad d-snulfun) s wudem fessusen"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:11
 msgid "You can give words:"
-msgstr ""
+msgstr "Tzemreḍ ad d-tefkeḍ awalen:"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:13
 msgid "Word itself"
-msgstr ""
+msgstr "Awal-nni s yiman-is"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:15
 msgid "Multiple translations"
-msgstr ""
+msgstr "Aṭas n tsuqilin"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:16
 msgid "Word types e.g. Noun, Verb, Adjective e.t.c"
-msgstr ""
+msgstr "Anaw n wawalen, amedya d (isem, amyag, amaruz, atg)"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:17
 msgid "Multiple examples"
-msgstr ""
+msgstr "Aṭas imedyaten"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:18
 msgid "References to other words"
@@ -355,12 +357,12 @@ msgstr ""
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:66
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:82
 msgid "Main window on smaller display"
-msgstr ""
+msgstr "Asfaylu agejdan deg ugdil amecṭuḥ"
 
 #. Translators: Search terms to find this application. Please, do NOT delete original english keywords, just add yuor language translations to them. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
 #: data/io.github.dzheremi2.lexi.desktop.in:12
 msgid "dict;dictionary;word;words;lexi;lexicon;lexicons;"
-msgstr ""
+msgstr "dict;dictionary;word;words;lexi;lexicon;lexicons;amawal;awal;asegzawal;"
 
 #. Translators: Add Your Name, Your Name <your.email@example.com>, or Your Name https://your-site.com for it to show up in the About dialog. PLEASE, DON'T DELETE PREVIOUS TRANSLATORS CREDITS AND SEPARATE YOURSELF BY NEWLINE `\n` METASYMBOL
 #: lexi/main.py:129
@@ -373,11 +375,11 @@ msgstr "Chronograph"
 
 #: lexi/main.py:137
 msgid "Sync lyrics of your loved songs"
-msgstr ""
+msgstr "Mtawi isefra n tezlatin i tḥemmleḍ s waṭas"
 
 #: lexi/window.py:128
 msgid "Word autosave is enabled"
-msgstr ""
+msgstr "Aḥraz awurman n wawalen yettwarmed"
 
 #: lexi/window.py:514
 msgid "You have already referenced all words"
