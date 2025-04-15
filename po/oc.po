@@ -8,29 +8,31 @@ msgstr ""
 "Project-Id-Version: Lexi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-12 12:59+0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-04-15 05:46+0000\n"
+"Last-Translator: Quentin PAGÈS <quentinantonin@free.fr>\n"
+"Language-Team: Occitan <https://hosted.weblate.org/projects/lexi/lexi/oc/>\n"
 "Language: oc\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.11-dev\n"
 
 #: data/gtk/window.blp:36
 msgid "Lexicons"
-msgstr ""
+msgstr "Lexics"
 
 #: data/gtk/window.blp:47 data/gtk/window.blp:761
 msgid "Toggle sidebar"
-msgstr ""
+msgstr "Alternar afichatge barra laterala"
 
 #: data/gtk/window.blp:52
 msgid "Find Lexicon"
-msgstr ""
+msgstr "Cercar un lexic"
 
 #: data/gtk/window.blp:62
 msgid "Add Lexicon"
-msgstr ""
+msgstr "Apondre un lexic"
 
 #: data/gtk/window.blp:67
 msgid "App menu"
