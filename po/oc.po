@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Lexi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-12 12:59+0300\n"
-"PO-Revision-Date: 2025-04-15 13:09+0000\n"
-"Last-Translator: Артём Чичваров <chichvarov1315@gmail.com>\n"
+"PO-Revision-Date: 2025-04-15 22:31+0000\n"
+"Last-Translator: Quentin PAGÈS <quentinantonin@free.fr>\n"
 "Language-Team: Occitan <https://hosted.weblate.org/projects/lexi/lexi/oc/>\n"
 "Language: oc\n"
 "MIME-Version: 1.0\n"
@@ -312,6 +312,8 @@ msgid ""
 "Lexi is a self-driven dictionary app for those who want to make their "
 "language learning (or creating) structured and easy"
 msgstr ""
+"Lexi es una aplicacion de diccionari autonòma destinada al monde que vòlon "
+"estructurar e facilitar lor aprentissatge de las lengas (o lor creacion)"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:11
 msgid "You can give words:"
@@ -350,12 +352,12 @@ msgstr "Fenèstra de dialòg de filtratge dels tipes de mots"
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:62
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:78
 msgid "Main window with words sorted by reference count"
-msgstr ""
+msgstr "Fenèstra principala amb los mots triats per nombre de referéncias"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:66
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:82
 msgid "Main window on smaller display"
-msgstr ""
+msgstr "Fenèstra principala amb afichatge pichon"
 
 #. Translators: Search terms to find this application. Please, do NOT delete original english keywords, just add yuor language translations to them. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
 #: data/io.github.dzheremi2.lexi.desktop.in:12
@@ -373,7 +375,7 @@ msgstr "Cronograf"
 
 #: lexi/main.py:137
 msgid "Sync lyrics of your loved songs"
-msgstr ""
+msgstr "Sincronizatz las paraulas de vòstras cançons preferidas"
 
 #: lexi/window.py:128
 msgid "Word autosave is enabled"
@@ -381,7 +383,7 @@ msgstr "La salvagarda automatica dels mots es activada"
 
 #: lexi/window.py:514
 msgid "You have already referenced all words"
-msgstr ""
+msgstr "Avètz ja referenciat totes los mots"
 
 #: lexi/window.py:696
 msgid "Word saved"
