@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Lexi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-12 12:59+0300\n"
-"PO-Revision-Date: 2025-04-14 20:37+0000\n"
+"PO-Revision-Date: 2025-04-16 22:01+0000\n"
 "Last-Translator: ButterflyOfFire <boffire@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Kabyle <https://hosted.weblate.org/projects/lexi/lexi/kab/>\n"
 "Language: kab\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.11-dev\n"
+"X-Generator: Weblate 5.11.1-dev\n"
 
 #: data/gtk/window.blp:36
 msgid "Lexicons"
@@ -130,7 +130,7 @@ msgstr "Amagrad"
 
 #: data/gtk/window.blp:343 data/gtk/window.blp:605 lexi/enums.py:69
 msgid "Idiom"
-msgstr ""
+msgstr "Tanfalit"
 
 #: data/gtk/window.blp:352 data/gtk/window.blp:614 lexi/enums.py:70
 msgid "Clause"
@@ -162,7 +162,7 @@ msgstr ""
 
 #: data/gtk/window.blp:492
 msgid "Filter by Word Type"
-msgstr ""
+msgstr "Sizdeg s wanay n wawal"
 
 #: data/gtk/window.blp:651
 msgid "Reset"
@@ -222,7 +222,7 @@ msgstr "Nadi ɣef wawalen"
 
 #: data/gtk/window.blp:746
 msgid "Show filter dialog"
-msgstr ""
+msgstr "Sken-d imsizdigen"
 
 #: data/gtk/window.blp:751
 msgid "Show preferences"
@@ -290,7 +290,7 @@ msgstr "Sekles awalen s wudem awurman ma yella-d usnifel"
 
 #: data/gtk/ui/ReferenceRow.blp:14
 msgid "Delete this reference"
-msgstr ""
+msgstr "Kkes aɣbalu-a"
 
 #: data/gtk/ui/WordRow.blp:15
 msgid "Selection check button"
@@ -337,7 +337,7 @@ msgstr "Aṭas imedyaten"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:18
 msgid "References to other words"
-msgstr ""
+msgstr "Iɣbula ar wawalen-nniḍen"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:54
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:70
