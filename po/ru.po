@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Lexi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-19 01:22+0300\n"
-"PO-Revision-Date: 2025-04-17 19:54+0000\n"
+"PO-Revision-Date: 2025-04-19 05:12+0000\n"
 "Last-Translator: Артём Чичваров <chichvarov1315@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/lexi/lexi/ru/>\n"
 "Language: ru\n"
@@ -207,13 +207,12 @@ msgid "Please select a Lexicon to view its words"
 msgstr "Пожалуйста, выберите Лексикон, чтобы посмотреть его слова"
 
 #: data/gtk/window.blp:711
-#, fuzzy
 msgid "Add new Lexicon"
 msgstr "Добавить Лексикон"
 
 #: data/gtk/window.blp:714 data/gtk/ui/LexiconRow.blp:102
 msgid "Name"
-msgstr ""
+msgstr "Название"
 
 #: data/gtk/window.blp:720 data/gtk/ui/LexiconRow.blp:107
 #: data/gtk/ui/LexiconRow.blp:119 data/gtk/ui/Preferences.blp:50
@@ -222,7 +221,7 @@ msgstr "Отменить"
 
 #: data/gtk/window.blp:721
 msgid "Add"
-msgstr ""
+msgstr "Добавить"
 
 #: data/gtk/window.blp:733 data/gtk/ui/Preferences.blp:6
 msgid "General"
@@ -285,9 +284,8 @@ msgid "Example"
 msgstr "Пример"
 
 #: data/gtk/ui/LexiconRow.blp:98
-#, fuzzy
 msgid "Rename this Lexicon"
-msgstr "Удалить этот Лексикон?"
+msgstr "Переименовать этот Лексикон"
 
 #: data/gtk/ui/LexiconRow.blp:108 data/gtk/ui/LexiconRow.blp:126
 msgid "Rename"
@@ -307,27 +305,27 @@ msgstr "Автоматически сохранять слово при изме
 
 #: data/gtk/ui/Preferences.blp:19
 msgid "Backup"
-msgstr ""
+msgstr "Резервная копия"
 
 #: data/gtk/ui/Preferences.blp:27
 msgid "Export Database"
-msgstr ""
+msgstr "Экспорт базы данных"
 
 #: data/gtk/ui/Preferences.blp:33
 msgid "Import Database"
-msgstr ""
+msgstr "Импорт базы данных"
 
 #: data/gtk/ui/Preferences.blp:43
 msgid "Import Database?"
-msgstr ""
+msgstr "Импортировать базу данных?"
 
 #: data/gtk/ui/Preferences.blp:44
 msgid "Importing database will ERASE the existing one!"
-msgstr ""
+msgstr "Импортирование базы данных УДАЛИТ ВСЕ ФАЙЛЫ текущей!"
 
 #: data/gtk/ui/Preferences.blp:51
 msgid "Import"
-msgstr ""
+msgstr "Импортировать"
 
 #: data/gtk/ui/ReferenceRow.blp:14
 msgid "Delete this reference"
@@ -413,13 +411,12 @@ msgid "translator-credits"
 msgstr "Артём Чичваров <chichvarov1315@gmail.com>"
 
 #: lexi/main.py:132
-#, fuzzy
 msgid "Inspiration"
-msgstr "Перевод"
+msgstr "Вдохновение"
 
 #: lexi/main.py:136
 msgid "Bug Reporters"
-msgstr ""
+msgstr "Создатели отчётов об ошибках"
 
 #. Translators: This is the name of the another app https://flathub.org/apps/io.github.dzheremi2.lrcmake-gtk
 #: lexi/main.py:141
