@@ -75,7 +75,7 @@ msgstr "Kelime"
 msgid "Save"
 msgstr "Kaydet"
 
-#: data/gtk/window.blp:236 data/gtk/ui/LexiconRow.blp:63 lexi/ui/widgets.py:309 lexi/ui/widgets.py:480
+#: data/gtk/window.blp:236 data/io.github.dzheremi2.lexi.metainfo.xml.in:14
 msgid "Pronunciation"
 msgstr "Telaffuz"
 
@@ -125,7 +125,7 @@ msgstr "Ünlem"
 
 #: data/gtk/window.blp:335 data/gtk/window.blp:597 lexi/enums.py:76
 msgid "Article"
-msgstr "Tanımlık"
+msgstr "Tanım"
 
 #: data/gtk/window.blp:344 data/gtk/window.blp:606 lexi/enums.py:77
 msgid "Idiom"
@@ -189,7 +189,7 @@ msgstr "Kelime Ekle"
 
 #: data/gtk/window.blp:698
 msgid "No Words found"
-msgstr "Hiç kelime bulunamadı"
+msgstr "Kelime bulunamadı"
 
 #: data/gtk/window.blp:699
 msgid "No Words found for this search request"
