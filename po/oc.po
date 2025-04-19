@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Lexi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-19 01:22+0300\n"
-"PO-Revision-Date: 2025-04-15 22:31+0000\n"
+"PO-Revision-Date: 2025-04-19 05:12+0000\n"
 "Last-Translator: Quentin PAGÈS <quentinantonin@free.fr>\n"
 "Language-Team: Occitan <https://hosted.weblate.org/projects/lexi/lexi/oc/>\n"
 "Language: oc\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.11-dev\n"
+"X-Generator: Weblate 5.11.1-dev\n"
 
 #: data/gtk/window.blp:36
 msgid "Lexicons"
@@ -205,13 +205,12 @@ msgid "Please select a Lexicon to view its words"
 msgstr "Volgatz seleccionar un lexic per veire los mots que conten"
 
 #: data/gtk/window.blp:711
-#, fuzzy
 msgid "Add new Lexicon"
-msgstr "Apondre un lexic"
+msgstr "Apondre un lexic novèl"
 
 #: data/gtk/window.blp:714 data/gtk/ui/LexiconRow.blp:102
 msgid "Name"
-msgstr ""
+msgstr "Nom"
 
 #: data/gtk/window.blp:720 data/gtk/ui/LexiconRow.blp:107
 #: data/gtk/ui/LexiconRow.blp:119 data/gtk/ui/Preferences.blp:50
@@ -220,7 +219,7 @@ msgstr "Anullar"
 
 #: data/gtk/window.blp:721
 msgid "Add"
-msgstr ""
+msgstr "Apondre"
 
 #: data/gtk/window.blp:733 data/gtk/ui/Preferences.blp:6
 msgid "General"
@@ -283,9 +282,8 @@ msgid "Example"
 msgstr "Exemple"
 
 #: data/gtk/ui/LexiconRow.blp:98
-#, fuzzy
 msgid "Rename this Lexicon"
-msgstr "Suprimir aqueste lexic ?"
+msgstr "Renomenar aqueste lexic"
 
 #: data/gtk/ui/LexiconRow.blp:108 data/gtk/ui/LexiconRow.blp:126
 msgid "Rename"
@@ -305,27 +303,27 @@ msgstr "Salvagarda automatica dels mots en cas de modificacion"
 
 #: data/gtk/ui/Preferences.blp:19
 msgid "Backup"
-msgstr ""
+msgstr "Salvagardar"
 
 #: data/gtk/ui/Preferences.blp:27
 msgid "Export Database"
-msgstr ""
+msgstr "Exportar la basa de donadas"
 
 #: data/gtk/ui/Preferences.blp:33
 msgid "Import Database"
-msgstr ""
+msgstr "Importar la basa de donadas"
 
 #: data/gtk/ui/Preferences.blp:43
 msgid "Import Database?"
-msgstr ""
+msgstr "Importar la basa de donadas ?"
 
 #: data/gtk/ui/Preferences.blp:44
 msgid "Importing database will ERASE the existing one!"
-msgstr ""
+msgstr "Importar la basa de donadas ESPOTIRÀ la basa existenta !"
 
 #: data/gtk/ui/Preferences.blp:51
 msgid "Import"
-msgstr ""
+msgstr "Importar"
 
 #: data/gtk/ui/ReferenceRow.blp:14
 msgid "Delete this reference"
@@ -409,13 +407,12 @@ msgid "translator-credits"
 msgstr "Quentin PAGÈS"
 
 #: lexi/main.py:132
-#, fuzzy
 msgid "Inspiration"
-msgstr "Traduccion"
+msgstr "Inspiracion"
 
 #: lexi/main.py:136
 msgid "Bug Reporters"
-msgstr ""
+msgstr "Senhalaires d’avarias"
 
 #. Translators: This is the name of the another app https://flathub.org/apps/io.github.dzheremi2.lrcmake-gtk
 #: lexi/main.py:141
