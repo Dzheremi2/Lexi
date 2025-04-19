@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Lexi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-19 15:01+0300\n"
-"PO-Revision-Date: 2025-04-14 20:37+0000\n"
+"PO-Revision-Date: 2025-04-19 19:05+0000\n"
 "Last-Translator: Jiri Grönroos <jiri.gronroos@iki.fi>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/lexi/lexi/fi/>\n"
 "Language: fi\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11-dev\n"
+"X-Generator: Weblate 5.11.1-dev\n"
 
 #: data/gtk/window.blp:36
 msgid "Lexicons"
@@ -205,13 +205,12 @@ msgid "Please select a Lexicon to view its words"
 msgstr "Valitse leksikko nähdäksesi siihen kuuluvat sanat"
 
 #: data/gtk/window.blp:711
-#, fuzzy
 msgid "Add new Lexicon"
-msgstr "Lisää leksikko"
+msgstr "Lisää uusi leksikko"
 
 #: data/gtk/window.blp:714 data/gtk/ui/LexiconRow.blp:102
 msgid "Name"
-msgstr ""
+msgstr "Nimi"
 
 #: data/gtk/window.blp:720 data/gtk/ui/LexiconRow.blp:107
 #: data/gtk/ui/LexiconRow.blp:119 data/gtk/ui/Preferences.blp:50
@@ -220,7 +219,7 @@ msgstr "Peru"
 
 #: data/gtk/window.blp:721
 msgid "Add"
-msgstr ""
+msgstr "Lisää"
 
 #: data/gtk/window.blp:733 data/gtk/ui/Preferences.blp:6
 msgid "General"
@@ -283,9 +282,8 @@ msgid "Example"
 msgstr "Esimerkki"
 
 #: data/gtk/ui/LexiconRow.blp:98
-#, fuzzy
 msgid "Rename this Lexicon"
-msgstr "Poistetaanko tämä leksikko?"
+msgstr "Nimetäänkö tämä leksikko uudelleen?"
 
 #: data/gtk/ui/LexiconRow.blp:108 data/gtk/ui/LexiconRow.blp:126
 msgid "Rename"
@@ -305,27 +303,27 @@ msgstr "Tallenna sana automaattisesti sen muuttuessa"
 
 #: data/gtk/ui/Preferences.blp:19
 msgid "Backup"
-msgstr ""
+msgstr "Varmuuskopio"
 
 #: data/gtk/ui/Preferences.blp:27
 msgid "Export Database"
-msgstr ""
+msgstr "Vie tietokanta"
 
 #: data/gtk/ui/Preferences.blp:33
 msgid "Import Database"
-msgstr ""
+msgstr "Tuo tietokanta"
 
 #: data/gtk/ui/Preferences.blp:43
 msgid "Import Database?"
-msgstr ""
+msgstr "Tuodaanko tietokanta?"
 
 #: data/gtk/ui/Preferences.blp:44
 msgid "Importing database will ERASE the existing one!"
-msgstr ""
+msgstr "Tietokannan tuominen YLIKIRJOITTAA aiemman tietokannan sisällön!"
 
 #: data/gtk/ui/Preferences.blp:51
 msgid "Import"
-msgstr ""
+msgstr "Tuo"
 
 #: data/gtk/ui/ReferenceRow.blp:14
 msgid "Delete this reference"
@@ -411,9 +409,8 @@ msgid "translator-credits"
 msgstr "Jiri Grönroos"
 
 #: lexi/main.py:132
-#, fuzzy
 msgid "Inspiration"
-msgstr "Käännös"
+msgstr "Inspiraatio"
 
 #: lexi/main.py:136
 msgid "Bug Reporters"
@@ -449,23 +446,23 @@ msgstr "Ei käännöstä vielä"
 #: lexi/utils/backup.py:37
 #, python-brace-format
 msgid "Backup exported successfully: {path}"
-msgstr ""
+msgstr "Varmuuskopio viety onnistuneesti: {path}"
 
 #: lexi/utils/backup.py:38
 msgid "Open"
-msgstr ""
+msgstr "Avaa"
 
 #: lexi/utils/backup.py:66
 msgid "Database imported successfully"
-msgstr ""
+msgstr "Tietokanta tuotu onnistuneesti"
 
 #: lexi/utils/backup.py:85 lexi/utils/backup.py:123
 msgid "Incorrect Archive!"
-msgstr ""
+msgstr "Virheellinen arkisto!"
 
 #: lexi/utils/backup.py:85
 msgid "Why?"
-msgstr ""
+msgstr "Miksi?"
 
 #: lexi/utils/backup.py:125
 msgid ""
@@ -475,7 +472,7 @@ msgstr ""
 
 #: lexi/utils/backup.py:128
 msgid "Close"
-msgstr ""
+msgstr "Sulje"
 
 #~ msgid "Lexicon name"
 #~ msgstr "Leksikon nimi"
