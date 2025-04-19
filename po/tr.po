@@ -19,452 +19,456 @@ msgstr ""
 
 #: data/gtk/window.blp:36
 msgid "Lexicons"
-msgstr ""
+msgstr "Sözlükler"
 
 #: data/gtk/window.blp:47 data/gtk/window.blp:761
 msgid "Toggle sidebar"
-msgstr ""
+msgstr "Kenar çubuğunu aç/kapat"
 
 #: data/gtk/window.blp:52
 msgid "Find Lexicon"
-msgstr ""
+msgstr "Sözlük Bul"
 
 #: data/gtk/window.blp:62
 msgid "Add Lexicon"
-msgstr ""
+msgstr "Sözlük Ekle"
 
 #: data/gtk/window.blp:67
 msgid "App menu"
-msgstr ""
+msgstr "Uygulama menüsü"
 
 #: data/gtk/window.blp:80
 msgid "Search…"
-msgstr ""
+msgstr "Ara…"
 
 #: data/gtk/window.blp:127
 msgid "Sort by…"
-msgstr ""
+msgstr "Sırala…"
 
 #: data/gtk/window.blp:134
 msgid "Filter words by their type"
-msgstr ""
+msgstr "Kelimeleri türüne göre filtrele"
 
 #: data/gtk/window.blp:164
 msgid "Select words"
-msgstr ""
+msgstr "Kelimeleri seç"
 
 #: data/gtk/window.blp:176
 msgid "Delete selected words"
-msgstr ""
+msgstr "Seçili kelimeleri sil"
 
 #: data/gtk/window.blp:186
 msgid "Find a word"
-msgstr ""
+msgstr "Bir kelime bul"
 
 #: data/gtk/window.blp:192 data/gtk/ui/LexiconRow.blp:79
 msgid "Add word"
-msgstr ""
+msgstr "Kelime ekle"
 
 #: data/gtk/window.blp:204 data/gtk/window.blp:230 data/gtk/window.blp:802
 #: data/gtk/ui/LexiconRow.blp:57 lexi/ui/widgets.py:329 lexi/ui/widgets.py:330
 #: lexi/ui/widgets.py:499 lexi/ui/widgets.py:549 lexi/ui/widgets.py:550
 msgid "Word"
-msgstr ""
+msgstr "Kelime"
 
 #: data/gtk/window.blp:211
 msgid "Save"
-msgstr ""
+msgstr "Kaydet"
 
-#: data/gtk/window.blp:236 data/io.github.dzheremi2.lexi.metainfo.xml.in:14
+#: data/gtk/window.blp:236 data/gtk/ui/LexiconRow.blp:63 lexi/ui/widgets.py:309 lexi/ui/widgets.py:480
 msgid "Pronunciation"
-msgstr ""
+msgstr "Telaffuz"
 
 #: data/gtk/window.blp:242
 msgid "Translations"
-msgstr ""
+msgstr "Çeviriler"
 
 #: data/gtk/window.blp:250
 msgid "Add translation"
-msgstr ""
+msgstr "Çeviri ekle"
 
 #: data/gtk/window.blp:259
 msgid "Word Type"
-msgstr ""
+msgstr "Kelime Türü"
 
 #: data/gtk/window.blp:263 data/gtk/window.blp:525 lexi/enums.py:68
 msgid "Noun"
-msgstr ""
+msgstr "İsim"
 
 #: data/gtk/window.blp:272 data/gtk/window.blp:534 lexi/enums.py:69
 msgid "Verb"
-msgstr ""
+msgstr "Fiil"
 
 #: data/gtk/window.blp:281 data/gtk/window.blp:543 lexi/enums.py:70
 msgid "Adjective"
-msgstr ""
+msgstr "Sıfat"
 
 #: data/gtk/window.blp:290 data/gtk/window.blp:552 lexi/enums.py:71
 msgid "Adverb"
-msgstr ""
+msgstr "Zarf"
 
 #: data/gtk/window.blp:299 data/gtk/window.blp:561 lexi/enums.py:72
 msgid "Pronoun"
-msgstr ""
+msgstr "Zamir"
 
 #: data/gtk/window.blp:308 data/gtk/window.blp:570 lexi/enums.py:73
 msgid "Preposition"
-msgstr ""
+msgstr "Edat"
 
 #: data/gtk/window.blp:317 data/gtk/window.blp:579 lexi/enums.py:74
 msgid "Conjunction"
-msgstr ""
+msgstr "Bağlaç"
 
 #: data/gtk/window.blp:326 data/gtk/window.blp:588 lexi/enums.py:75
 msgid "Interjection"
-msgstr ""
+msgstr "Ünlem"
 
 #: data/gtk/window.blp:335 data/gtk/window.blp:597 lexi/enums.py:76
 msgid "Article"
-msgstr ""
+msgstr "Tanımlık"
 
 #: data/gtk/window.blp:344 data/gtk/window.blp:606 lexi/enums.py:77
 msgid "Idiom"
-msgstr ""
+msgstr "Deyim"
 
 #: data/gtk/window.blp:353 data/gtk/window.blp:615 lexi/enums.py:78
 msgid "Clause"
-msgstr ""
+msgstr "Cümlecik"
 
 #: data/gtk/window.blp:362 data/gtk/window.blp:624 lexi/enums.py:79
 msgid "Prefix"
-msgstr ""
+msgstr "Önek"
 
 #: data/gtk/window.blp:371 data/gtk/window.blp:633 lexi/enums.py:80
 msgid "Suffix"
-msgstr ""
+msgstr "Sonek"
 
 #: data/gtk/window.blp:381
 msgid "Examples"
-msgstr ""
+msgstr "Örnekler"
 
 #: data/gtk/window.blp:389 data/gtk/window.blp:406
 msgid "Add example"
-msgstr ""
+msgstr "Örnek ekle"
 
 #: data/gtk/window.blp:398 data/gtk/window.blp:814
 msgid "References"
-msgstr ""
+msgstr "Referanslar"
 
 #: data/gtk/window.blp:462
 msgid "Refer a Word"
-msgstr ""
+msgstr "Kelimeye referans ver"
 
 #: data/gtk/window.blp:493
 msgid "Filter by Word Type"
-msgstr ""
+msgstr "Kelime Türüne Göre Filtrele"
 
 #: data/gtk/window.blp:652
 msgid "Reset"
-msgstr ""
+msgstr "Sıfırla"
 
 #: data/gtk/window.blp:665
 msgid "No Lexicons found yet"
-msgstr ""
+msgstr "Henüz hiç sözlük bulunamadı"
 
 #: data/gtk/window.blp:672
 msgid "No Lexicons found"
-msgstr ""
+msgstr "Hiç sözlük bulunamadı"
 
 #: data/gtk/window.blp:673
 msgid "No Lexicons found for this search request"
-msgstr ""
+msgstr "Bu arama sorgusu için hiç sözlük bulunamadı"
 
 #: data/gtk/window.blp:680
 msgid "No Words found yet"
-msgstr ""
+msgstr "Henüz hiç kelime bulunamadı"
 
 #: data/gtk/window.blp:687 data/gtk/ui/LexiconRow.blp:32
 msgid "Add Word"
-msgstr ""
+msgstr "Kelime Ekle"
 
 #: data/gtk/window.blp:698
 msgid "No Words found"
-msgstr ""
+msgstr "Hiç kelime bulunamadı"
 
 #: data/gtk/window.blp:699
 msgid "No Words found for this search request"
-msgstr ""
+msgstr "Bu arama sorgusu için hiç kelime bulunamadı"
 
 #: data/gtk/window.blp:704
 msgid "No Lexicon selected"
-msgstr ""
+msgstr "Hiç sözlük seçilmedi"
 
 #: data/gtk/window.blp:705
 msgid "Please select a Lexicon to view its words"
-msgstr ""
+msgstr "Kelimelerini görmek için bir sözlük seçin"
 
 #: data/gtk/window.blp:711
 msgid "Add new Lexicon"
-msgstr ""
+msgstr "Yeni Sözlük Ekle"
 
 #: data/gtk/window.blp:714 data/gtk/ui/LexiconRow.blp:102
 msgid "Name"
-msgstr ""
+msgstr "Ad"
 
 #: data/gtk/window.blp:720 data/gtk/ui/LexiconRow.blp:107
 #: data/gtk/ui/LexiconRow.blp:119 data/gtk/ui/Preferences.blp:50
 msgid "Cancel"
-msgstr ""
+msgstr "İptal"
 
 #: data/gtk/window.blp:721
 msgid "Add"
-msgstr ""
+msgstr "Ekle"
 
 #: data/gtk/window.blp:733 data/gtk/ui/Preferences.blp:6
 msgid "General"
-msgstr ""
+msgstr "Genel"
 
 #: data/gtk/window.blp:736
 msgid "Quit"
-msgstr ""
+msgstr "Çıkış"
 
 #: data/gtk/window.blp:741
 msgid "Search words"
-msgstr ""
+msgstr "Kelimeleri ara"
 
 #: data/gtk/window.blp:746
 msgid "Show filter dialog"
-msgstr ""
+msgstr "Filtre iletişim kutusunu göster"
 
 #: data/gtk/window.blp:751
 msgid "Show preferences"
-msgstr ""
+msgstr "Tercihleri göster"
 
 #: data/gtk/window.blp:756 data/gtk/window.blp:780
 msgid "Keybindings"
-msgstr ""
+msgstr "Kısayol tuşları"
 
 #: data/gtk/window.blp:767 data/gtk/ui/Preferences.blp:10
 msgid "Editing"
-msgstr ""
+msgstr "Düzenleme"
 
 #: data/gtk/window.blp:770
 msgid "Add new word"
-msgstr ""
+msgstr "Yeni kelime ekle"
 
 #: data/gtk/window.blp:779
 msgid "Preferences"
-msgstr ""
+msgstr "Tercihler"
 
 #: data/gtk/window.blp:781
 msgid "About"
-msgstr ""
+msgstr "Hakkında"
 
 #: data/gtk/window.blp:788
 msgid "Ascending"
-msgstr ""
+msgstr "Artan"
 
 #: data/gtk/window.blp:794
 msgid "Descending"
-msgstr ""
+msgstr "Azalan"
 
 #: data/gtk/window.blp:808
 msgid "First Translation"
-msgstr ""
+msgstr "İlk Çeviri"
 
 #: data/gtk/ui/LexiconRow.blp:63 lexi/ui/widgets.py:309 lexi/ui/widgets.py:480
 msgid "Translation"
-msgstr ""
+msgstr "Çeviri"
 
 #: data/gtk/ui/LexiconRow.blp:68 lexi/ui/widgets.py:310 lexi/ui/widgets.py:482
 msgid "Example"
-msgstr ""
+msgstr "Örnek"
 
 #: data/gtk/ui/LexiconRow.blp:98
 msgid "Rename this Lexicon"
-msgstr ""
+msgstr "Bu Sözlüğü Yeniden Adlandır"
 
 #: data/gtk/ui/LexiconRow.blp:108 data/gtk/ui/LexiconRow.blp:126
 msgid "Rename"
-msgstr ""
+msgstr "Yeniden Adlandır"
 
 #: data/gtk/ui/LexiconRow.blp:114
 msgid "Delete this Lexicon?"
-msgstr ""
+msgstr "Bu Sözlüğü Sil?"
 
 #: data/gtk/ui/LexiconRow.blp:120 data/gtk/ui/LexiconRow.blp:127
 msgid "Delete"
-msgstr ""
+msgstr "Sil"
 
 #: data/gtk/ui/Preferences.blp:13
 msgid "Automatically save word on change"
-msgstr ""
+msgstr "Değişiklik yapıldığında otomatik kaydet"
 
 #: data/gtk/ui/Preferences.blp:19
 msgid "Backup"
-msgstr ""
+msgstr "Yedekle"
 
 #: data/gtk/ui/Preferences.blp:27
 msgid "Export Database"
-msgstr ""
+msgstr "Veritabanını Dışa Aktar"
 
 #: data/gtk/ui/Preferences.blp:33
 msgid "Import Database"
-msgstr ""
+msgstr "Veritabanını İçe Aktar"
 
 #: data/gtk/ui/Preferences.blp:43
 msgid "Import Database?"
-msgstr ""
+msgstr "Veritabanını İçe Aktar?"
 
 #: data/gtk/ui/Preferences.blp:44
 msgid "Importing database will ERASE the existing one!"
-msgstr ""
+msgstr "Veritabanını içe aktarmak mevcut olanı SİLECEK!"
 
 #: data/gtk/ui/Preferences.blp:51
 msgid "Import"
-msgstr ""
+msgstr "İçe Aktar"
 
 #: data/gtk/ui/ReferenceRow.blp:14
 msgid "Delete this reference"
-msgstr ""
+msgstr "Bu referansı sil"
 
 #: data/gtk/ui/WordRow.blp:15
 msgid "Selection check button"
-msgstr ""
+msgstr "Seçim onay düğmesi"
 
 #. Translators: The app name is untranslatable. Just rewrite it on your language
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:7
 #: data/io.github.dzheremi2.lexi.desktop.in:4
 msgid "Lexi"
-msgstr ""
+msgstr "Lexi"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:8
 #: data/io.github.dzheremi2.lexi.desktop.in:5
 msgid "Build your own dictionary"
-msgstr ""
+msgstr "Kendi sözlüğünü oluştur"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:10
 msgid ""
 "Lexi is a self-driven dictionary app for those who want to make their "
 "language learning (or creating) structured and easy"
 msgstr ""
+"Lexi, dil öğrenmeyi (veya oluşturmayı) düzenli ve kolay hale getirmek "
+"isteyenler için kendi kendine çalışan bir sözlük uygulamasıdır."
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:11
 msgid "You can give words:"
-msgstr ""
+msgstr "Kelime verebilirsiniz:"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:13
 msgid "Word itself"
-msgstr ""
+msgstr "Kelimenin kendisi"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:15
 msgid "Multiple translations"
-msgstr ""
+msgstr "Birden fazla çeviri"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:16
 msgid "Word types e.g. Noun, Verb, Adjective e.t.c"
-msgstr ""
+msgstr "Kelime türleri örneğin: İsim, Fiil, Sıfat vb."
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:17
 msgid "Multiple examples"
-msgstr ""
+msgstr "Birden fazla örnek"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:18
 msgid "References to other words"
-msgstr ""
+msgstr "Diğer kelimelere referanslar"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:54
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:70
 msgid "Main window"
-msgstr ""
+msgstr "Ana pencere"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:58
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:74
 msgid "Word type filter dialog"
-msgstr ""
+msgstr "Kelime türü filtreleme penceresi"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:62
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:78
 msgid "Main window with words sorted by reference count"
-msgstr ""
+msgstr "Referans sayısına göre sıralanmış kelimelerle ana pencere"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:66
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:82
 msgid "Main window on smaller display"
-msgstr ""
+msgstr "Küçük ekranlı ana pencere"
 
 #. Translators: Search terms to find this application. Please, do NOT delete original english keywords, just add yuor language translations to them. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
 #: data/io.github.dzheremi2.lexi.desktop.in:12
 msgid "dict;dictionary;word;words;lexi;lexicon;lexicons;"
-msgstr ""
+msgstr "dict;dictionary;word;words;lexi;lexicon;lexicons;"
 
 #. Translators: Add Your Name, Your Name <your.email@example.com>, or Your Name https://your-site.com for it to show up in the About dialog. PLEASE, DON'T DELETE PREVIOUS TRANSLATORS CREDITS AND SEPARATE YOURSELF BY NEWLINE `\n` METASYMBOL
 #: lexi/main.py:129
 msgid "translator-credits"
-msgstr ""
+msgstr "Ufuayk"
 
 #: lexi/main.py:132
 msgid "Inspiration"
-msgstr ""
+msgstr "İlham kaynağı"
 
 #: lexi/main.py:136
 msgid "Bug Reporters"
-msgstr ""
+msgstr "Hata Bildirenler"
 
 #. Translators: This is the name of the another app https://flathub.org/apps/io.github.dzheremi2.lrcmake-gtk
 #: lexi/main.py:141
 msgid "Chronograph"
-msgstr ""
+msgstr "Kronograf"
 
 #. Translators: This is the summary of the another app https://flathub.org/apps/io.github.dzheremi2.lrcmake-gtk
 #: lexi/main.py:143
 msgid "Sync lyrics of your loved songs"
-msgstr ""
+msgstr "Sevdiğiniz şarkıların sözlerini senkronize edin"
 
 #: lexi/window.py:128
 msgid "Word autosave is enabled"
-msgstr ""
+msgstr "Kelime oto-kaydetme etkinleştirildi"
 
 #: lexi/window.py:525
 msgid "You have already referenced all words"
-msgstr ""
+msgstr "Zaten tüm kelimelere referans verdiniz"
 
 #: lexi/window.py:709
 msgid "Word saved"
-msgstr ""
+msgstr "Kelime kaydedildi"
 
 #: lexi/ui/widgets.py:276 lexi/ui/widgets.py:453 lexi/ui/widgets.py:457
 msgid "No translation yet"
-msgstr ""
+msgstr "Henüz çeviri yok"
 
 #. Translators: DO NOT TRANSLATE TEXT WITHIN CURLY BRACKETS AND BRACKETS ITSELF
 #: lexi/utils/backup.py:37
 #, python-brace-format
 msgid "Backup exported successfully: {path}"
-msgstr ""
+msgstr "Yedekleme başarıyla dışa aktarıldı: {path}"
 
 #: lexi/utils/backup.py:38
 msgid "Open"
-msgstr ""
+msgstr "Aç"
 
 #: lexi/utils/backup.py:66
 msgid "Database imported successfully"
-msgstr ""
+msgstr "Veritabanı başarıyla içe aktarıldı"
 
 #: lexi/utils/backup.py:85 lexi/utils/backup.py:123
 msgid "Incorrect Archive!"
-msgstr ""
+msgstr "Yanlış Arşiv!"
 
 #: lexi/utils/backup.py:85
 msgid "Why?"
-msgstr ""
+msgstr "Neden?"
 
 #: lexi/utils/backup.py:125
 msgid ""
 "This archive seems to be incorrect, since it wasn't passed proof of content "
 "challenge: no config.yaml file and/or lexicons folder inside"
 msgstr ""
+"Bu arşiv geçerli görünmüyor çünkü içerik doğrulama testi geçmedi: config.yaml dosyası "
+"veya lexicons klasörü eksik."
 
 #: lexi/utils/backup.py:128
 msgid "Close"
-msgstr ""
+msgstr "Kapat"
