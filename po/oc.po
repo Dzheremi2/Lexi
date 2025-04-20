@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Lexi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-19 15:01+0300\n"
-"PO-Revision-Date: 2025-04-19 05:12+0000\n"
+"PO-Revision-Date: 2025-04-20 16:05+0000\n"
 "Last-Translator: Quentin PAGÈS <quentinantonin@free.fr>\n"
 "Language-Team: Occitan <https://hosted.weblate.org/projects/lexi/lexi/oc/>\n"
 "Language: oc\n"
@@ -444,23 +444,23 @@ msgstr "Cap de traduccion pel moment"
 #: lexi/utils/backup.py:37
 #, python-brace-format
 msgid "Backup exported successfully: {path}"
-msgstr ""
+msgstr "Salvagarda corrèctament exportada : {path}"
 
 #: lexi/utils/backup.py:38
 msgid "Open"
-msgstr ""
+msgstr "Dobrir"
 
 #: lexi/utils/backup.py:66
 msgid "Database imported successfully"
-msgstr ""
+msgstr "Basa de donadas importada amb succès"
 
 #: lexi/utils/backup.py:85 lexi/utils/backup.py:123
 msgid "Incorrect Archive!"
-msgstr ""
+msgstr "Archius incorrècts !"
 
 #: lexi/utils/backup.py:85
 msgid "Why?"
-msgstr ""
+msgstr "Perqué ?"
 
 #: lexi/utils/backup.py:125
 msgid ""
@@ -470,7 +470,7 @@ msgstr ""
 
 #: lexi/utils/backup.py:128
 msgid "Close"
-msgstr ""
+msgstr "Tampar"
 
 #~ msgid "Lexicon name"
 #~ msgstr "Nom del lexic"
