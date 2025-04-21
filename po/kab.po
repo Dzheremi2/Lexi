@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Lexi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-19 15:01+0300\n"
-"PO-Revision-Date: 2025-04-16 22:01+0000\n"
+"PO-Revision-Date: 2025-04-21 22:01+0000\n"
 "Last-Translator: ButterflyOfFire <boffire@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Kabyle <https://hosted.weblate.org/projects/lexi/lexi/kab/>\n"
 "Language: kab\n"
@@ -211,7 +211,7 @@ msgstr "Rnu asegzawal"
 
 #: data/gtk/window.blp:714 data/gtk/ui/LexiconRow.blp:102
 msgid "Name"
-msgstr ""
+msgstr "Isem"
 
 #: data/gtk/window.blp:720 data/gtk/ui/LexiconRow.blp:107
 #: data/gtk/ui/LexiconRow.blp:119 data/gtk/ui/Preferences.blp:50
@@ -220,7 +220,7 @@ msgstr "Semmet"
 
 #: data/gtk/window.blp:721
 msgid "Add"
-msgstr ""
+msgstr "Rnu"
 
 #: data/gtk/window.blp:733 data/gtk/ui/Preferences.blp:6
 msgid "General"
@@ -240,7 +240,7 @@ msgstr "Sken-d imsizdigen"
 
 #: data/gtk/window.blp:751
 msgid "Show preferences"
-msgstr ""
+msgstr "Sken-d ismenyifen"
 
 #: data/gtk/window.blp:756 data/gtk/window.blp:780
 msgid "Keybindings"
@@ -305,19 +305,19 @@ msgstr "Sekles awalen s wudem awurman ma yella-d usnifel"
 
 #: data/gtk/ui/Preferences.blp:19
 msgid "Backup"
-msgstr ""
+msgstr "Aḥraz"
 
 #: data/gtk/ui/Preferences.blp:27
 msgid "Export Database"
-msgstr ""
+msgstr "Sifeḍ azadur n yisefka"
 
 #: data/gtk/ui/Preferences.blp:33
 msgid "Import Database"
-msgstr ""
+msgstr "Kter azadur n isefka"
 
 #: data/gtk/ui/Preferences.blp:43
 msgid "Import Database?"
-msgstr ""
+msgstr "Kter azadur n isefka?"
 
 #: data/gtk/ui/Preferences.blp:44
 msgid "Importing database will ERASE the existing one!"
@@ -325,7 +325,7 @@ msgstr ""
 
 #: data/gtk/ui/Preferences.blp:51
 msgid "Import"
-msgstr ""
+msgstr "Kter"
 
 #: data/gtk/ui/ReferenceRow.blp:14
 msgid "Delete this reference"
@@ -452,7 +452,7 @@ msgstr ""
 
 #: lexi/utils/backup.py:38
 msgid "Open"
-msgstr ""
+msgstr "Ldi"
 
 #: lexi/utils/backup.py:66
 msgid "Database imported successfully"
@@ -464,7 +464,7 @@ msgstr ""
 
 #: lexi/utils/backup.py:85
 msgid "Why?"
-msgstr ""
+msgstr "Ayɣeṛ?"
 
 #: lexi/utils/backup.py:125
 msgid ""
@@ -474,7 +474,7 @@ msgstr ""
 
 #: lexi/utils/backup.py:128
 msgid "Close"
-msgstr ""
+msgstr "Mdel"
 
 #~ msgid "Lexicon name"
 #~ msgstr "Isem n umawal"
