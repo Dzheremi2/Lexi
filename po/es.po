@@ -19,452 +19,455 @@ msgstr ""
 
 #: data/gtk/window.blp:36
 msgid "Lexicons"
-msgstr ""
+msgstr "Léxicos"
 
 #: data/gtk/window.blp:47 data/gtk/window.blp:761
 msgid "Toggle sidebar"
-msgstr ""
+msgstr "Barra lateral"
 
 #: data/gtk/window.blp:52
 msgid "Find Lexicon"
-msgstr ""
+msgstr "Buscar léxico"
 
 #: data/gtk/window.blp:62
 msgid "Add Lexicon"
-msgstr ""
+msgstr "Agregar léxico"
 
 #: data/gtk/window.blp:67
 msgid "App menu"
-msgstr ""
+msgstr "Menú"
 
 #: data/gtk/window.blp:80
 msgid "Search…"
-msgstr ""
+msgstr "Buscar..."
 
 #: data/gtk/window.blp:127
 msgid "Sort by…"
-msgstr ""
+msgstr "Ordenar por..."
 
 #: data/gtk/window.blp:134
 msgid "Filter words by their type"
-msgstr ""
+msgstr "Filtrar palabras por tipo"
 
 #: data/gtk/window.blp:164
 msgid "Select words"
-msgstr ""
+msgstr "Seleccionar palabras"
 
 #: data/gtk/window.blp:176
 msgid "Delete selected words"
-msgstr ""
+msgstr "Eliminar las palabras seleccionadas"
 
 #: data/gtk/window.blp:186
 msgid "Find a word"
-msgstr ""
+msgstr "Buscar una palabra"
 
 #: data/gtk/window.blp:192 data/gtk/ui/LexiconRow.blp:79
 msgid "Add word"
-msgstr ""
+msgstr "Agregar palabra"
 
 #: data/gtk/window.blp:204 data/gtk/window.blp:230 data/gtk/window.blp:802
 #: data/gtk/ui/LexiconRow.blp:57 lexi/ui/widgets.py:329 lexi/ui/widgets.py:330
 #: lexi/ui/widgets.py:499 lexi/ui/widgets.py:549 lexi/ui/widgets.py:550
 msgid "Word"
-msgstr ""
+msgstr "Palabra"
 
 #: data/gtk/window.blp:211
 msgid "Save"
-msgstr ""
+msgstr "Guardar"
 
 #: data/gtk/window.blp:236 data/io.github.dzheremi2.lexi.metainfo.xml.in:14
 msgid "Pronunciation"
-msgstr ""
+msgstr "Pronunciación"
 
 #: data/gtk/window.blp:242
 msgid "Translations"
-msgstr ""
+msgstr "Traducción"
 
 #: data/gtk/window.blp:250
 msgid "Add translation"
-msgstr ""
+msgstr "Agregar traducción"
 
 #: data/gtk/window.blp:259
 msgid "Word Type"
-msgstr ""
+msgstr "Tipo de palabra"
 
 #: data/gtk/window.blp:263 data/gtk/window.blp:525 lexi/enums.py:68
 msgid "Noun"
-msgstr ""
+msgstr "Sustantivo"
 
 #: data/gtk/window.blp:272 data/gtk/window.blp:534 lexi/enums.py:69
 msgid "Verb"
-msgstr ""
+msgstr "Verbo"
 
 #: data/gtk/window.blp:281 data/gtk/window.blp:543 lexi/enums.py:70
 msgid "Adjective"
-msgstr ""
+msgstr "Adjetivo"
 
 #: data/gtk/window.blp:290 data/gtk/window.blp:552 lexi/enums.py:71
 msgid "Adverb"
-msgstr ""
+msgstr "Adverbio"
 
 #: data/gtk/window.blp:299 data/gtk/window.blp:561 lexi/enums.py:72
 msgid "Pronoun"
-msgstr ""
+msgstr "Pronombre"
 
 #: data/gtk/window.blp:308 data/gtk/window.blp:570 lexi/enums.py:73
 msgid "Preposition"
-msgstr ""
+msgstr "Preposición"
 
 #: data/gtk/window.blp:317 data/gtk/window.blp:579 lexi/enums.py:74
 msgid "Conjunction"
-msgstr ""
+msgstr "Conjunción"
 
 #: data/gtk/window.blp:326 data/gtk/window.blp:588 lexi/enums.py:75
 msgid "Interjection"
-msgstr ""
+msgstr "Interjección"
 
 #: data/gtk/window.blp:335 data/gtk/window.blp:597 lexi/enums.py:76
 msgid "Article"
-msgstr ""
+msgstr "Articulo"
 
 #: data/gtk/window.blp:344 data/gtk/window.blp:606 lexi/enums.py:77
 msgid "Idiom"
-msgstr ""
+msgstr "Modismo"
 
 #: data/gtk/window.blp:353 data/gtk/window.blp:615 lexi/enums.py:78
 msgid "Clause"
-msgstr ""
+msgstr "Cláusula"
 
 #: data/gtk/window.blp:362 data/gtk/window.blp:624 lexi/enums.py:79
 msgid "Prefix"
-msgstr ""
+msgstr "Prefijo"
 
 #: data/gtk/window.blp:371 data/gtk/window.blp:633 lexi/enums.py:80
 msgid "Suffix"
-msgstr ""
+msgstr "Sufijo"
 
 #: data/gtk/window.blp:381
 msgid "Examples"
-msgstr ""
+msgstr "Ejemplos"
 
 #: data/gtk/window.blp:389 data/gtk/window.blp:406
 msgid "Add example"
-msgstr ""
+msgstr "Agregra ejemplo"
 
 #: data/gtk/window.blp:398 data/gtk/window.blp:814
 msgid "References"
-msgstr ""
+msgstr "Referencias"
 
 #: data/gtk/window.blp:462
 msgid "Refer a Word"
-msgstr ""
+msgstr "Referenciar una palabra"
 
 #: data/gtk/window.blp:493
 msgid "Filter by Word Type"
-msgstr ""
+msgstr "Filtrar por tipo de palabra"
 
 #: data/gtk/window.blp:652
 msgid "Reset"
-msgstr ""
+msgstr "Reiniciar"
 
 #: data/gtk/window.blp:665
 msgid "No Lexicons found yet"
-msgstr ""
+msgstr "No se han encontrado léxicos aún"
 
 #: data/gtk/window.blp:672
 msgid "No Lexicons found"
-msgstr ""
+msgstr "No se encontraron léxicos"
 
 #: data/gtk/window.blp:673
 msgid "No Lexicons found for this search request"
-msgstr ""
+msgstr "No se encontraron léxicos para esta búsqueda"
 
 #: data/gtk/window.blp:680
 msgid "No Words found yet"
-msgstr ""
+msgstr "No se han encontrado palabras aún"
 
 #: data/gtk/window.blp:687 data/gtk/ui/LexiconRow.blp:32
 msgid "Add Word"
-msgstr ""
+msgstr "Agregar palabra"
 
 #: data/gtk/window.blp:698
 msgid "No Words found"
-msgstr ""
+msgstr "No se encontraron palabras"
 
 #: data/gtk/window.blp:699
 msgid "No Words found for this search request"
-msgstr ""
+msgstr "No se encontraron palabras en esta búsqueda"
 
 #: data/gtk/window.blp:704
 msgid "No Lexicon selected"
-msgstr ""
+msgstr "Léxicos no seleccionados"
 
 #: data/gtk/window.blp:705
 msgid "Please select a Lexicon to view its words"
-msgstr ""
+msgstr "Por favor selecciona un léxico para ver las palabras"
 
 #: data/gtk/window.blp:711
 msgid "Add new Lexicon"
-msgstr ""
+msgstr "Agregar nuevo léxico"
 
 #: data/gtk/window.blp:714 data/gtk/ui/LexiconRow.blp:102
 msgid "Name"
-msgstr ""
+msgstr "Nombre"
 
 #: data/gtk/window.blp:720 data/gtk/ui/LexiconRow.blp:107
 #: data/gtk/ui/LexiconRow.blp:119 data/gtk/ui/Preferences.blp:50
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 #: data/gtk/window.blp:721
 msgid "Add"
-msgstr ""
+msgstr "Agregar"
 
 #: data/gtk/window.blp:733 data/gtk/ui/Preferences.blp:6
 msgid "General"
-msgstr ""
+msgstr "General"
 
 #: data/gtk/window.blp:736
 msgid "Quit"
-msgstr ""
+msgstr "Cerrar"
 
 #: data/gtk/window.blp:741
 msgid "Search words"
-msgstr ""
+msgstr "Buscar palabras"
 
 #: data/gtk/window.blp:746
 msgid "Show filter dialog"
-msgstr ""
+msgstr "Mostrar diálogo de filtro"
 
 #: data/gtk/window.blp:751
 msgid "Show preferences"
-msgstr ""
+msgstr "Mostrar ajustes"
 
 #: data/gtk/window.blp:756 data/gtk/window.blp:780
 msgid "Keybindings"
-msgstr ""
+msgstr "Atajos de teclado"
 
 #: data/gtk/window.blp:767 data/gtk/ui/Preferences.blp:10
 msgid "Editing"
-msgstr ""
+msgstr "Editar"
 
 #: data/gtk/window.blp:770
 msgid "Add new word"
-msgstr ""
+msgstr "Agregar nueva palabra"
 
 #: data/gtk/window.blp:779
 msgid "Preferences"
-msgstr ""
+msgstr "Ajustes"
 
 #: data/gtk/window.blp:781
 msgid "About"
-msgstr ""
+msgstr "Acerca de"
 
 #: data/gtk/window.blp:788
 msgid "Ascending"
-msgstr ""
+msgstr "Ascendente"
 
 #: data/gtk/window.blp:794
 msgid "Descending"
-msgstr ""
+msgstr "Descendente"
 
 #: data/gtk/window.blp:808
 msgid "First Translation"
-msgstr ""
+msgstr "Primera traducción"
 
 #: data/gtk/ui/LexiconRow.blp:63 lexi/ui/widgets.py:309 lexi/ui/widgets.py:480
 msgid "Translation"
-msgstr ""
+msgstr "Traducción"
 
 #: data/gtk/ui/LexiconRow.blp:68 lexi/ui/widgets.py:310 lexi/ui/widgets.py:482
 msgid "Example"
-msgstr ""
+msgstr "Ejemplo"
 
 #: data/gtk/ui/LexiconRow.blp:98
 msgid "Rename this Lexicon"
-msgstr ""
+msgstr "Renombrar léxico"
 
 #: data/gtk/ui/LexiconRow.blp:108 data/gtk/ui/LexiconRow.blp:126
 msgid "Rename"
-msgstr ""
+msgstr "Renombrar"
 
 #: data/gtk/ui/LexiconRow.blp:114
 msgid "Delete this Lexicon?"
-msgstr ""
+msgstr "¿Eliminar léxico?"
 
 #: data/gtk/ui/LexiconRow.blp:120 data/gtk/ui/LexiconRow.blp:127
 msgid "Delete"
-msgstr ""
+msgstr "Eliminar"
 
 #: data/gtk/ui/Preferences.blp:13
 msgid "Automatically save word on change"
-msgstr ""
+msgstr "Guardar palabra automáticamente al cambiar"
 
 #: data/gtk/ui/Preferences.blp:19
 msgid "Backup"
-msgstr ""
+msgstr "Respaldo"
 
 #: data/gtk/ui/Preferences.blp:27
 msgid "Export Database"
-msgstr ""
+msgstr "Exportar base de datos"
 
 #: data/gtk/ui/Preferences.blp:33
 msgid "Import Database"
-msgstr ""
+msgstr "Importar base de datos"
 
 #: data/gtk/ui/Preferences.blp:43
 msgid "Import Database?"
-msgstr ""
+msgstr "¿Importar base datos?"
 
 #: data/gtk/ui/Preferences.blp:44
 msgid "Importing database will ERASE the existing one!"
-msgstr ""
+msgstr "¡Importar la base de datos BORRARÁ la existente!"
 
 #: data/gtk/ui/Preferences.blp:51
 msgid "Import"
-msgstr ""
+msgstr "Importar"
 
 #: data/gtk/ui/ReferenceRow.blp:14
 msgid "Delete this reference"
-msgstr ""
+msgstr "Eliminar referencia"
 
 #: data/gtk/ui/WordRow.blp:15
 msgid "Selection check button"
-msgstr ""
+msgstr "Botón de selección"
 
 #. Translators: The app name is untranslatable. Just rewrite it on your language
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:7
 #: data/io.github.dzheremi2.lexi.desktop.in:4
 msgid "Lexi"
-msgstr ""
+msgstr "Lexi"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:8
 #: data/io.github.dzheremi2.lexi.desktop.in:5
 msgid "Build your own dictionary"
-msgstr ""
+msgstr "Construye tu propio diccionario"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:10
 msgid ""
 "Lexi is a self-driven dictionary app for those who want to make their "
 "language learning (or creating) structured and easy"
-msgstr ""
+msgstr "Lexi es una aplicación de diccionario autodidacta para aquellos que desean hacer que su "
+"aprendizaje (o creación) de idiomas sea estructurado y fácil"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:11
 msgid "You can give words:"
-msgstr ""
+msgstr "Puedes agregar palabras"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:13
 msgid "Word itself"
-msgstr ""
+msgstr "Palabra tal cual"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:15
 msgid "Multiple translations"
-msgstr ""
+msgstr "Múltiples traducciones"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:16
 msgid "Word types e.g. Noun, Verb, Adjective e.t.c"
-msgstr ""
+msgstr "Tipos de palabras, por ejemplo, Sustantivo, Verbo, Adjetivo, etc."
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:17
 msgid "Multiple examples"
-msgstr ""
+msgstr "Múltiples ejemplos"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:18
 msgid "References to other words"
-msgstr ""
+msgstr "Referencias a otras palabras"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:54
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:70
 msgid "Main window"
-msgstr ""
+msgstr "Ventana principal"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:58
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:74
 msgid "Word type filter dialog"
-msgstr ""
+msgstr "Diálogo de filtro de tipo de palabra"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:62
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:78
 msgid "Main window with words sorted by reference count"
-msgstr ""
+msgstr "Ventana principal con las palabras ordenadas por el recuento de referencias"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:66
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:82
 msgid "Main window on smaller display"
-msgstr ""
+msgstr "Ventana principal en pantalla más pequeña"
 
 #. Translators: Search terms to find this application. Please, do NOT delete original english keywords, just add yuor language translations to them. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
 #: data/io.github.dzheremi2.lexi.desktop.in:12
 msgid "dict;dictionary;word;words;lexi;lexicon;lexicons;"
 msgstr ""
+"dict;dictionary;word;words;lexi;lexicon;lexicons;diccionario;palabra;léxico;"
 
 #. Translators: Add Your Name, Your Name <your.email@example.com>, or Your Name https://your-site.com for it to show up in the About dialog. PLEASE, DON'T DELETE PREVIOUS TRANSLATORS CREDITS AND SEPARATE YOURSELF BY NEWLINE `\n` METASYMBOL
 #: lexi/main.py:129
 msgid "translator-credits"
-msgstr ""
+msgstr "Oscar Aragón <ozkar.codes@gmail.com>"
 
 #: lexi/main.py:132
 msgid "Inspiration"
-msgstr ""
+msgstr "Inspiración"
 
 #: lexi/main.py:136
 msgid "Bug Reporters"
-msgstr ""
+msgstr "Reportadores de errores"
 
 #. Translators: This is the name of the another app https://flathub.org/apps/io.github.dzheremi2.lrcmake-gtk
 #: lexi/main.py:141
 msgid "Chronograph"
-msgstr ""
+msgstr "Chronograph"
 
 #. Translators: This is the summary of the another app https://flathub.org/apps/io.github.dzheremi2.lrcmake-gtk
 #: lexi/main.py:143
 msgid "Sync lyrics of your loved songs"
-msgstr ""
+msgstr "Sincroniza las letras de tus canciones favoritas"
 
 #: lexi/window.py:128
 msgid "Word autosave is enabled"
-msgstr ""
+msgstr "El autoguardado de palabras está activado"
 
 #: lexi/window.py:525
 msgid "You have already referenced all words"
-msgstr ""
+msgstr "Ya ha referenciado todas las palabras"
 
 #: lexi/window.py:709
 msgid "Word saved"
-msgstr ""
+msgstr "Palabra guardada"
 
 #: lexi/ui/widgets.py:276 lexi/ui/widgets.py:453 lexi/ui/widgets.py:457
 msgid "No translation yet"
-msgstr ""
+msgstr "No hay traducción"
 
 #. Translators: DO NOT TRANSLATE TEXT WITHIN CURLY BRACKETS AND BRACKETS ITSELF
 #: lexi/utils/backup.py:37
 #, python-brace-format
 msgid "Backup exported successfully: {path}"
-msgstr ""
+msgstr "Respaldo exportado correctamente: {path}"
 
 #: lexi/utils/backup.py:38
 msgid "Open"
-msgstr ""
+msgstr "Abrir"
 
 #: lexi/utils/backup.py:66
 msgid "Database imported successfully"
-msgstr ""
+msgstr "Base de datos importada correctamente"
 
 #: lexi/utils/backup.py:85 lexi/utils/backup.py:123
 msgid "Incorrect Archive!"
-msgstr ""
+msgstr "¡Archivo incorrecto!"
 
 #: lexi/utils/backup.py:85
 msgid "Why?"
-msgstr ""
+msgstr "¿Por qué?"
 
 #: lexi/utils/backup.py:125
 msgid ""
 "This archive seems to be incorrect, since it wasn't passed proof of content "
 "challenge: no config.yaml file and/or lexicons folder inside"
-msgstr ""
+msgstr "Este archivo parece ser incorrecto, ya que no se pasó la prueba de contenido: "
+"problema: no se encuentra el archivo config.yaml y/o la carpeta de léxicos dentro"
 
 #: lexi/utils/backup.py:128
 msgid "Close"
-msgstr ""
+msgstr "Cerrar"
