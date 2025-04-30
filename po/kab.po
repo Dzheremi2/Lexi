@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Lexi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-30 19:52+0300\n"
-"PO-Revision-Date: 2025-04-21 22:01+0000\n"
+"PO-Revision-Date: 2025-05-01 01:01+0000\n"
 "Last-Translator: ButterflyOfFire <boffire@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Kabyle <https://hosted.weblate.org/projects/lexi/lexi/kab/>\n"
 "Language: kab\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.11.1-dev\n"
+"X-Generator: Weblate 5.12-dev\n"
 
 #: data/gtk/window.blp:36
 msgid "Lexicons"
@@ -47,7 +47,6 @@ msgid "Sort by…"
 msgstr "Smizzwer s…"
 
 #: data/gtk/window.blp:134
-#, fuzzy
 msgid "Filter words by types"
 msgstr "Sizdeg awalen s wanaw-nsen"
 
@@ -176,9 +175,8 @@ msgid "Please select a Lexicon to view its words"
 msgstr "Ttxil-k·m fren amawal akken ad twaliḍ awalen-is, ma ulac aɣilif"
 
 #: data/gtk/window.blp:520
-#, fuzzy
 msgid "Add new Lexicon"
-msgstr "Rnu asegzawal"
+msgstr "Rnu asegzawal amaynut"
 
 #: data/gtk/window.blp:523 data/gtk/ui/LexiconRow.blp:102
 msgid "Name"
@@ -255,9 +253,8 @@ msgid "Example"
 msgstr "Amedya"
 
 #: data/gtk/ui/LexiconRow.blp:98
-#, fuzzy
 msgid "Rename this Lexicon"
-msgstr "Tebɣiḍ ad tekkseḍ amawal-a?"
+msgstr "Snifel isem n umawal-a"
 
 #: data/gtk/ui/LexiconRow.blp:108 data/gtk/ui/LexiconRow.blp:126
 msgid "Rename"
@@ -277,7 +274,7 @@ msgstr "Sekles awalen s wudem awurman ma yella-d usnifel"
 
 #: data/gtk/ui/Preferences.blp:19
 msgid "Debug"
-msgstr ""
+msgstr "Aseɣti"
 
 #: data/gtk/ui/Preferences.blp:22
 msgid "Use Debug logging profile"
@@ -296,13 +293,12 @@ msgid "Import Database"
 msgstr "Kter azadur n isefka"
 
 #: data/gtk/ui/Preferences.blp:51
-#, fuzzy
 msgid "Word Types"
-msgstr "Anaw n wawal"
+msgstr "Anawen n wawal"
 
 #: data/gtk/ui/Preferences.blp:57
 msgid "Write new word type name here…"
-msgstr ""
+msgstr "Aru isem amaynut n wanaw n wawal da…"
 
 #: data/gtk/ui/Preferences.blp:82
 msgid "Import Database?"
@@ -321,9 +317,8 @@ msgid "Delete this reference"
 msgstr "Kkes aɣbalu-a"
 
 #: data/gtk/ui/WordRow.blp:56
-#, fuzzy
 msgid "Add new tag"
-msgstr "Rnu awal amaynut"
+msgstr "Rnu tabzimt tamaynut"
 
 #: data/gtk/ui/WordRow.blp:69
 msgid "Selection check button"
@@ -331,7 +326,7 @@ msgstr ""
 
 #: data/gtk/ui/WordRow.blp:92
 msgid "Add Tag"
-msgstr ""
+msgstr "Rnu tabzimt"
 
 #: data/gtk/ui/WordRow.blp:93
 msgid ""
@@ -341,7 +336,7 @@ msgstr ""
 
 #: data/gtk/ui/WordRow.blp:98
 msgid "Tag…"
-msgstr ""
+msgstr "Tabzimt…"
 
 #. Translators: The app name is untranslatable. Just rewrite it on your language
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:7
@@ -562,9 +557,8 @@ msgid ""
 msgstr ""
 
 #: lexi/utils/backup.py:164
-#, fuzzy
 msgid "Exit Lexi"
-msgstr "Lexi"
+msgstr "Ffeɣ seg Lexi"
 
 #~ msgid "Lexicon name"
 #~ msgstr "Isem n umawal"
