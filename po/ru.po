@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Lexi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-04 17:22+0300\n"
-"PO-Revision-Date: 2025-05-01 01:01+0000\n"
+"PO-Revision-Date: 2025-05-04 21:03+0000\n"
 "Last-Translator: Артём Чичваров <chichvarov1315@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/lexi/lexi/ru/>\n"
 "Language: ru\n"
@@ -82,7 +82,7 @@ msgstr ""
 "Основанный на теге: Запрос начинается с “#”, содержит имя тега ПОЛНОСТЬЮ и "
 "не содержит запроса, основанного на слове\n"
 "Например, “#basic#family”, “#basic #suffixes”\n"
-"НО НЕ: “#family mom” or “#famil”"
+"НО НЕ: “#family mom” или “#famil”"
 
 #: data/gtk/window.blp:194 data/gtk/ui/LexiconRow.blp:79
 msgid "Add word"
@@ -346,7 +346,7 @@ msgstr ""
 
 #: data/gtk/ui/WordRow.blp:98
 msgid "Tag…"
-msgstr "Тэг…"
+msgstr "Тег…"
 
 #. Translators: The app name is untranslatable. Just rewrite it on your language
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:7
