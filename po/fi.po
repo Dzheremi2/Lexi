@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Lexi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-04 17:22+0300\n"
-"PO-Revision-Date: 2025-04-19 19:05+0000\n"
+"PO-Revision-Date: 2025-05-04 21:03+0000\n"
 "Last-Translator: Jiri Grönroos <jiri.gronroos@iki.fi>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/lexi/lexi/fi/>\n"
 "Language: fi\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.1-dev\n"
+"X-Generator: Weblate 5.12-dev\n"
 
 #: data/gtk/window.blp:36
 msgid "Lexicons"
@@ -47,9 +47,8 @@ msgid "Sort by…"
 msgstr "Järjestä…"
 
 #: data/gtk/window.blp:134
-#, fuzzy
 msgid "Filter words by types"
-msgstr "Suodata sanoja niiden tyypin mukaan"
+msgstr "Suodata sanoja tyypin mukaan"
 
 #: data/gtk/window.blp:164
 msgid "Select words"
@@ -107,7 +106,7 @@ msgstr "Sanatyyppi"
 
 #: data/gtk/window.blp:270
 msgid "Assign word type"
-msgstr ""
+msgstr "Määritä sanatyyppi"
 
 #: data/gtk/window.blp:279
 msgid "Examples"
@@ -126,9 +125,8 @@ msgid "Refer a Word"
 msgstr "Viittaa sanaa"
 
 #: data/gtk/window.blp:391
-#, fuzzy
 msgid "Assign Word Type"
-msgstr "Sanatyyppi"
+msgstr "Määritä sanatyyppi"
 
 #: data/gtk/window.blp:422
 msgid "Filter by Word Type"
@@ -275,11 +273,11 @@ msgstr "Tallenna sana automaattisesti sen muuttuessa"
 
 #: data/gtk/ui/Preferences.blp:19
 msgid "Debug"
-msgstr ""
+msgstr "Vianjäljitys"
 
 #: data/gtk/ui/Preferences.blp:22
 msgid "Use Debug logging profile"
-msgstr ""
+msgstr "Käytä vianjäljityksen lokitusprofiilia"
 
 #: data/gtk/ui/Preferences.blp:28
 msgid "Backup"
@@ -294,13 +292,12 @@ msgid "Import Database"
 msgstr "Tuo tietokanta"
 
 #: data/gtk/ui/Preferences.blp:51
-#, fuzzy
 msgid "Word Types"
-msgstr "Sanatyyppi"
+msgstr "Sanatyypit"
 
 #: data/gtk/ui/Preferences.blp:57
 msgid "Write new word type name here…"
-msgstr ""
+msgstr "Kirjoita uusi sanatyypin nimi tähän…"
 
 #: data/gtk/ui/Preferences.blp:82
 msgid "Import Database?"
@@ -319,9 +316,8 @@ msgid "Delete this reference"
 msgstr "Poista tämä viittaus"
 
 #: data/gtk/ui/WordRow.blp:56
-#, fuzzy
 msgid "Add new tag"
-msgstr "Lisää uusi sana"
+msgstr "Lisää uusi tunniste"
 
 #: data/gtk/ui/WordRow.blp:69
 msgid "Selection check button"
@@ -329,7 +325,7 @@ msgstr ""
 
 #: data/gtk/ui/WordRow.blp:92
 msgid "Add Tag"
-msgstr ""
+msgstr "Lisää tunniste"
 
 #: data/gtk/ui/WordRow.blp:93
 msgid ""
@@ -339,7 +335,7 @@ msgstr ""
 
 #: data/gtk/ui/WordRow.blp:98
 msgid "Tag…"
-msgstr ""
+msgstr "Tunniste…"
 
 #. Translators: The app name is untranslatable. Just rewrite it on your language
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:7
@@ -504,13 +500,12 @@ msgid ""
 msgstr ""
 
 #: lexi/ui/Preferences.py:78
-#, fuzzy
 msgid "No word types created yet"
-msgstr "Sanoja ei löytynyt vielä"
+msgstr "Sanatyyppejä ei ole vielä luotu"
 
 #: lexi/ui/Preferences.py:79
 msgid "Add a new word type to get started"
-msgstr ""
+msgstr "Lisää uusi sanatyyppi aloittaaksesi"
 
 #. Translators: DO NOT TRANSLATE TEXT WITHIN CURLY BRACKETS AND BRACKETS ITSELF
 #: lexi/utils/backup.py:43
@@ -555,9 +550,8 @@ msgid ""
 msgstr ""
 
 #: lexi/utils/backup.py:165
-#, fuzzy
 msgid "Exit Lexi"
-msgstr "Lexi"
+msgstr "Lopeta Lexi"
 
 #~ msgid "Main window with words sorted by reference count"
 #~ msgstr "Pääikkuna, jossa sanat järjestetty viittausten määrän mukaan"
