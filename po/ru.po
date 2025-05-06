@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Lexi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-06 17:08+0300\n"
-"PO-Revision-Date: 2025-05-04 21:03+0000\n"
+"PO-Revision-Date: 2025-05-06 21:01+0000\n"
 "Last-Translator: Артём Чичваров <chichvarov1315@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/lexi/lexi/ru/>\n"
 "Language: ru\n"
@@ -289,9 +289,8 @@ msgid "Use Debug logging profile"
 msgstr "Использовать отладочный профиль журналирования"
 
 #: data/gtk/ui/Preferences.blp:28
-#, fuzzy
 msgid "Database"
-msgstr "Экспорт базы данных"
+msgstr "База данных"
 
 #: data/gtk/ui/Preferences.blp:33
 msgid "Backup"
@@ -306,17 +305,18 @@ msgid "Import Database"
 msgstr "Импорт базы данных"
 
 #: data/gtk/ui/Preferences.blp:51
-#, fuzzy
 msgid "Export"
-msgstr "Импортировать"
+msgstr "Экспорт"
 
 #: data/gtk/ui/Preferences.blp:55
 msgid "Export to Memorado"
-msgstr ""
+msgstr "Экспортировать в Memorado"
 
 #: data/gtk/ui/Preferences.blp:56
 msgid "Export Lexi database as Memorado compatible database"
 msgstr ""
+"Экспортировать базу данных Lexi в формат, совместимый с базами данных "
+"Memorado"
 
 #: data/gtk/ui/Preferences.blp:63
 msgid "Word Types"
@@ -494,7 +494,7 @@ msgstr "Вдохновение"
 
 #: lexi/main.py:159
 msgid "Advisers"
-msgstr ""
+msgstr "Советчики"
 
 #. Translators: This is the name of the another app https://flathub.org/apps/io.github.dzheremi2.lrcmake-gtk
 #: lexi/main.py:168
@@ -590,9 +590,9 @@ msgstr "Выйти из Lexi"
 
 #. Translators: DO NOT TRANSLATE TEXT WITHIN CURLY BRACKETS AND BRACKETS ITSELF. Memorado is the name of the other app and SHOULDN'T be translated
 #: lexi/utils/backup.py:237
-#, fuzzy, python-brace-format
+#, python-brace-format
 msgid "Memorado database exported successfully: {path}"
-msgstr "Резервная копия сохранена успешно: {path}"
+msgstr "База данных Memorado экспортирована успешно: {path}"
 
 #~ msgid "Bug Reporters"
 #~ msgstr "Создатели отчётов об ошибках"
