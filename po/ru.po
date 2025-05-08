@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Lexi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-09 02:32+0300\n"
-"PO-Revision-Date: 2025-05-06 21:01+0000\n"
+"PO-Revision-Date: 2025-05-09 06:03+0000\n"
 "Last-Translator: Артём Чичваров <chichvarov1315@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/lexi/lexi/ru/>\n"
 "Language: ru\n"
@@ -126,9 +126,8 @@ msgid "References"
 msgstr "Ссылки"
 
 #: data/gtk/window.blp:300
-#, fuzzy
 msgid "Add reference"
-msgstr "Настройки"
+msgstr "Сослаться на…"
 
 #: data/gtk/window.blp:356
 msgid "Refer a Word"
@@ -274,7 +273,7 @@ msgstr "Удалить"
 
 #: data/gtk/ui/Preferences.blp:14
 msgid "Save changes on app exit"
-msgstr ""
+msgstr "Сохранять изменения при выходе из приложения"
 
 #: data/gtk/ui/Preferences.blp:15
 msgid ""
@@ -282,6 +281,9 @@ msgid ""
 "disk accesses\n"
 "May cause data loss"
 msgstr ""
+"Сохраняет изменения только после выхода из приложения, чтобы сократить "
+"количество обращений к диску\n"
+"Может вызвать потерю данных"
 
 #: data/gtk/ui/Preferences.blp:20
 msgid "Debug"
@@ -508,13 +510,12 @@ msgid "You have already referenced all words"
 msgstr "Вы уже сослались на все слова"
 
 #: lexi/window.py:495
-#, fuzzy
 msgid "No word types available"
-msgstr "Типов слова пока не создано"
+msgstr "Нет доступных типов слов"
 
 #: lexi/window.py:495
 msgid "Configure"
-msgstr ""
+msgstr "Настроить"
 
 #: lexi/ui/Preferences.py:183
 msgid "No word types created yet"
