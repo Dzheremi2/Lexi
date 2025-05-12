@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Lexi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-11 10:26+0300\n"
-"PO-Revision-Date: 2025-05-05 11:03+0000\n"
-"Last-Translator: Артём Чичваров <chichvarov1315@gmail.com>\n"
+"PO-Revision-Date: 2025-05-12 10:01+0000\n"
+"Last-Translator: John Peter Sa <johnppetersa@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/lexi/"
 "lexi/pt_BR/>\n"
 "Language: pt_BR\n"
@@ -125,9 +125,8 @@ msgid "References"
 msgstr "Referências"
 
 #: data/gtk/window.blp:300
-#, fuzzy
 msgid "Add reference"
-msgstr "Preferências"
+msgstr "Adicione referência"
 
 #: data/gtk/window.blp:356
 msgid "Refer a Word"
@@ -213,7 +212,7 @@ msgstr "Palavras de pesquisa"
 
 #: data/gtk/window.blp:555
 msgid "Reload words list"
-msgstr ""
+msgstr "Recarregue a lista de palavras"
 
 #: data/gtk/window.blp:560
 msgid "Show preferences"
@@ -277,7 +276,7 @@ msgstr "Excluir"
 
 #: data/gtk/ui/Preferences.blp:14
 msgid "Save changes on app exit"
-msgstr ""
+msgstr "Salvar alterações na saída do aplicativo"
 
 #: data/gtk/ui/Preferences.blp:15
 msgid ""
@@ -285,6 +284,9 @@ msgid ""
 "disk accesses\n"
 "May cause data loss"
 msgstr ""
+"Salve as alterações nos arquivos somente após o encerramento do aplicativo "
+"para reduzir o número de acessos ao disco\n"
+"Pode causar perda de dados"
 
 #: data/gtk/ui/Preferences.blp:20
 msgid "Debug"
@@ -295,9 +297,8 @@ msgid "Use Debug logging profile"
 msgstr "Usar perfil de registro de depuração"
 
 #: data/gtk/ui/Preferences.blp:29
-#, fuzzy
 msgid "Database"
-msgstr "Exportar banco de dados"
+msgstr "Banco de dados"
 
 #: data/gtk/ui/Preferences.blp:34
 msgid "Backup"
@@ -312,17 +313,17 @@ msgid "Import Database"
 msgstr "Importar banco de dados"
 
 #: data/gtk/ui/Preferences.blp:52
-#, fuzzy
 msgid "Export"
-msgstr "Importar"
+msgstr "Exportar"
 
 #: data/gtk/ui/Preferences.blp:56
 msgid "Export to Memorado"
-msgstr ""
+msgstr "Exportar para o memorado"
 
 #: data/gtk/ui/Preferences.blp:57
 msgid "Export Lexi database as Memorado compatible database"
 msgstr ""
+"Exportar banco de dados LEXI como banco de dados compatível com memorado"
 
 #: data/gtk/ui/Preferences.blp:64
 msgid "Word Types"
@@ -494,7 +495,7 @@ msgstr "Inspiração"
 
 #: lexi/main.py:163
 msgid "Advisers"
-msgstr ""
+msgstr "Consultores"
 
 #. Translators: This is the name of the another app https://flathub.org/apps/io.github.dzheremi2.lrcmake-gtk
 #: lexi/main.py:172
@@ -511,13 +512,12 @@ msgid "You have already referenced all words"
 msgstr "Você já referenciou todas as palavras"
 
 #: lexi/window.py:498
-#, fuzzy
 msgid "No word types available"
-msgstr "Nenhum tipo de palavra criado ainda"
+msgstr "Nenhum tipo de palavra disponível"
 
 #: lexi/window.py:498
 msgid "Configure"
-msgstr ""
+msgstr "Configure"
 
 #: lexi/ui/Preferences.py:183
 msgid "No word types created yet"
@@ -595,9 +595,9 @@ msgstr "Saída Lexi"
 
 #. Translators: DO NOT TRANSLATE TEXT WITHIN CURLY BRACKETS AND BRACKETS ITSELF. Memorado is the name of the other app and SHOULDN'T be translated
 #: lexi/utils/backup.py:236
-#, fuzzy, python-brace-format
+#, python-brace-format
 msgid "Memorado database exported successfully: {path}"
-msgstr "Backup exportado com sucesso: {path}"
+msgstr "Banco de dados Memorado Exportado com sucesso: {path}"
 
 #~ msgid "Save"
 #~ msgstr "Salvar"
