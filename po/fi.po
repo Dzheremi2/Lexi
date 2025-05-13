@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Lexi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-11 10:26+0300\n"
-"PO-Revision-Date: 2025-05-04 21:03+0000\n"
+"PO-Revision-Date: 2025-05-13 22:02+0000\n"
 "Last-Translator: Jiri Grönroos <jiri.gronroos@iki.fi>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/lexi/lexi/fi/>\n"
 "Language: fi\n"
@@ -116,9 +116,8 @@ msgid "References"
 msgstr "Viittaukset"
 
 #: data/gtk/window.blp:300
-#, fuzzy
 msgid "Add reference"
-msgstr "Asetukset"
+msgstr "Lisää viittaus"
 
 #: data/gtk/window.blp:356
 msgid "Refer a Word"
@@ -133,9 +132,8 @@ msgid "Filter by Word Type"
 msgstr "Suodata sanatyypin mukaan"
 
 #: data/gtk/window.blp:457
-#, fuzzy
 msgid "Reset All"
-msgstr "Nollaa"
+msgstr "Nollaa kaikki"
 
 #: data/gtk/window.blp:470
 msgid "No Lexicons found yet"
@@ -205,7 +203,7 @@ msgstr "Etsi sanoja"
 
 #: data/gtk/window.blp:555
 msgid "Reload words list"
-msgstr ""
+msgstr "Lataa sanaluettelo uudelleen"
 
 #: data/gtk/window.blp:560
 msgid "Show preferences"
@@ -269,7 +267,7 @@ msgstr "Poista"
 
 #: data/gtk/ui/Preferences.blp:14
 msgid "Save changes on app exit"
-msgstr ""
+msgstr "Tallenna muutoksen kun sovellus suljetaan"
 
 #: data/gtk/ui/Preferences.blp:15
 msgid ""
@@ -277,6 +275,9 @@ msgid ""
 "disk accesses\n"
 "May cause data loss"
 msgstr ""
+"Tallenna muutokset tiedostoihin vasta sovelluksen sulkemisen jälkeen, jotta "
+"levykäyttö on vähäisempää\n"
+"Saattaa johtaa tietojen menetykseen"
 
 #: data/gtk/ui/Preferences.blp:20
 msgid "Debug"
@@ -287,9 +288,8 @@ msgid "Use Debug logging profile"
 msgstr "Käytä vianjäljityksen lokitusprofiilia"
 
 #: data/gtk/ui/Preferences.blp:29
-#, fuzzy
 msgid "Database"
-msgstr "Vie tietokanta"
+msgstr "Tietokanta"
 
 #: data/gtk/ui/Preferences.blp:34
 msgid "Backup"
@@ -304,17 +304,16 @@ msgid "Import Database"
 msgstr "Tuo tietokanta"
 
 #: data/gtk/ui/Preferences.blp:52
-#, fuzzy
 msgid "Export"
-msgstr "Tuo"
+msgstr "Vie"
 
 #: data/gtk/ui/Preferences.blp:56
 msgid "Export to Memorado"
-msgstr ""
+msgstr "Vie Memoradoon"
 
 #: data/gtk/ui/Preferences.blp:57
 msgid "Export Lexi database as Memorado compatible database"
-msgstr ""
+msgstr "Vie Lexi-tietokanta Memorado-yhteensopivana tietokantana"
 
 #: data/gtk/ui/Preferences.blp:64
 msgid "Word Types"
@@ -501,13 +500,12 @@ msgid "You have already referenced all words"
 msgstr "Olet jo viitannut kaikki sanat"
 
 #: lexi/window.py:498
-#, fuzzy
 msgid "No word types available"
-msgstr "Sanatyyppejä ei ole vielä luotu"
+msgstr "Sanatyyppejä ei ole saatavilla"
 
 #: lexi/window.py:498
 msgid "Configure"
-msgstr ""
+msgstr "Määritä"
 
 #: lexi/ui/Preferences.py:183
 msgid "No word types created yet"
@@ -579,9 +577,9 @@ msgstr "Lopeta Lexi"
 
 #. Translators: DO NOT TRANSLATE TEXT WITHIN CURLY BRACKETS AND BRACKETS ITSELF. Memorado is the name of the other app and SHOULDN'T be translated
 #: lexi/utils/backup.py:236
-#, fuzzy, python-brace-format
+#, python-brace-format
 msgid "Memorado database exported successfully: {path}"
-msgstr "Varmuuskopio viety onnistuneesti: {path}"
+msgstr "Memorado-tietokanta viety onnistuneesti: {path}"
 
 #~ msgid "Save"
 #~ msgstr "Tallenna"
