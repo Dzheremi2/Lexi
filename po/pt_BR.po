@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Lexi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-11 10:26+0300\n"
-"PO-Revision-Date: 2025-05-12 10:01+0000\n"
+"PO-Revision-Date: 2025-05-14 12:01+0000\n"
 "Last-Translator: John Peter Sa <johnppetersa@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/lexi/"
 "lexi/pt_BR/>\n"
@@ -74,14 +74,14 @@ msgid ""
 "E.g. “#basic#family”, “#basic #suffixes”\n"
 "BUT NOT: “#family mom” or “#famil”"
 msgstr ""
-"Sintaxe da consulta:\n"
-"Baseada em palavras: Apenas a palavra ou sua tradução\n"
-"Ex.: \"Mãe\", \"Pai\"\n"
+"Sintaxe de consulta:\n"
+"Baseada em palavras: Apenas uma palavra ou sua tradução\n"
+"Por exemplo, “mamãe”, “papai”.\n"
 "\n"
-"Baseada em tags: A consulta começa com \"#\", contém o nome da tag "
+"Baseada em tag: A consulta começa com “#”, contém o nome da tag "
 "COMPLETAMENTE e não contém consulta baseada em palavras\n"
-"Ex.: \"#básico#família\", \"#sufixos #básicos\"\n"
-"MAS NÃO: \"#família mãe\" ou \"#famil\""
+"Por exemplo, “#basic#family”, “#basic #suffixes”\n"
+"MAS NÃO: “#family mom” ou ”#famil”"
 
 #: data/gtk/window.blp:199 data/gtk/ui/LexiconRow.blp:77
 msgid "Add word"
@@ -212,7 +212,7 @@ msgstr "Palavras de pesquisa"
 
 #: data/gtk/window.blp:555
 msgid "Reload words list"
-msgstr "Recarregue a lista de palavras"
+msgstr "Recarregar a lista de palavras"
 
 #: data/gtk/window.blp:560
 msgid "Show preferences"
@@ -276,7 +276,7 @@ msgstr "Excluir"
 
 #: data/gtk/ui/Preferences.blp:14
 msgid "Save changes on app exit"
-msgstr "Salvar alterações na saída do aplicativo"
+msgstr "Salvar alterações ao sair do aplicativo"
 
 #: data/gtk/ui/Preferences.blp:15
 msgid ""
@@ -318,12 +318,13 @@ msgstr "Exportar"
 
 #: data/gtk/ui/Preferences.blp:56
 msgid "Export to Memorado"
-msgstr "Exportar para o memorado"
+msgstr "Exportar para o Memorado"
 
 #: data/gtk/ui/Preferences.blp:57
 msgid "Export Lexi database as Memorado compatible database"
 msgstr ""
-"Exportar banco de dados LEXI como banco de dados compatível com memorado"
+"Exportar o banco de dados Lexi como um banco de dados compatível com o "
+"Memorado"
 
 #: data/gtk/ui/Preferences.blp:64
 msgid "Word Types"
