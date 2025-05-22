@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Lexi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-11 10:26+0300\n"
-"PO-Revision-Date: 2025-04-21 09:01+0000\n"
+"PO-Revision-Date: 2025-05-22 16:01+0000\n"
 "Last-Translator: Quentin PAGÈS <quentinantonin@free.fr>\n"
 "Language-Team: Occitan <https://hosted.weblate.org/projects/lexi/lexi/oc/>\n"
 "Language: oc\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.11.1-dev\n"
+"X-Generator: Weblate 5.12-dev\n"
 
 #: data/gtk/window.blp:36
 msgid "Lexicons"
@@ -47,9 +47,8 @@ msgid "Sort by…"
 msgstr "Triar per…"
 
 #: data/gtk/window.blp:134
-#, fuzzy
 msgid "Filter words by types"
-msgstr "Filtrar los mots per lor tipe"
+msgstr "Filtrar los mots per tipe"
 
 #: data/gtk/window.blp:167
 msgid "Select words"
@@ -102,7 +101,7 @@ msgstr "Tipe de mot"
 
 #: data/gtk/window.blp:266
 msgid "Assign word type"
-msgstr ""
+msgstr "Atribuir un tipe al mot"
 
 #: data/gtk/window.blp:275
 msgid "Examples"
@@ -117,27 +116,24 @@ msgid "References"
 msgstr "Referéncias"
 
 #: data/gtk/window.blp:300
-#, fuzzy
 msgid "Add reference"
-msgstr "Preferéncias"
+msgstr "Apondre una referéncia"
 
 #: data/gtk/window.blp:356
 msgid "Refer a Word"
 msgstr "Referenciar un mot"
 
 #: data/gtk/window.blp:387
-#, fuzzy
 msgid "Assign Word Type"
-msgstr "Tipe de mot"
+msgstr "Atribuir un tipe de mot"
 
 #: data/gtk/window.blp:418
 msgid "Filter by Word Type"
 msgstr "Filtrar per tipe de mot"
 
 #: data/gtk/window.blp:457
-#, fuzzy
 msgid "Reset All"
-msgstr "Reïnicializar"
+msgstr "Tot reïnicializar"
 
 #: data/gtk/window.blp:470
 msgid "No Lexicons found yet"
@@ -207,7 +203,7 @@ msgstr "Cercar de mots"
 
 #: data/gtk/window.blp:555
 msgid "Reload words list"
-msgstr ""
+msgstr "Recargar la lista de mots"
 
 #: data/gtk/window.blp:560
 msgid "Show preferences"
@@ -271,7 +267,7 @@ msgstr "Suprimir"
 
 #: data/gtk/ui/Preferences.blp:14
 msgid "Save changes on app exit"
-msgstr ""
+msgstr "Enregistrar las modificacions en quitant"
 
 #: data/gtk/ui/Preferences.blp:15
 msgid ""
@@ -289,9 +285,8 @@ msgid "Use Debug logging profile"
 msgstr ""
 
 #: data/gtk/ui/Preferences.blp:29
-#, fuzzy
 msgid "Database"
-msgstr "Exportar la basa de donadas"
+msgstr "Basa de donadas"
 
 #: data/gtk/ui/Preferences.blp:34
 msgid "Backup"
@@ -306,22 +301,20 @@ msgid "Import Database"
 msgstr "Importar la basa de donadas"
 
 #: data/gtk/ui/Preferences.blp:52
-#, fuzzy
 msgid "Export"
-msgstr "Importar"
+msgstr "Exportar"
 
 #: data/gtk/ui/Preferences.blp:56
 msgid "Export to Memorado"
-msgstr ""
+msgstr "Exportar per Memorada"
 
 #: data/gtk/ui/Preferences.blp:57
 msgid "Export Lexi database as Memorado compatible database"
 msgstr ""
 
 #: data/gtk/ui/Preferences.blp:64
-#, fuzzy
 msgid "Word Types"
-msgstr "Tipe de mot"
+msgstr "Tipes de mot"
 
 #: data/gtk/ui/Preferences.blp:70
 msgid "Write new word type name here…"
@@ -340,9 +333,8 @@ msgid "Import"
 msgstr "Importar"
 
 #: data/gtk/ui/WordRow.blp:54
-#, fuzzy
 msgid "Add new tag"
-msgstr "Apondre un mot novèl"
+msgstr "Apondre una etiqueta novèla"
 
 #: data/gtk/ui/WordRow.blp:67
 msgid "Selection check button"
@@ -350,7 +342,7 @@ msgstr "Boton de contraròtle de la seleccion"
 
 #: data/gtk/ui/WordRow.blp:90
 msgid "Add Tag"
-msgstr ""
+msgstr "Apondre etiqueta"
 
 #: data/gtk/ui/WordRow.blp:91
 msgid ""
@@ -360,7 +352,7 @@ msgstr ""
 
 #: data/gtk/ui/WordRow.blp:96
 msgid "Tag…"
-msgstr ""
+msgstr "Etiqueta…"
 
 #. Translators: The app name is untranslatable. Just rewrite it on your language
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:7
@@ -511,7 +503,7 @@ msgstr "Cap de mot pel moment"
 
 #: lexi/window.py:498
 msgid "Configure"
-msgstr ""
+msgstr "Configurar"
 
 #: lexi/ui/Preferences.py:183
 #, fuzzy
@@ -581,9 +573,8 @@ msgid ""
 msgstr ""
 
 #: lexi/utils/backup.py:167
-#, fuzzy
 msgid "Exit Lexi"
-msgstr "Lexi"
+msgstr "Quitar Lexi"
 
 #. Translators: DO NOT TRANSLATE TEXT WITHIN CURLY BRACKETS AND BRACKETS ITSELF. Memorado is the name of the other app and SHOULDN'T be translated
 #: lexi/utils/backup.py:236
