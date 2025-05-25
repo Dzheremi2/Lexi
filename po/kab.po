@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Lexi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-11 10:26+0300\n"
-"PO-Revision-Date: 2025-05-10 20:01+0000\n"
+"PO-Revision-Date: 2025-05-25 18:03+0000\n"
 "Last-Translator: ButterflyOfFire <boffire@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Kabyle <https://hosted.weblate.org/projects/lexi/lexi/kab/>\n"
 "Language: kab\n"
@@ -206,7 +206,7 @@ msgstr "Nadi ɣef wawalen"
 
 #: data/gtk/window.blp:555
 msgid "Reload words list"
-msgstr ""
+msgstr "Ales aɛebbi n tebdart n wawalen"
 
 #: data/gtk/window.blp:560
 msgid "Show preferences"
@@ -288,9 +288,8 @@ msgid "Use Debug logging profile"
 msgstr ""
 
 #: data/gtk/ui/Preferences.blp:29
-#, fuzzy
 msgid "Database"
-msgstr "Sifeḍ azadur n yisefka"
+msgstr "Taffa n isefka"
 
 #: data/gtk/ui/Preferences.blp:34
 msgid "Backup"
@@ -305,9 +304,8 @@ msgid "Import Database"
 msgstr "Kter azadur n isefka"
 
 #: data/gtk/ui/Preferences.blp:52
-#, fuzzy
 msgid "Export"
-msgstr "Kter"
+msgstr "Sifeḍ"
 
 #: data/gtk/ui/Preferences.blp:56
 msgid "Export to Memorado"
@@ -331,7 +329,7 @@ msgstr "Kter azadur n isefka?"
 
 #: data/gtk/ui/Preferences.blp:96
 msgid "Importing database will ERASE the existing one!"
-msgstr ""
+msgstr "Akter n taffa n yisefka ad yekkes akk ayen yellan yakan!"
 
 #: data/gtk/ui/Preferences.blp:103
 msgid "Import"
