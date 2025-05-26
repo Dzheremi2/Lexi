@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Lexi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-11 10:26+0300\n"
-"PO-Revision-Date: 2025-05-22 16:01+0000\n"
+"PO-Revision-Date: 2025-05-26 11:01+0000\n"
 "Last-Translator: Quentin PAGÈS <quentinantonin@free.fr>\n"
 "Language-Team: Occitan <https://hosted.weblate.org/projects/lexi/lexi/oc/>\n"
 "Language: oc\n"
@@ -275,14 +275,17 @@ msgid ""
 "disk accesses\n"
 "May cause data loss"
 msgstr ""
+"Enregistrar las modificacions dels fichièrs sonque aprèp un periòde de temps "
+"aprèp la sortida per limitar los accèsses disc.\n"
+"Pòt menar a de pèrda de donadas"
 
 #: data/gtk/ui/Preferences.blp:20
 msgid "Debug"
-msgstr ""
+msgstr "Desbugatge"
 
 #: data/gtk/ui/Preferences.blp:23
 msgid "Use Debug logging profile"
-msgstr ""
+msgstr "Utilizar lo perfil de desbugatge"
 
 #: data/gtk/ui/Preferences.blp:29
 msgid "Database"
@@ -311,6 +314,7 @@ msgstr "Exportar per Memorada"
 #: data/gtk/ui/Preferences.blp:57
 msgid "Export Lexi database as Memorado compatible database"
 msgstr ""
+"Exportar la basa de donadas de Lexi coma basa de donadas compatibla Memorado"
 
 #: data/gtk/ui/Preferences.blp:64
 msgid "Word Types"
@@ -318,7 +322,7 @@ msgstr "Tipes de mot"
 
 #: data/gtk/ui/Preferences.blp:70
 msgid "Write new word type name here…"
-msgstr ""
+msgstr "Picar lo nom del tipe de mot novèl aicí…"
 
 #: data/gtk/ui/Preferences.blp:95
 msgid "Import Database?"
@@ -497,22 +501,20 @@ msgid "You have already referenced all words"
 msgstr "Avètz ja referenciat totes los mots"
 
 #: lexi/window.py:498
-#, fuzzy
 msgid "No word types available"
-msgstr "Cap de mot pel moment"
+msgstr "Cap de tipe de mot pas disponible"
 
 #: lexi/window.py:498
 msgid "Configure"
 msgstr "Configurar"
 
 #: lexi/ui/Preferences.py:183
-#, fuzzy
 msgid "No word types created yet"
-msgstr "Cap de mot pel moment"
+msgstr "Cap de mot pas creat pel moment"
 
 #: lexi/ui/Preferences.py:184
 msgid "Add a new word type to get started"
-msgstr ""
+msgstr "Apondre un tipe de mot novèl per començar"
 
 #: lexi/ui/ReferenceRow.py:21 lexi/ui/TypeRow.py:20
 msgid "Delete this reference"
@@ -564,13 +566,16 @@ msgstr "Tampar"
 
 #: lexi/utils/backup.py:162
 msgid "Database Version Mismatch!"
-msgstr ""
+msgstr "Version de basa de donadas desparelhadas !"
 
 #: lexi/utils/backup.py:164
 msgid ""
 "The database version in the archive does not match the current version of "
 "Lexi. Please, restart Lexi after importing this database."
 msgstr ""
+"La version de la basa de donadas dins lo fichièr correspond pas a la version "
+"actuala de Lexi. Mercés de reaviar Lexi aprèp l'importacion d’aquesta basa "
+"de donadas."
 
 #: lexi/utils/backup.py:167
 msgid "Exit Lexi"
@@ -578,9 +583,9 @@ msgstr "Quitar Lexi"
 
 #. Translators: DO NOT TRANSLATE TEXT WITHIN CURLY BRACKETS AND BRACKETS ITSELF. Memorado is the name of the other app and SHOULDN'T be translated
 #: lexi/utils/backup.py:236
-#, fuzzy, python-brace-format
+#, python-brace-format
 msgid "Memorado database exported successfully: {path}"
-msgstr "Salvagarda corrèctament exportada : {path}"
+msgstr "Basa de donadas Memorado corrèctament exportada : {path}"
 
 #~ msgid "Save"
 #~ msgstr "Enregistrar"
