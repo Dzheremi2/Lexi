@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Lexi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-11 10:26+0300\n"
-"PO-Revision-Date: 2025-05-13 22:02+0000\n"
+"PO-Revision-Date: 2025-05-18 21:02+0000\n"
 "Last-Translator: Jiri Grönroos <jiri.gronroos@iki.fi>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/lexi/lexi/fi/>\n"
 "Language: fi\n"
@@ -267,7 +267,7 @@ msgstr "Poista"
 
 #: data/gtk/ui/Preferences.blp:14
 msgid "Save changes on app exit"
-msgstr "Tallenna muutoksen kun sovellus suljetaan"
+msgstr "Tallenna muutokset kun sovellus suljetaan"
 
 #: data/gtk/ui/Preferences.blp:15
 msgid ""
