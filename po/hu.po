@@ -8,58 +8,60 @@ msgstr ""
 "Project-Id-Version: Lexi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-11 10:26+0300\n"
-"PO-Revision-Date: 2025-01-07 23:55+0300\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-07-27 00:26+0000\n"
+"Last-Translator: rdbende <rdbende@proton.me>\n"
+"Language-Team: Hungarian <https://hosted.weblate.org/projects/lexi/lexi/hu/>"
+"\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #: data/gtk/window.blp:36
 msgid "Lexicons"
-msgstr ""
+msgstr "Lexikonok"
 
 #: data/gtk/window.blp:47 data/gtk/window.blp:545
 msgid "Toggle sidebar"
-msgstr ""
+msgstr "Oldalsáv"
 
 #: data/gtk/window.blp:52
 msgid "Find Lexicon"
-msgstr ""
+msgstr "Lexikon keresése"
 
 #: data/gtk/window.blp:62
 msgid "Add Lexicon"
-msgstr ""
+msgstr "Lexikon hozzáadása"
 
 #: data/gtk/window.blp:67
 msgid "App menu"
-msgstr ""
+msgstr "Menü megnyitása"
 
 #: data/gtk/window.blp:80
 msgid "Search…"
-msgstr ""
+msgstr "Keresés…"
 
 #: data/gtk/window.blp:127
 msgid "Sort by…"
-msgstr ""
+msgstr "Rendezés…"
 
 #: data/gtk/window.blp:134
 msgid "Filter words by types"
-msgstr ""
+msgstr "Szavak szűrése típus alapján"
 
 #: data/gtk/window.blp:167
 msgid "Select words"
-msgstr ""
+msgstr "Szavak kiválasztása"
 
 #: data/gtk/window.blp:180
 msgid "Delete selected words"
-msgstr ""
+msgstr "Kiválasztott szavak törlése"
 
 #: data/gtk/window.blp:191
 msgid "Find a word"
-msgstr ""
+msgstr "Szó keresése"
 
 #: data/gtk/window.blp:193
 msgid ""
@@ -72,201 +74,209 @@ msgid ""
 "E.g. “#basic#family”, “#basic #suffixes”\n"
 "BUT NOT: “#family mom” or “#famil”"
 msgstr ""
+"Keresés formája:\n"
+"Szó alapú: CSak egy szó, vagy fordítása\n"
+"Pl.: „Anya“, és „Apa“\n"
+"\n"
+"Címke alapú: A keresés „#”-tel kezdődik, tartalmaz egy TELJES címkét, és nem "
+"tartalmaz szó alapú keresést\n"
+"Pl.: „#alap #család”, és „#alap #toldalékok”\n"
+"DE EZ NEM: „#család anya”, vagy „#csalá”"
 
 #: data/gtk/window.blp:199 data/gtk/ui/LexiconRow.blp:77
 msgid "Add word"
-msgstr ""
+msgstr "Szó hozzáadása"
 
 #: data/gtk/window.blp:210 data/gtk/window.blp:228 data/gtk/window.blp:606
 #: data/gtk/ui/LexiconRow.blp:55 lexi/window.py:738
 msgid "Word"
-msgstr ""
+msgstr "Szó"
 
 #: data/gtk/window.blp:234 data/io.github.dzheremi2.lexi.metainfo.xml.in:14
 msgid "Pronunciation"
-msgstr ""
+msgstr "Kiejtés"
 
 #: data/gtk/window.blp:240
 msgid "Translations"
-msgstr ""
+msgstr "Fordítások"
 
 #: data/gtk/window.blp:248
 msgid "Add translation"
-msgstr ""
+msgstr "Fordítás hozzáadása"
 
 #: data/gtk/window.blp:257
 msgid "Word Type"
-msgstr ""
+msgstr "Szófaj"
 
 #: data/gtk/window.blp:266
 msgid "Assign word type"
-msgstr ""
+msgstr "Szófaj hozzárendelése"
 
 #: data/gtk/window.blp:275
 msgid "Examples"
-msgstr ""
+msgstr "Példák"
 
 #: data/gtk/window.blp:283
 msgid "Add example"
-msgstr ""
+msgstr "Példa hozzáadása"
 
 #: data/gtk/window.blp:292 data/gtk/window.blp:618
 msgid "References"
-msgstr ""
+msgstr "Hivatkozások"
 
 #: data/gtk/window.blp:300
 msgid "Add reference"
-msgstr ""
+msgstr "Hivatkozás hozzáadása"
 
 #: data/gtk/window.blp:356
 msgid "Refer a Word"
-msgstr ""
+msgstr "Szó hivatkozása"
 
 #: data/gtk/window.blp:387
 msgid "Assign Word Type"
-msgstr ""
+msgstr "Szófaj hozzárendelése"
 
 #: data/gtk/window.blp:418
 msgid "Filter by Word Type"
-msgstr ""
+msgstr "Szűrés szófaj alapján"
 
 #: data/gtk/window.blp:457
 msgid "Reset All"
-msgstr ""
+msgstr "Mind visszaállítása"
 
 #: data/gtk/window.blp:470
 msgid "No Lexicons found yet"
-msgstr ""
+msgstr "Még nincsenek lexikonok"
 
 #: data/gtk/window.blp:477
 msgid "No Lexicons found"
-msgstr ""
+msgstr "Nincsenek lexikonok"
 
 #: data/gtk/window.blp:478
 msgid "No Lexicons found for this search request"
-msgstr ""
+msgstr "Nincsenek lexikonok ehhez a kereséshez"
 
 #: data/gtk/window.blp:485
 msgid "No Words found yet"
-msgstr ""
+msgstr "Még nincsenek szavak"
 
 #: data/gtk/window.blp:492 data/gtk/ui/LexiconRow.blp:30
 msgid "Add Word"
-msgstr ""
+msgstr "Szó hozzáadása"
 
 #: data/gtk/window.blp:502
 msgid "No Words found"
-msgstr ""
+msgstr "Nincsenek szavak"
 
 #: data/gtk/window.blp:503
 msgid "No Words found for this search request"
-msgstr ""
+msgstr "Nincsenek szavak ehhez a kereséshez"
 
 #: data/gtk/window.blp:508
 msgid "No Lexicon selected"
-msgstr ""
+msgstr "Nincs lexikon kiválasztva"
 
 #: data/gtk/window.blp:509
 msgid "Please select a Lexicon to view its words"
-msgstr ""
+msgstr "Válassz ki egy lexikont a szavainak megtekintéséhez"
 
 #: data/gtk/window.blp:515
 msgid "Add new Lexicon"
-msgstr ""
+msgstr "Lexikon hozzáadása"
 
 #: data/gtk/window.blp:519 data/gtk/ui/LexiconRow.blp:100
 msgid "Name"
-msgstr ""
+msgstr "Név"
 
 #: data/gtk/window.blp:524 data/gtk/ui/LexiconRow.blp:105
 #: data/gtk/ui/LexiconRow.blp:117 data/gtk/ui/Preferences.blp:102
 #: data/gtk/ui/WordRow.blp:102
 msgid "Cancel"
-msgstr ""
+msgstr "Mégsem"
 
 #: data/gtk/window.blp:525 data/gtk/ui/WordRow.blp:103
 msgid "Add"
-msgstr ""
+msgstr "Hozzáadás"
 
 #: data/gtk/window.blp:537 data/gtk/ui/Preferences.blp:7
 msgid "General"
-msgstr ""
+msgstr "Általános"
 
 #: data/gtk/window.blp:540
 msgid "Quit"
-msgstr ""
+msgstr "Kilépés"
 
 #: data/gtk/window.blp:550
 msgid "Search words"
-msgstr ""
+msgstr "Szavak keresése"
 
 #: data/gtk/window.blp:555
 msgid "Reload words list"
-msgstr ""
+msgstr "Szólista újratöltése"
 
 #: data/gtk/window.blp:560
 msgid "Show preferences"
-msgstr ""
+msgstr "Beállítások megnyitása"
 
 #: data/gtk/window.blp:565 data/gtk/window.blp:584
 msgid "Keybindings"
-msgstr ""
+msgstr "Gyorsbillentyűk megnyitása"
 
 #: data/gtk/window.blp:571 data/gtk/ui/Preferences.blp:11
 msgid "Editing"
-msgstr ""
+msgstr "Szerkesztés"
 
 #: data/gtk/window.blp:574
 msgid "Add new word"
-msgstr ""
+msgstr "Szó hozzáadása"
 
 #: data/gtk/window.blp:583
 msgid "Preferences"
-msgstr ""
+msgstr "Beállítások"
 
 #: data/gtk/window.blp:585
 msgid "About"
-msgstr ""
+msgstr "A Lexi névjegye"
 
 #: data/gtk/window.blp:592
 msgid "Ascending"
-msgstr ""
+msgstr "Növekvő"
 
 #: data/gtk/window.blp:598
 msgid "Descending"
-msgstr ""
+msgstr "Csökkenő"
 
 #: data/gtk/window.blp:612
 msgid "First Translation"
-msgstr ""
+msgstr "Első fordítás"
 
 #: data/gtk/ui/LexiconRow.blp:61 lexi/window.py:346 lexi/window.py:521
 msgid "Translation"
-msgstr ""
+msgstr "Fordítás"
 
 #: data/gtk/ui/LexiconRow.blp:66 lexi/window.py:347 lexi/window.py:527
 msgid "Example"
-msgstr ""
+msgstr "Példa"
 
 #: data/gtk/ui/LexiconRow.blp:96
 msgid "Rename this Lexicon"
-msgstr ""
+msgstr "Lexikon átnevezése"
 
 #: data/gtk/ui/LexiconRow.blp:106 data/gtk/ui/LexiconRow.blp:124
 msgid "Rename"
-msgstr ""
+msgstr "Átnevezés"
 
 #: data/gtk/ui/LexiconRow.blp:112
 msgid "Delete this Lexicon?"
-msgstr ""
+msgstr "Törlöd ezt a Lexikont?"
 
 #: data/gtk/ui/LexiconRow.blp:118 data/gtk/ui/LexiconRow.blp:125
 msgid "Delete"
-msgstr ""
+msgstr "Törlés"
 
 #: data/gtk/ui/Preferences.blp:14
 msgid "Save changes on app exit"
-msgstr ""
+msgstr "Változtatások mentése kilépéskor"
 
 #: data/gtk/ui/Preferences.blp:15
 msgid ""
@@ -274,303 +284,319 @@ msgid ""
 "disk accesses\n"
 "May cause data loss"
 msgstr ""
+"A fájlok módosításait csak az alkalmazás bezárásakor mentse, ezzel "
+"csökkentve a lemezírások számát.\n"
+"Adatvesztéshez vezethet"
 
 #: data/gtk/ui/Preferences.blp:20
 msgid "Debug"
-msgstr ""
+msgstr "Hibakeresés"
 
 #: data/gtk/ui/Preferences.blp:23
 msgid "Use Debug logging profile"
-msgstr ""
+msgstr "Hibakeresési naplózási profil használata"
 
 #: data/gtk/ui/Preferences.blp:29
 msgid "Database"
-msgstr ""
+msgstr "Adatbázis"
 
 #: data/gtk/ui/Preferences.blp:34
 msgid "Backup"
-msgstr ""
+msgstr "Biztonsági másolat"
 
 #: data/gtk/ui/Preferences.blp:38
 msgid "Export Database"
-msgstr ""
+msgstr "Adatbázis expotrálása"
 
 #: data/gtk/ui/Preferences.blp:44
 msgid "Import Database"
-msgstr ""
+msgstr "Adatbázis importálása"
 
 #: data/gtk/ui/Preferences.blp:52
 msgid "Export"
-msgstr ""
+msgstr "Exportálás"
 
 #: data/gtk/ui/Preferences.blp:56
 msgid "Export to Memorado"
-msgstr ""
+msgstr "Exportálás a Memoradoba"
 
 #: data/gtk/ui/Preferences.blp:57
 msgid "Export Lexi database as Memorado compatible database"
-msgstr ""
+msgstr "Lexi adatbázis expotrálása a Memoradoval kompatibilis formátumban"
 
 #: data/gtk/ui/Preferences.blp:64
 msgid "Word Types"
-msgstr ""
+msgstr "Szófajok"
 
 #: data/gtk/ui/Preferences.blp:70
 msgid "Write new word type name here…"
-msgstr ""
+msgstr "Ide írd az új szófaj nevét…"
 
 #: data/gtk/ui/Preferences.blp:95
 msgid "Import Database?"
-msgstr ""
+msgstr "Importálod az adatbázist?"
 
 #: data/gtk/ui/Preferences.blp:96
 msgid "Importing database will ERASE the existing one!"
-msgstr ""
+msgstr "Az adatbázis importálása TÖRÖLNI fogja a meglévőt!"
 
 #: data/gtk/ui/Preferences.blp:103
 msgid "Import"
-msgstr ""
+msgstr "Importálás"
 
 #: data/gtk/ui/WordRow.blp:54
 msgid "Add new tag"
-msgstr ""
+msgstr "Címke hozzáadása"
 
 #: data/gtk/ui/WordRow.blp:67
 msgid "Selection check button"
-msgstr ""
+msgstr "Kiválaszás jelölőgomb"
 
 #: data/gtk/ui/WordRow.blp:90
 msgid "Add Tag"
-msgstr ""
+msgstr "Címke hozzáadása"
 
 #: data/gtk/ui/WordRow.blp:91
 msgid ""
 "Type a new tag WITHOUT hashtag prefix and spaces. Existed tag also would be "
 "rejected"
 msgstr ""
+"Írjon be egy új címkét a „#” előtag és szóközök NÉLKÜL. A már létező címkék "
+"is elutasításra kerülnek"
 
 #: data/gtk/ui/WordRow.blp:96
 msgid "Tag…"
-msgstr ""
+msgstr "Címke…"
 
 #. Translators: The app name is untranslatable. Just rewrite it on your language
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:7
 #: data/io.github.dzheremi2.lexi.desktop.in:3
 msgid "Lexi"
-msgstr ""
+msgstr "Lexi"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:8
 #: data/io.github.dzheremi2.lexi.desktop.in:4
 msgid "Build your own dictionary"
-msgstr ""
+msgstr "Állítsd össze a saját szótáradat"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:10
 msgid ""
 "Lexi is a self-driven dictionary app for those who want to make their "
 "language learning (or creating) structured and easy"
 msgstr ""
+"Lexi egy önálló szótáralkalmazás azok számára, akik strukturálttá és "
+"egyszerűvé szeretnék tenni a nyelvtanulást (vagy nyelvteremtést)"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:11
 msgid "You can give words:"
-msgstr ""
+msgstr "Egy szóhoz ezeket adhatod meg:"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:13
 msgid "Word itself"
-msgstr ""
+msgstr "A szót magát"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:15
 msgid "Multiple translations"
-msgstr ""
+msgstr "Több fordítást"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:16
 msgid "Word types e.g. Noun, Verb, Adjective e.t.c"
-msgstr ""
+msgstr "A szófajt, pl.: ige, főnév, melléknév, stb."
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:17
 msgid "Multiple examples"
-msgstr ""
+msgstr "Használati példákat"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:18
 msgid "References to other words"
-msgstr ""
+msgstr "Hivatkozásokat más szavakhoz"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:54
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:66
 msgid "Main window"
-msgstr ""
+msgstr "Főablak"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:58
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:70
 msgid "Word type filter dialog"
-msgstr ""
+msgstr "Szófaj szűrési ablak"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:62
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:74
 msgid "Main window on smaller display"
-msgstr ""
+msgstr "Főablak kisebb kijelzőn"
 
 #. Translators: Search terms to find this application. Please, do NOT delete original english keywords, just add your language translations to them. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
 #: data/io.github.dzheremi2.lexi.desktop.in:11
 msgid "dict;dictionary;word;words;lexi;lexicon;lexicons;"
 msgstr ""
+"dict;dictionary;word;words;lexi;lexicon;lexicons;lexikonok;szótár;szó;szófaj;szavak;"
+""
 
 #: lexi/enums.py:72
 msgid "Noun"
-msgstr ""
+msgstr "Főnév"
 
 #: lexi/enums.py:73
 msgid "Verb"
-msgstr ""
+msgstr "Ige"
 
 #: lexi/enums.py:74
 msgid "Adjective"
-msgstr ""
+msgstr "Melléknév"
 
 #: lexi/enums.py:75
 msgid "Adverb"
-msgstr ""
+msgstr "Határozószó"
 
 #: lexi/enums.py:76
 msgid "Pronoun"
-msgstr ""
+msgstr "Névmás"
 
 #: lexi/enums.py:77
 msgid "Preposition"
-msgstr ""
+msgstr "Elöljárószó"
 
 #: lexi/enums.py:78
 msgid "Conjunction"
-msgstr ""
+msgstr "Kötőszó"
 
 #: lexi/enums.py:79
 msgid "Interjection"
-msgstr ""
+msgstr "Indulatszó"
 
 #: lexi/enums.py:80
 msgid "Article"
-msgstr ""
+msgstr "Névelő"
 
 #: lexi/enums.py:81
 msgid "Idiom"
-msgstr ""
+msgstr "Közmondás"
 
 #: lexi/enums.py:82
 msgid "Clause"
-msgstr ""
+msgstr "Tagmondat"
 
 #: lexi/enums.py:83
 msgid "Prefix"
-msgstr ""
+msgstr "Előtag"
 
 #: lexi/enums.py:84
 msgid "Suffix"
-msgstr ""
+msgstr "Utótag"
 
 #. Translators: Add Your Name, Your Name <your.email@example.com>, or Your Name https://your-site.com for it to show up in the About dialog. PLEASE, DON'T DELETE PREVIOUS TRANSLATORS CREDITS AND SEPARATE YOURSELF BY NEWLINE `\n` METASYMBOL
 #: lexi/main.py:153
 msgid "translator-credits"
-msgstr ""
+msgstr "Benedek Dévényi <rdbende@proton.me>"
 
 #: lexi/main.py:156
 msgid "Inspiration"
-msgstr ""
+msgstr "Inspiráció"
 
 #: lexi/main.py:163
 msgid "Advisers"
-msgstr ""
+msgstr "Tanácsadók"
 
 #. Translators: This is the name of the another app https://flathub.org/apps/io.github.dzheremi2.lrcmake-gtk
 #: lexi/main.py:172
 msgid "Chronograph"
-msgstr ""
+msgstr "Chronograph"
 
 #. Translators: This is the summary of the another app https://flathub.org/apps/io.github.dzheremi2.lrcmake-gtk
 #: lexi/main.py:174
 msgid "Sync lyrics of your loved songs"
-msgstr ""
+msgstr "Szinkronizáld kedvenc dalaid szövegét"
 
 #: lexi/window.py:484
 msgid "You have already referenced all words"
-msgstr ""
+msgstr "Már minden szót hivatkoztál"
 
 #: lexi/window.py:498
 msgid "No word types available"
-msgstr ""
+msgstr "Nincsenek elérhető szófajok"
 
 #: lexi/window.py:498
 msgid "Configure"
-msgstr ""
+msgstr "Beállítás"
 
 #: lexi/ui/Preferences.py:183
 msgid "No word types created yet"
-msgstr ""
+msgstr "Nem hoztál még létre szófajokat"
 
 #: lexi/ui/Preferences.py:184
 msgid "Add a new word type to get started"
-msgstr ""
+msgstr "Kezdésnek adj hozzá egy szófajt"
 
 #: lexi/ui/ReferenceRow.py:21 lexi/ui/TypeRow.py:20
 msgid "Delete this reference"
-msgstr ""
+msgstr "Hivatkozás törlése"
 
 #: lexi/ui/ReferenceRow.py:34 lexi/ui/WordRow.py:39 lexi/ui/WordRow.py:98
 msgid "No translation yet"
-msgstr ""
+msgstr "Még nincsen fordítás"
 
 #: lexi/ui/WordRow.py:133
 msgid ""
 "Click LMB to search words with this tag\n"
 "Click RMB to remove this tag"
 msgstr ""
+"Balklikk erre a címkére való kereséshez\n"
+"Jobbklikk a címke eltávolításához"
 
 #. Translators: DO NOT TRANSLATE TEXT WITHIN CURLY BRACKETS AND BRACKETS ITSELF
 #: lexi/utils/backup.py:46
 #, python-brace-format
 msgid "Backup exported successfully: {path}"
-msgstr ""
+msgstr "Biztonsági másolat sikeresen exportálva: {path}"
 
 #: lexi/utils/backup.py:47 lexi/utils/backup.py:237
 msgid "Open"
-msgstr ""
+msgstr "Megnyitás"
 
 #: lexi/utils/backup.py:75
 msgid "Database imported successfully"
-msgstr ""
+msgstr "Adatbázis sikeresen importálva"
 
 #: lexi/utils/backup.py:101 lexi/utils/backup.py:149
 msgid "Incorrect Archive!"
-msgstr ""
+msgstr "Érvénytelen archívum!"
 
 #: lexi/utils/backup.py:101
 msgid "Why?"
-msgstr ""
+msgstr "Miért?"
 
 #: lexi/utils/backup.py:151
 msgid ""
 "This archive seems to be incorrect, since it wasn't passed proof of content "
 "challenge: no config.yaml file and/or lexicons folder inside"
 msgstr ""
+"Ez az archívum helytelennek tűnik, mivel nem felelt meg a tartalom "
+"ellenőrzésnek: nincs config.yaml fájl és/vagy lexicons mappa benne"
 
 #: lexi/utils/backup.py:154
 msgid "Close"
-msgstr ""
+msgstr "Bezárás"
 
 #: lexi/utils/backup.py:162
 msgid "Database Version Mismatch!"
-msgstr ""
+msgstr "Az adatbázis verziója nem megfelelő!"
 
 #: lexi/utils/backup.py:164
 msgid ""
 "The database version in the archive does not match the current version of "
 "Lexi. Please, restart Lexi after importing this database."
 msgstr ""
+"Az archívumban található adatbázis verziója nem egyezik a Lexi jelenlegi "
+"verziójával. Kérjük, egyből indítsd újra a Lexit az adatbázis importálása "
+"után."
 
 #: lexi/utils/backup.py:167
 msgid "Exit Lexi"
-msgstr ""
+msgstr "Kilépés"
 
 #. Translators: DO NOT TRANSLATE TEXT WITHIN CURLY BRACKETS AND BRACKETS ITSELF. Memorado is the name of the other app and SHOULDN'T be translated
 #: lexi/utils/backup.py:236
 #, python-brace-format
 msgid "Memorado database exported successfully: {path}"
-msgstr ""
+msgstr "Memorado adatbázis sikeresen exportálva: {path}"
