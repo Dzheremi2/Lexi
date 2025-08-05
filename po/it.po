@@ -8,58 +8,59 @@ msgstr ""
 "Project-Id-Version: Lexi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-11 10:26+0300\n"
-"PO-Revision-Date: 2025-01-07 23:55+0300\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-08-05 08:02+0000\n"
+"Last-Translator: Nekothegamer <nekotheggamer@gmail.com>\n"
+"Language-Team: Italian <https://hosted.weblate.org/projects/lexi/lexi/it/>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #: data/gtk/window.blp:36
 msgid "Lexicons"
-msgstr ""
+msgstr "Parole"
 
 #: data/gtk/window.blp:47 data/gtk/window.blp:545
 msgid "Toggle sidebar"
-msgstr ""
+msgstr "Attiva/disattiva barra laterale"
 
 #: data/gtk/window.blp:52
 msgid "Find Lexicon"
-msgstr ""
+msgstr "Trova parola"
 
 #: data/gtk/window.blp:62
 msgid "Add Lexicon"
-msgstr ""
+msgstr "Aggiungi parola"
 
 #: data/gtk/window.blp:67
 msgid "App menu"
-msgstr ""
+msgstr "Menù applicazione"
 
 #: data/gtk/window.blp:80
 msgid "Search…"
-msgstr ""
+msgstr "Cerca…"
 
 #: data/gtk/window.blp:127
 msgid "Sort by…"
-msgstr ""
+msgstr "Ordina per…"
 
 #: data/gtk/window.blp:134
 msgid "Filter words by types"
-msgstr ""
+msgstr "Filtra parole per tipo"
 
 #: data/gtk/window.blp:167
 msgid "Select words"
-msgstr ""
+msgstr "Seleziona parole"
 
 #: data/gtk/window.blp:180
 msgid "Delete selected words"
-msgstr ""
+msgstr "Elimina le parole selezionate"
 
 #: data/gtk/window.blp:191
 msgid "Find a word"
-msgstr ""
+msgstr "Trova una parola"
 
 #: data/gtk/window.blp:193
 msgid ""
@@ -72,75 +73,83 @@ msgid ""
 "E.g. “#basic#family”, “#basic #suffixes”\n"
 "BUT NOT: “#family mom” or “#famil”"
 msgstr ""
+"Sintassi query:\n"
+"Basate sulla parola: soltanto la parola o la traduzione\n"
+"Es. \"Mamma\", \"Papà\"\n"
+"\n"
+"Basate su tag: la query inizia con \"#\", contiene il nome del tag COMPLETO "
+"e non contiene nessuna query basata sulla parola\n"
+"Es, \"#basico#famiglia\", \"#basico #suffissi\"\n"
+"MA NON: \"#famiglia mamma\" o \"#famigl\""
 
 #: data/gtk/window.blp:199 data/gtk/ui/LexiconRow.blp:77
 msgid "Add word"
-msgstr ""
+msgstr "Aggiungi parola"
 
 #: data/gtk/window.blp:210 data/gtk/window.blp:228 data/gtk/window.blp:606
 #: data/gtk/ui/LexiconRow.blp:55 lexi/window.py:738
 msgid "Word"
-msgstr ""
+msgstr "Parola"
 
 #: data/gtk/window.blp:234 data/io.github.dzheremi2.lexi.metainfo.xml.in:14
 msgid "Pronunciation"
-msgstr ""
+msgstr "Pronuncia"
 
 #: data/gtk/window.blp:240
 msgid "Translations"
-msgstr ""
+msgstr "Traduzioni"
 
 #: data/gtk/window.blp:248
 msgid "Add translation"
-msgstr ""
+msgstr "Aggiungi traduzione"
 
 #: data/gtk/window.blp:257
 msgid "Word Type"
-msgstr ""
+msgstr "Tipo di parola"
 
 #: data/gtk/window.blp:266
 msgid "Assign word type"
-msgstr ""
+msgstr "Assegna il tipo di parola"
 
 #: data/gtk/window.blp:275
 msgid "Examples"
-msgstr ""
+msgstr "Esempi"
 
 #: data/gtk/window.blp:283
 msgid "Add example"
-msgstr ""
+msgstr "Aggiungi esempio"
 
 #: data/gtk/window.blp:292 data/gtk/window.blp:618
 msgid "References"
-msgstr ""
+msgstr "Riferimenti"
 
 #: data/gtk/window.blp:300
 msgid "Add reference"
-msgstr ""
+msgstr "Aggiungi riferimento"
 
 #: data/gtk/window.blp:356
 msgid "Refer a Word"
-msgstr ""
+msgstr "Riferisci una parola"
 
 #: data/gtk/window.blp:387
 msgid "Assign Word Type"
-msgstr ""
+msgstr "Assegna tipo di parola"
 
 #: data/gtk/window.blp:418
 msgid "Filter by Word Type"
-msgstr ""
+msgstr "Filtra per tipo di parola"
 
 #: data/gtk/window.blp:457
 msgid "Reset All"
-msgstr ""
+msgstr "Reimposta tutto"
 
 #: data/gtk/window.blp:470
 msgid "No Lexicons found yet"
-msgstr ""
+msgstr "Nessuna parola trovata per ora"
 
 #: data/gtk/window.blp:477
 msgid "No Lexicons found"
-msgstr ""
+msgstr "Nessuna parola trovata"
 
 #: data/gtk/window.blp:478
 msgid "No Lexicons found for this search request"
