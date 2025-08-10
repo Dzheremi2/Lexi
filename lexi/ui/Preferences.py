@@ -21,6 +21,7 @@ class LexiPreferences(Adw.PreferencesDialog):
     available_word_types_scrolled_window: Gtk.ScrolledWindow = gtc()
     available_word_types_list_box: Gtk.ListBox = gtc()
     use_debug_log_switch_row: Adw.SwitchRow = gtc()
+    use_accent_insensitive_search_switch_row: Adw.SwitchRow = gtc()
 
     opened: bool = False
 
@@ -38,6 +39,12 @@ class LexiPreferences(Adw.PreferencesDialog):
         shared.schema.bind(
             "save-on-exit",
             self.save_on_exit_switch_row,
+            "active",
+            Gio.SettingsBindFlags.DEFAULT,
+        )
+        shared.schema.bind(
+            "accent-insensitive-search",
+            self.use_accent_insensitive_search_switch_row,
             "active",
             Gio.SettingsBindFlags.DEFAULT,
         )

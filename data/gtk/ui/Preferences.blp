@@ -23,6 +23,15 @@ template $LexiPreferences : Adw.PreferencesDialog {
         title: _("Use Debug logging profile");
       }
     }
+
+
+    Adw.PreferencesGroup {
+      title: _("Search");
+
+      Adw.SwitchRow use_accent_insensitive_search_row {
+        title: _("Ignore accents when searching for words");
+      }
+    }
   }
 
   Adw.PreferencesPage {
