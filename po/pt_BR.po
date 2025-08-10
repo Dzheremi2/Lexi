@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lexi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-11 10:26+0300\n"
+"POT-Creation-Date: 2025-08-10 21:35+0300\n"
 "PO-Revision-Date: 2025-05-14 12:01+0000\n"
 "Last-Translator: John Peter Sa <johnppetersa@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/lexi/"
@@ -189,7 +189,7 @@ msgid "Name"
 msgstr "Nome"
 
 #: data/gtk/window.blp:524 data/gtk/ui/LexiconRow.blp:105
-#: data/gtk/ui/LexiconRow.blp:117 data/gtk/ui/Preferences.blp:102
+#: data/gtk/ui/LexiconRow.blp:117 data/gtk/ui/Preferences.blp:110
 #: data/gtk/ui/WordRow.blp:102
 msgid "Cancel"
 msgstr "Cancelar"
@@ -289,60 +289,69 @@ msgstr ""
 "Pode causar perda de dados"
 
 #: data/gtk/ui/Preferences.blp:20
+#, fuzzy
+msgid "Search"
+msgstr "Procurar…"
+
+#: data/gtk/ui/Preferences.blp:23
+msgid "Ignore accents when searching for words"
+msgstr ""
+
+#: data/gtk/ui/Preferences.blp:28
 msgid "Debug"
 msgstr "Depurar"
 
-#: data/gtk/ui/Preferences.blp:23
+#: data/gtk/ui/Preferences.blp:31
 msgid "Use Debug logging profile"
 msgstr "Usar perfil de registro de depuração"
 
-#: data/gtk/ui/Preferences.blp:29
+#: data/gtk/ui/Preferences.blp:37
 msgid "Database"
 msgstr "Banco de dados"
 
-#: data/gtk/ui/Preferences.blp:34
+#: data/gtk/ui/Preferences.blp:42
 msgid "Backup"
 msgstr "Backup"
 
-#: data/gtk/ui/Preferences.blp:38
+#: data/gtk/ui/Preferences.blp:46
 msgid "Export Database"
 msgstr "Exportar banco de dados"
 
-#: data/gtk/ui/Preferences.blp:44
+#: data/gtk/ui/Preferences.blp:52
 msgid "Import Database"
 msgstr "Importar banco de dados"
 
-#: data/gtk/ui/Preferences.blp:52
+#: data/gtk/ui/Preferences.blp:60
 msgid "Export"
 msgstr "Exportar"
 
-#: data/gtk/ui/Preferences.blp:56
+#: data/gtk/ui/Preferences.blp:64
 msgid "Export to Memorado"
 msgstr "Exportar para o Memorado"
 
-#: data/gtk/ui/Preferences.blp:57
+#: data/gtk/ui/Preferences.blp:65
 msgid "Export Lexi database as Memorado compatible database"
 msgstr ""
 "Exportar o banco de dados Lexi como um banco de dados compatível com o "
 "Memorado"
 
-#: data/gtk/ui/Preferences.blp:64
+#: data/gtk/ui/Preferences.blp:72
 msgid "Word Types"
 msgstr "Tipos de palavras"
 
-#: data/gtk/ui/Preferences.blp:70
+#: data/gtk/ui/Preferences.blp:78
 msgid "Write new word type name here…"
 msgstr "Escreva o nome do novo tipo de palavra aqui…"
 
-#: data/gtk/ui/Preferences.blp:95
+#: data/gtk/ui/Preferences.blp:103
 msgid "Import Database?"
 msgstr "Importar banco de dados?"
 
-#: data/gtk/ui/Preferences.blp:96
+#: data/gtk/ui/Preferences.blp:104
 msgid "Importing database will ERASE the existing one!"
 msgstr "Importar o banco de dados irá APAGAR o existente!"
 
-#: data/gtk/ui/Preferences.blp:103
+#: data/gtk/ui/Preferences.blp:111
 msgid "Import"
 msgstr "Importar"
 
@@ -486,25 +495,25 @@ msgid "Suffix"
 msgstr "Sufixo"
 
 #. Translators: Add Your Name, Your Name <your.email@example.com>, or Your Name https://your-site.com for it to show up in the About dialog. PLEASE, DON'T DELETE PREVIOUS TRANSLATORS CREDITS AND SEPARATE YOURSELF BY NEWLINE `\n` METASYMBOL
-#: lexi/main.py:153
+#: lexi/main.py:158
 msgid "translator-credits"
 msgstr "john peter sa <johnppetersa@gmail.com>"
 
-#: lexi/main.py:156
+#: lexi/main.py:161
 msgid "Inspiration"
 msgstr "Inspiração"
 
-#: lexi/main.py:163
+#: lexi/main.py:168
 msgid "Advisers"
 msgstr "Consultores"
 
 #. Translators: This is the name of the another app https://flathub.org/apps/io.github.dzheremi2.lrcmake-gtk
-#: lexi/main.py:172
+#: lexi/main.py:177
 msgid "Chronograph"
 msgstr "Cronógrafo"
 
 #. Translators: This is the summary of the another app https://flathub.org/apps/io.github.dzheremi2.lrcmake-gtk
-#: lexi/main.py:174
+#: lexi/main.py:179
 msgid "Sync lyrics of your loved songs"
 msgstr "Sincronize as letras das suas músicas favoritas"
 
@@ -520,11 +529,11 @@ msgstr "Nenhum tipo de palavra disponível"
 msgid "Configure"
 msgstr "Configure"
 
-#: lexi/ui/Preferences.py:183
+#: lexi/ui/Preferences.py:190
 msgid "No word types created yet"
 msgstr "Nenhum tipo de palavra criado ainda"
 
-#: lexi/ui/Preferences.py:184
+#: lexi/ui/Preferences.py:191
 msgid "Add a new word type to get started"
 msgstr "Adicione um novo tipo de palavra para começar"
 

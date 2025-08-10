@@ -1,6 +1,6 @@
 project(
     'lexi',
-    version: '1.3.1',
+    version: '1.4',
     meson_version: '>= 1.0.0',
     default_options: [ 'warning_level=2', 'werror=false', ],
 )

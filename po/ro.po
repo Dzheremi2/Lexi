@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lexi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-11 10:26+0300\n"
+"POT-Creation-Date: 2025-08-10 21:35+0300\n"
 "PO-Revision-Date: 2025-01-07 23:55+0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -180,7 +180,7 @@ msgid "Name"
 msgstr ""
 
 #: data/gtk/window.blp:524 data/gtk/ui/LexiconRow.blp:105
-#: data/gtk/ui/LexiconRow.blp:117 data/gtk/ui/Preferences.blp:102
+#: data/gtk/ui/LexiconRow.blp:117 data/gtk/ui/Preferences.blp:110
 #: data/gtk/ui/WordRow.blp:102
 msgid "Cancel"
 msgstr ""
@@ -277,58 +277,66 @@ msgid ""
 msgstr ""
 
 #: data/gtk/ui/Preferences.blp:20
-msgid "Debug"
+msgid "Search"
 msgstr ""
 
 #: data/gtk/ui/Preferences.blp:23
+msgid "Ignore accents when searching for words"
+msgstr ""
+
+#: data/gtk/ui/Preferences.blp:28
+msgid "Debug"
+msgstr ""
+
+#: data/gtk/ui/Preferences.blp:31
 msgid "Use Debug logging profile"
 msgstr ""
 
-#: data/gtk/ui/Preferences.blp:29
+#: data/gtk/ui/Preferences.blp:37
 msgid "Database"
 msgstr ""
 
-#: data/gtk/ui/Preferences.blp:34
+#: data/gtk/ui/Preferences.blp:42
 msgid "Backup"
 msgstr ""
 
-#: data/gtk/ui/Preferences.blp:38
+#: data/gtk/ui/Preferences.blp:46
 msgid "Export Database"
 msgstr ""
 
-#: data/gtk/ui/Preferences.blp:44
+#: data/gtk/ui/Preferences.blp:52
 msgid "Import Database"
 msgstr ""
 
-#: data/gtk/ui/Preferences.blp:52
+#: data/gtk/ui/Preferences.blp:60
 msgid "Export"
 msgstr ""
 
-#: data/gtk/ui/Preferences.blp:56
+#: data/gtk/ui/Preferences.blp:64
 msgid "Export to Memorado"
 msgstr ""
 
-#: data/gtk/ui/Preferences.blp:57
+#: data/gtk/ui/Preferences.blp:65
 msgid "Export Lexi database as Memorado compatible database"
 msgstr ""
 
-#: data/gtk/ui/Preferences.blp:64
+#: data/gtk/ui/Preferences.blp:72
 msgid "Word Types"
 msgstr ""
 
-#: data/gtk/ui/Preferences.blp:70
+#: data/gtk/ui/Preferences.blp:78
 msgid "Write new word type name here…"
 msgstr ""
 
-#: data/gtk/ui/Preferences.blp:95
+#: data/gtk/ui/Preferences.blp:103
 msgid "Import Database?"
 msgstr ""
 
-#: data/gtk/ui/Preferences.blp:96
+#: data/gtk/ui/Preferences.blp:104
 msgid "Importing database will ERASE the existing one!"
 msgstr ""
 
-#: data/gtk/ui/Preferences.blp:103
+#: data/gtk/ui/Preferences.blp:111
 msgid "Import"
 msgstr ""
 
@@ -468,25 +476,25 @@ msgid "Suffix"
 msgstr ""
 
 #. Translators: Add Your Name, Your Name <your.email@example.com>, or Your Name https://your-site.com for it to show up in the About dialog. PLEASE, DON'T DELETE PREVIOUS TRANSLATORS CREDITS AND SEPARATE YOURSELF BY NEWLINE `\n` METASYMBOL
-#: lexi/main.py:153
+#: lexi/main.py:158
 msgid "translator-credits"
 msgstr ""
 
-#: lexi/main.py:156
+#: lexi/main.py:161
 msgid "Inspiration"
 msgstr ""
 
-#: lexi/main.py:163
+#: lexi/main.py:168
 msgid "Advisers"
 msgstr ""
 
 #. Translators: This is the name of the another app https://flathub.org/apps/io.github.dzheremi2.lrcmake-gtk
-#: lexi/main.py:172
+#: lexi/main.py:177
 msgid "Chronograph"
 msgstr ""
 
 #. Translators: This is the summary of the another app https://flathub.org/apps/io.github.dzheremi2.lrcmake-gtk
-#: lexi/main.py:174
+#: lexi/main.py:179
 msgid "Sync lyrics of your loved songs"
 msgstr ""
 
@@ -502,11 +510,11 @@ msgstr ""
 msgid "Configure"
 msgstr ""
 
-#: lexi/ui/Preferences.py:183
+#: lexi/ui/Preferences.py:190
 msgid "No word types created yet"
 msgstr ""
 
-#: lexi/ui/Preferences.py:184
+#: lexi/ui/Preferences.py:191
 msgid "Add a new word type to get started"
 msgstr ""
 

@@ -17,19 +17,18 @@ template $LexiPreferences : Adw.PreferencesDialog {
     }
 
     Adw.PreferencesGroup {
+      title: _("Search");
+
+      Adw.SwitchRow use_accent_insensitive_search_switch_row {
+        title: _("Ignore accents when searching for words");
+      }
+    }
+
+    Adw.PreferencesGroup {
       title: _("Debug");
 
       Adw.SwitchRow use_debug_log_switch_row {
         title: _("Use Debug logging profile");
-      }
-    }
-
-
-    Adw.PreferencesGroup {
-      title: _("Search");
-
-      Adw.SwitchRow use_accent_insensitive_search_row {
-        title: _("Ignore accents when searching for words");
       }
     }
   }

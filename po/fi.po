@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lexi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-11 10:26+0300\n"
+"POT-Creation-Date: 2025-08-10 21:35+0300\n"
 "PO-Revision-Date: 2025-05-18 21:02+0000\n"
 "Last-Translator: Jiri Grönroos <jiri.gronroos@iki.fi>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/lexi/lexi/fi/>\n"
@@ -180,7 +180,7 @@ msgid "Name"
 msgstr "Nimi"
 
 #: data/gtk/window.blp:524 data/gtk/ui/LexiconRow.blp:105
-#: data/gtk/ui/LexiconRow.blp:117 data/gtk/ui/Preferences.blp:102
+#: data/gtk/ui/LexiconRow.blp:117 data/gtk/ui/Preferences.blp:110
 #: data/gtk/ui/WordRow.blp:102
 msgid "Cancel"
 msgstr "Peru"
@@ -280,58 +280,67 @@ msgstr ""
 "Saattaa johtaa tietojen menetykseen"
 
 #: data/gtk/ui/Preferences.blp:20
+#, fuzzy
+msgid "Search"
+msgstr "Etsi…"
+
+#: data/gtk/ui/Preferences.blp:23
+msgid "Ignore accents when searching for words"
+msgstr ""
+
+#: data/gtk/ui/Preferences.blp:28
 msgid "Debug"
 msgstr "Vianjäljitys"
 
-#: data/gtk/ui/Preferences.blp:23
+#: data/gtk/ui/Preferences.blp:31
 msgid "Use Debug logging profile"
 msgstr "Käytä vianjäljityksen lokitusprofiilia"
 
-#: data/gtk/ui/Preferences.blp:29
+#: data/gtk/ui/Preferences.blp:37
 msgid "Database"
 msgstr "Tietokanta"
 
-#: data/gtk/ui/Preferences.blp:34
+#: data/gtk/ui/Preferences.blp:42
 msgid "Backup"
 msgstr "Varmuuskopio"
 
-#: data/gtk/ui/Preferences.blp:38
+#: data/gtk/ui/Preferences.blp:46
 msgid "Export Database"
 msgstr "Vie tietokanta"
 
-#: data/gtk/ui/Preferences.blp:44
+#: data/gtk/ui/Preferences.blp:52
 msgid "Import Database"
 msgstr "Tuo tietokanta"
 
-#: data/gtk/ui/Preferences.blp:52
+#: data/gtk/ui/Preferences.blp:60
 msgid "Export"
 msgstr "Vie"
 
-#: data/gtk/ui/Preferences.blp:56
+#: data/gtk/ui/Preferences.blp:64
 msgid "Export to Memorado"
 msgstr "Vie Memoradoon"
 
-#: data/gtk/ui/Preferences.blp:57
+#: data/gtk/ui/Preferences.blp:65
 msgid "Export Lexi database as Memorado compatible database"
 msgstr "Vie Lexi-tietokanta Memorado-yhteensopivana tietokantana"
 
-#: data/gtk/ui/Preferences.blp:64
+#: data/gtk/ui/Preferences.blp:72
 msgid "Word Types"
 msgstr "Sanatyypit"
 
-#: data/gtk/ui/Preferences.blp:70
+#: data/gtk/ui/Preferences.blp:78
 msgid "Write new word type name here…"
 msgstr "Kirjoita uusi sanatyypin nimi tähän…"
 
-#: data/gtk/ui/Preferences.blp:95
+#: data/gtk/ui/Preferences.blp:103
 msgid "Import Database?"
 msgstr "Tuodaanko tietokanta?"
 
-#: data/gtk/ui/Preferences.blp:96
+#: data/gtk/ui/Preferences.blp:104
 msgid "Importing database will ERASE the existing one!"
 msgstr "Tietokannan tuominen YLIKIRJOITTAA aiemman tietokannan sisällön!"
 
-#: data/gtk/ui/Preferences.blp:103
+#: data/gtk/ui/Preferences.blp:111
 msgid "Import"
 msgstr "Tuo"
 
@@ -473,25 +482,25 @@ msgid "Suffix"
 msgstr "Takaliite"
 
 #. Translators: Add Your Name, Your Name <your.email@example.com>, or Your Name https://your-site.com for it to show up in the About dialog. PLEASE, DON'T DELETE PREVIOUS TRANSLATORS CREDITS AND SEPARATE YOURSELF BY NEWLINE `\n` METASYMBOL
-#: lexi/main.py:153
+#: lexi/main.py:158
 msgid "translator-credits"
 msgstr "Jiri Grönroos"
 
-#: lexi/main.py:156
+#: lexi/main.py:161
 msgid "Inspiration"
 msgstr "Inspiraatio"
 
-#: lexi/main.py:163
+#: lexi/main.py:168
 msgid "Advisers"
 msgstr ""
 
 #. Translators: This is the name of the another app https://flathub.org/apps/io.github.dzheremi2.lrcmake-gtk
-#: lexi/main.py:172
+#: lexi/main.py:177
 msgid "Chronograph"
 msgstr "Chronograph"
 
 #. Translators: This is the summary of the another app https://flathub.org/apps/io.github.dzheremi2.lrcmake-gtk
-#: lexi/main.py:174
+#: lexi/main.py:179
 msgid "Sync lyrics of your loved songs"
 msgstr "Synkronoi rakastamiesi kappaleiden sanat"
 
@@ -507,11 +516,11 @@ msgstr "Sanatyyppejä ei ole saatavilla"
 msgid "Configure"
 msgstr "Määritä"
 
-#: lexi/ui/Preferences.py:183
+#: lexi/ui/Preferences.py:190
 msgid "No word types created yet"
 msgstr "Sanatyyppejä ei ole vielä luotu"
 
-#: lexi/ui/Preferences.py:184
+#: lexi/ui/Preferences.py:191
 msgid "Add a new word type to get started"
 msgstr "Lisää uusi sanatyyppi aloittaaksesi"
 
