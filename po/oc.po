@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Lexi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-11 10:26+0300\n"
-"PO-Revision-Date: 2025-05-26 11:01+0000\n"
+"PO-Revision-Date: 2025-07-30 16:05+0000\n"
 "Last-Translator: Quentin PAGÈS <quentinantonin@free.fr>\n"
 "Language-Team: Occitan <https://hosted.weblate.org/projects/lexi/lexi/oc/>\n"
 "Language: oc\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.12-dev\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #: data/gtk/window.blp:36
 msgid "Lexicons"
@@ -73,6 +73,14 @@ msgid ""
 "E.g. “#basic#family”, “#basic #suffixes”\n"
 "BUT NOT: “#family mom” or “#famil”"
 msgstr ""
+"Sintaxi de requèst\n"
+"Basat qus un mot : solament un mot o sa traduccion\n"
+"Ex. “Mom“, “Dad“\n"
+"\n"
+"Basat sus una etiqueta : la requèsta comença per “#”, conten lo nom COMPLÈT "
+"de l'etiqueta e non pas una requèsta basada sul mot\n"
+"Ex. “#basic#family”, “#basic #suffixes”\n"
+"MAS PAS : “#family mom” o “#famil”"
 
 #: data/gtk/window.blp:199 data/gtk/ui/LexiconRow.blp:77
 msgid "Add word"
@@ -353,6 +361,8 @@ msgid ""
 "Type a new tag WITHOUT hashtag prefix and spaces. Existed tag also would be "
 "rejected"
 msgstr ""
+"Picatz una etiqueta novèla SENS lo prefix hashtag nimai espaci. Las "
+"etiquetas existentas seràn regetadas tanben"
 
 #: data/gtk/ui/WordRow.blp:96
 msgid "Tag…"
@@ -484,7 +494,7 @@ msgstr "Inspiracion"
 
 #: lexi/main.py:163
 msgid "Advisers"
-msgstr ""
+msgstr "Conselhièrs"
 
 #. Translators: This is the name of the another app https://flathub.org/apps/io.github.dzheremi2.lrcmake-gtk
 #: lexi/main.py:172
@@ -529,6 +539,8 @@ msgid ""
 "Click LMB to search words with this tag\n"
 "Click RMB to remove this tag"
 msgstr ""
+"Clic esquèr de la mirga per cercar de mots amb aquesta etiqueta\n"
+"Clic drech de la mirga per suprimir aquesta etiqueta"
 
 #. Translators: DO NOT TRANSLATE TEXT WITHIN CURLY BRACKETS AND BRACKETS ITSELF
 #: lexi/utils/backup.py:46
