@@ -1,3 +1,13 @@
+## 1.4
+<p>New features</p>
+<ul>
+  <li>Added accent insensitive search (thanks to @JoseBritto)</li>
+</ul>
+<p>Bug fixes</p>
+<ul>
+  <li>Searching is now done through all translations of the word (thanks to @JoseBritto)</li>
+</ul>
+
 ## 1.3.1
 <p>Bug fix</p>
 <ul>
