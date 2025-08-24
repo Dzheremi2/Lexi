@@ -8,57 +8,61 @@ msgstr ""
 "Project-Id-Version: Lexi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-08-10 21:35+0300\n"
-"PO-Revision-Date: 2025-01-07 23:55+0300\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
-"Language: ua\n"
+"PO-Revision-Date: 2025-08-24 12:02+0000\n"
+"Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
+"Language-Team: Ukrainian <https://hosted.weblate.org/projects/lexi/lexi/uk/>"
+"\n"
+"Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.13\n"
 
 #: data/gtk/window.blp:36
 msgid "Lexicons"
-msgstr ""
+msgstr "Лексикони"
 
 #: data/gtk/window.blp:47 data/gtk/window.blp:545
 msgid "Toggle sidebar"
-msgstr ""
+msgstr "Перемикання бічної панелі"
 
 #: data/gtk/window.blp:52
 msgid "Find Lexicon"
-msgstr ""
+msgstr "Знайти лексикон"
 
 #: data/gtk/window.blp:62
 msgid "Add Lexicon"
-msgstr ""
+msgstr "Додати лексикон"
 
 #: data/gtk/window.blp:67
 msgid "App menu"
-msgstr ""
+msgstr "Меню програми"
 
 #: data/gtk/window.blp:80
 msgid "Search…"
-msgstr ""
+msgstr "Пошук…"
 
 #: data/gtk/window.blp:127
 msgid "Sort by…"
-msgstr ""
+msgstr "Сортувати за…"
 
 #: data/gtk/window.blp:134
 msgid "Filter words by types"
-msgstr ""
+msgstr "Фільтрувати слова за типами"
 
 #: data/gtk/window.blp:167
 msgid "Select words"
-msgstr ""
+msgstr "Виберіть слова"
 
 #: data/gtk/window.blp:180
 msgid "Delete selected words"
-msgstr ""
+msgstr "Видалити вибрані слова"
 
 #: data/gtk/window.blp:191
 msgid "Find a word"
-msgstr ""
+msgstr "Знайти слово"
 
 #: data/gtk/window.blp:193
 msgid ""
@@ -71,201 +75,209 @@ msgid ""
 "E.g. “#basic#family”, “#basic #suffixes”\n"
 "BUT NOT: “#family mom” or “#famil”"
 msgstr ""
+"Синтаксис запиту:\n"
+"На основі слів: Просто слово або його переклад\n"
+"Наприклад, «Мама», «Тато»\n"
+"\n"
+"На основі тегів: Запит починається з «#», містить ПОВНІСТЮ назву тегу та не "
+"містить запиту на основі слів\n"
+"Наприклад, «#базова#сім'я», «#базові #суфікси»\n"
+"АЛЕ НЕ: «#сім'я мама» або «#сім'я»"
 
 #: data/gtk/window.blp:199 data/gtk/ui/LexiconRow.blp:77
 msgid "Add word"
-msgstr ""
+msgstr "Додати слово"
 
 #: data/gtk/window.blp:210 data/gtk/window.blp:228 data/gtk/window.blp:606
 #: data/gtk/ui/LexiconRow.blp:55 lexi/window.py:738
 msgid "Word"
-msgstr ""
+msgstr "Слово"
 
 #: data/gtk/window.blp:234 data/io.github.dzheremi2.lexi.metainfo.xml.in:14
 msgid "Pronunciation"
-msgstr ""
+msgstr "Вимова"
 
 #: data/gtk/window.blp:240
 msgid "Translations"
-msgstr ""
+msgstr "Переклади"
 
 #: data/gtk/window.blp:248
 msgid "Add translation"
-msgstr ""
+msgstr "Додати переклад"
 
 #: data/gtk/window.blp:257
 msgid "Word Type"
-msgstr ""
+msgstr "Тип слова"
 
 #: data/gtk/window.blp:266
 msgid "Assign word type"
-msgstr ""
+msgstr "Призначити тип слова"
 
 #: data/gtk/window.blp:275
 msgid "Examples"
-msgstr ""
+msgstr "Приклади"
 
 #: data/gtk/window.blp:283
 msgid "Add example"
-msgstr ""
+msgstr "Додати приклад"
 
 #: data/gtk/window.blp:292 data/gtk/window.blp:618
 msgid "References"
-msgstr ""
+msgstr "Посилання"
 
 #: data/gtk/window.blp:300
 msgid "Add reference"
-msgstr ""
+msgstr "Додати посилання"
 
 #: data/gtk/window.blp:356
 msgid "Refer a Word"
-msgstr ""
+msgstr "Зверніться до слова"
 
 #: data/gtk/window.blp:387
 msgid "Assign Word Type"
-msgstr ""
+msgstr "Призначити Тип Слова"
 
 #: data/gtk/window.blp:418
 msgid "Filter by Word Type"
-msgstr ""
+msgstr "Фільтрувати за типом слова"
 
 #: data/gtk/window.blp:457
 msgid "Reset All"
-msgstr ""
+msgstr "Скинути все"
 
 #: data/gtk/window.blp:470
 msgid "No Lexicons found yet"
-msgstr ""
+msgstr "Лексиконів поки що не знайдено"
 
 #: data/gtk/window.blp:477
 msgid "No Lexicons found"
-msgstr ""
+msgstr "Лексиконів не знайдено"
 
 #: data/gtk/window.blp:478
 msgid "No Lexicons found for this search request"
-msgstr ""
+msgstr "За цим пошуковим запитом не знайдено лексиконом"
 
 #: data/gtk/window.blp:485
 msgid "No Words found yet"
-msgstr ""
+msgstr "Слова поки що не знайдено"
 
 #: data/gtk/window.blp:492 data/gtk/ui/LexiconRow.blp:30
 msgid "Add Word"
-msgstr ""
+msgstr "Додати Слово"
 
 #: data/gtk/window.blp:502
 msgid "No Words found"
-msgstr ""
+msgstr "Слова не знайдено"
 
 #: data/gtk/window.blp:503
 msgid "No Words found for this search request"
-msgstr ""
+msgstr "За цим пошуковим запитом не знайдено слів"
 
 #: data/gtk/window.blp:508
 msgid "No Lexicon selected"
-msgstr ""
+msgstr "Лексикон не вибрано"
 
 #: data/gtk/window.blp:509
 msgid "Please select a Lexicon to view its words"
-msgstr ""
+msgstr "Будь ласка, виберіть лексикон, щоб переглянути його слова"
 
 #: data/gtk/window.blp:515
 msgid "Add new Lexicon"
-msgstr ""
+msgstr "Додати новий лексикон"
 
 #: data/gtk/window.blp:519 data/gtk/ui/LexiconRow.blp:100
 msgid "Name"
-msgstr ""
+msgstr "Ім'я"
 
 #: data/gtk/window.blp:524 data/gtk/ui/LexiconRow.blp:105
 #: data/gtk/ui/LexiconRow.blp:117 data/gtk/ui/Preferences.blp:110
 #: data/gtk/ui/WordRow.blp:102
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 #: data/gtk/window.blp:525 data/gtk/ui/WordRow.blp:103
 msgid "Add"
-msgstr ""
+msgstr "Додати"
 
 #: data/gtk/window.blp:537 data/gtk/ui/Preferences.blp:7
 msgid "General"
-msgstr ""
+msgstr "Загальне"
 
 #: data/gtk/window.blp:540
 msgid "Quit"
-msgstr ""
+msgstr "Вийти"
 
 #: data/gtk/window.blp:550
 msgid "Search words"
-msgstr ""
+msgstr "Пошукові слова"
 
 #: data/gtk/window.blp:555
 msgid "Reload words list"
-msgstr ""
+msgstr "Перезавантажити список слів"
 
 #: data/gtk/window.blp:560
 msgid "Show preferences"
-msgstr ""
+msgstr "Показати налаштування"
 
 #: data/gtk/window.blp:565 data/gtk/window.blp:584
 msgid "Keybindings"
-msgstr ""
+msgstr "Клавіатурні комбінації"
 
 #: data/gtk/window.blp:571 data/gtk/ui/Preferences.blp:11
 msgid "Editing"
-msgstr ""
+msgstr "Редагування"
 
 #: data/gtk/window.blp:574
 msgid "Add new word"
-msgstr ""
+msgstr "Додати нове слово"
 
 #: data/gtk/window.blp:583
 msgid "Preferences"
-msgstr ""
+msgstr "Налаштування"
 
 #: data/gtk/window.blp:585
 msgid "About"
-msgstr ""
+msgstr "Про нас"
 
 #: data/gtk/window.blp:592
 msgid "Ascending"
-msgstr ""
+msgstr "Зростаючий"
 
 #: data/gtk/window.blp:598
 msgid "Descending"
-msgstr ""
+msgstr "Спадання"
 
 #: data/gtk/window.blp:612
 msgid "First Translation"
-msgstr ""
+msgstr "Перший переклад"
 
 #: data/gtk/ui/LexiconRow.blp:61 lexi/window.py:346 lexi/window.py:521
 msgid "Translation"
-msgstr ""
+msgstr "Переклад"
 
 #: data/gtk/ui/LexiconRow.blp:66 lexi/window.py:347 lexi/window.py:527
 msgid "Example"
-msgstr ""
+msgstr "Приклад"
 
 #: data/gtk/ui/LexiconRow.blp:96
 msgid "Rename this Lexicon"
-msgstr ""
+msgstr "Перейменувати цей лексикон"
 
 #: data/gtk/ui/LexiconRow.blp:106 data/gtk/ui/LexiconRow.blp:124
 msgid "Rename"
-msgstr ""
+msgstr "Перейменувати"
 
 #: data/gtk/ui/LexiconRow.blp:112
 msgid "Delete this Lexicon?"
-msgstr ""
+msgstr "Видалити цей лексикон?"
 
 #: data/gtk/ui/LexiconRow.blp:118 data/gtk/ui/LexiconRow.blp:125
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 #: data/gtk/ui/Preferences.blp:14
 msgid "Save changes on app exit"
-msgstr ""
+msgstr "Зберегти зміни після виходу з програми"
 
 #: data/gtk/ui/Preferences.blp:15
 msgid ""
@@ -273,311 +285,324 @@ msgid ""
 "disk accesses\n"
 "May cause data loss"
 msgstr ""
+"Зберігайте зміни у файлах лише після виходу з програми, щоб зменшити "
+"кількість звернень до диска.\n"
+"Може призвести до втрати даних"
 
 #: data/gtk/ui/Preferences.blp:20
 msgid "Search"
-msgstr ""
+msgstr "Пошук"
 
 #: data/gtk/ui/Preferences.blp:23
 msgid "Ignore accents when searching for words"
-msgstr ""
+msgstr "Ігноруйте наголоси під час пошуку слів"
 
 #: data/gtk/ui/Preferences.blp:28
 msgid "Debug"
-msgstr ""
+msgstr "Налагодження"
 
 #: data/gtk/ui/Preferences.blp:31
 msgid "Use Debug logging profile"
-msgstr ""
+msgstr "Використовувати профіль журналювання налагодження"
 
 #: data/gtk/ui/Preferences.blp:37
 msgid "Database"
-msgstr ""
+msgstr "База даних"
 
 #: data/gtk/ui/Preferences.blp:42
 msgid "Backup"
-msgstr ""
+msgstr "Резервне копіювання"
 
 #: data/gtk/ui/Preferences.blp:46
 msgid "Export Database"
-msgstr ""
+msgstr "Експорт бази даних"
 
 #: data/gtk/ui/Preferences.blp:52
 msgid "Import Database"
-msgstr ""
+msgstr "Імпорт бази даних"
 
 #: data/gtk/ui/Preferences.blp:60
 msgid "Export"
-msgstr ""
+msgstr "Експорт"
 
 #: data/gtk/ui/Preferences.blp:64
 msgid "Export to Memorado"
-msgstr ""
+msgstr "Експорт у пам'ять"
 
 #: data/gtk/ui/Preferences.blp:65
 msgid "Export Lexi database as Memorado compatible database"
-msgstr ""
+msgstr "Експорт бази даних Lexi як бази даних, сумісної з Memorado"
 
 #: data/gtk/ui/Preferences.blp:72
 msgid "Word Types"
-msgstr ""
+msgstr "Типи слів"
 
 #: data/gtk/ui/Preferences.blp:78
 msgid "Write new word type name here…"
-msgstr ""
+msgstr "Напишіть тут назву нового типу слова…"
 
 #: data/gtk/ui/Preferences.blp:103
 msgid "Import Database?"
-msgstr ""
+msgstr "Імпортувати базу даних?"
 
 #: data/gtk/ui/Preferences.blp:104
 msgid "Importing database will ERASE the existing one!"
-msgstr ""
+msgstr "Імпорт бази даних ВИДАЛИЙТЕ існуючу!"
 
 #: data/gtk/ui/Preferences.blp:111
 msgid "Import"
-msgstr ""
+msgstr "Імпорт"
 
 #: data/gtk/ui/WordRow.blp:54
 msgid "Add new tag"
-msgstr ""
+msgstr "Додати новий тег"
 
 #: data/gtk/ui/WordRow.blp:67
 msgid "Selection check button"
-msgstr ""
+msgstr "Кнопка перевірки вибору"
 
 #: data/gtk/ui/WordRow.blp:90
 msgid "Add Tag"
-msgstr ""
+msgstr "Додати тег"
 
 #: data/gtk/ui/WordRow.blp:91
 msgid ""
 "Type a new tag WITHOUT hashtag prefix and spaces. Existed tag also would be "
 "rejected"
 msgstr ""
+"Введіть новий тег БЕЗ префікса хештегу та пробілів. Існуючий тег також буде "
+"відхилено"
 
 #: data/gtk/ui/WordRow.blp:96
 msgid "Tag…"
-msgstr ""
+msgstr "Тег…"
 
 #. Translators: The app name is untranslatable. Just rewrite it on your language
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:7
 #: data/io.github.dzheremi2.lexi.desktop.in:3
 msgid "Lexi"
-msgstr ""
+msgstr "Lexi"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:8
 #: data/io.github.dzheremi2.lexi.desktop.in:4
 msgid "Build your own dictionary"
-msgstr ""
+msgstr "Створіть свій власний словник"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:10
 msgid ""
 "Lexi is a self-driven dictionary app for those who want to make their "
 "language learning (or creating) structured and easy"
 msgstr ""
+"Lexi — це додаток для самостійного створення словників для тих, хто хоче "
+"зробити вивчення (або створення) мови структурованим та простим"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:11
 msgid "You can give words:"
-msgstr ""
+msgstr "Можна давати слова:"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:13
 msgid "Word itself"
-msgstr ""
+msgstr "Саме слово"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:15
 msgid "Multiple translations"
-msgstr ""
+msgstr "Кілька перекладів"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:16
 msgid "Word types e.g. Noun, Verb, Adjective e.t.c"
-msgstr ""
+msgstr "Типи слів, наприклад, іменник, дієслово, прикметник тощо"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:17
 msgid "Multiple examples"
-msgstr ""
+msgstr "Кілька прикладів"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:18
 msgid "References to other words"
-msgstr ""
+msgstr "Посилання на інші слова"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:54
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:66
 msgid "Main window"
-msgstr ""
+msgstr "Головне вікно"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:58
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:70
 msgid "Word type filter dialog"
-msgstr ""
+msgstr "Діалогове вікно фільтра типу слова"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:62
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:74
 msgid "Main window on smaller display"
-msgstr ""
+msgstr "Головне вікно на меншому дисплеї"
 
 #. Translators: Search terms to find this application. Please, do NOT delete original english keywords, just add your language translations to them. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
 #: data/io.github.dzheremi2.lexi.desktop.in:11
 msgid "dict;dictionary;word;words;lexi;lexicon;lexicons;"
-msgstr ""
+msgstr "dict;dictionary;word;words;lexi;lexicon;lexicons';"
 
 #: lexi/enums.py:72
 msgid "Noun"
-msgstr ""
+msgstr "Іменник"
 
 #: lexi/enums.py:73
 msgid "Verb"
-msgstr ""
+msgstr "Дієслово"
 
 #: lexi/enums.py:74
 msgid "Adjective"
-msgstr ""
+msgstr "Прикметник"
 
 #: lexi/enums.py:75
 msgid "Adverb"
-msgstr ""
+msgstr "Прислівник"
 
 #: lexi/enums.py:76
 msgid "Pronoun"
-msgstr ""
+msgstr "Займенник"
 
 #: lexi/enums.py:77
 msgid "Preposition"
-msgstr ""
+msgstr "Прийменник"
 
 #: lexi/enums.py:78
 msgid "Conjunction"
-msgstr ""
+msgstr "Сполучник"
 
 #: lexi/enums.py:79
 msgid "Interjection"
-msgstr ""
+msgstr "Вигук"
 
 #: lexi/enums.py:80
 msgid "Article"
-msgstr ""
+msgstr "Стаття"
 
 #: lexi/enums.py:81
 msgid "Idiom"
-msgstr ""
+msgstr "Ідіома"
 
 #: lexi/enums.py:82
 msgid "Clause"
-msgstr ""
+msgstr "Пункт"
 
 #: lexi/enums.py:83
 msgid "Prefix"
-msgstr ""
+msgstr "Префікс"
 
 #: lexi/enums.py:84
 msgid "Suffix"
-msgstr ""
+msgstr "Суфікс"
 
 #. Translators: Add Your Name, Your Name <your.email@example.com>, or Your Name https://your-site.com for it to show up in the About dialog. PLEASE, DON'T DELETE PREVIOUS TRANSLATORS CREDITS AND SEPARATE YOURSELF BY NEWLINE `\n` METASYMBOL
 #: lexi/main.py:158
 msgid "translator-credits"
-msgstr ""
+msgstr "Горпиніч Максим, gorpinicmaksim0@gmail.com, допомагаю та підтримую мов"
 
 #: lexi/main.py:161
 msgid "Inspiration"
-msgstr ""
+msgstr "Натхнення"
 
 #: lexi/main.py:168
 msgid "Advisers"
-msgstr ""
+msgstr "Радники"
 
 #. Translators: This is the name of the another app https://flathub.org/apps/io.github.dzheremi2.lrcmake-gtk
 #: lexi/main.py:177
 msgid "Chronograph"
-msgstr ""
+msgstr "Chronograph"
 
 #. Translators: This is the summary of the another app https://flathub.org/apps/io.github.dzheremi2.lrcmake-gtk
 #: lexi/main.py:179
 msgid "Sync lyrics of your loved songs"
-msgstr ""
+msgstr "Синхронізуйте тексти ваших улюблених пісень"
 
 #: lexi/window.py:484
 msgid "You have already referenced all words"
-msgstr ""
+msgstr "Ви вже посилалися на всі слова"
 
 #: lexi/window.py:498
 msgid "No word types available"
-msgstr ""
+msgstr "Немає доступних типів слів"
 
 #: lexi/window.py:498
 msgid "Configure"
-msgstr ""
+msgstr "Налаштувати"
 
 #: lexi/ui/Preferences.py:190
 msgid "No word types created yet"
-msgstr ""
+msgstr "Типів слів ще не створено"
 
 #: lexi/ui/Preferences.py:191
 msgid "Add a new word type to get started"
-msgstr ""
+msgstr "Додайте новий тип слова, щоб розпочати"
 
 #: lexi/ui/ReferenceRow.py:21 lexi/ui/TypeRow.py:20
 msgid "Delete this reference"
-msgstr ""
+msgstr "Видалити це посилання"
 
 #: lexi/ui/ReferenceRow.py:34 lexi/ui/WordRow.py:39 lexi/ui/WordRow.py:98
 msgid "No translation yet"
-msgstr ""
+msgstr "Ще немає перекладу"
 
 #: lexi/ui/WordRow.py:133
 msgid ""
 "Click LMB to search words with this tag\n"
 "Click RMB to remove this tag"
 msgstr ""
+"Натисніть LMB, щоб знайти слова з цим тегом\n"
+"Натисніть RMB, щоб видалити цей тег"
 
 #. Translators: DO NOT TRANSLATE TEXT WITHIN CURLY BRACKETS AND BRACKETS ITSELF
 #: lexi/utils/backup.py:46
 #, python-brace-format
 msgid "Backup exported successfully: {path}"
-msgstr ""
+msgstr "Резервна копія успішно експортована: {path}"
 
 #: lexi/utils/backup.py:47 lexi/utils/backup.py:237
 msgid "Open"
-msgstr ""
+msgstr "Відчинено"
 
 #: lexi/utils/backup.py:75
 msgid "Database imported successfully"
-msgstr ""
+msgstr "База даних успішно імпортована"
 
 #: lexi/utils/backup.py:101 lexi/utils/backup.py:149
 msgid "Incorrect Archive!"
-msgstr ""
+msgstr "Неправильний архів!"
 
 #: lexi/utils/backup.py:101
 msgid "Why?"
-msgstr ""
+msgstr "Чому?"
 
 #: lexi/utils/backup.py:151
 msgid ""
 "This archive seems to be incorrect, since it wasn't passed proof of content "
 "challenge: no config.yaml file and/or lexicons folder inside"
 msgstr ""
+"Цей архів, схоже, неправильний, оскільки він не пройшов перевірку на "
+"наявність вмісту: у ньому немає файлу config.yaml та/або папки lexicons"
 
 #: lexi/utils/backup.py:154
 msgid "Close"
-msgstr ""
+msgstr "Закрити"
 
 #: lexi/utils/backup.py:162
 msgid "Database Version Mismatch!"
-msgstr ""
+msgstr "Невідповідність версій бази даних!"
 
 #: lexi/utils/backup.py:164
 msgid ""
 "The database version in the archive does not match the current version of "
 "Lexi. Please, restart Lexi after importing this database."
 msgstr ""
+"Версія бази даних в архіві не відповідає поточній версії Lexi. Будь ласка, "
+"перезапустіть Lexi після імпорту цієї бази даних."
 
 #: lexi/utils/backup.py:167
 msgid "Exit Lexi"
-msgstr ""
+msgstr "Вихід Lexi"
 
 #. Translators: DO NOT TRANSLATE TEXT WITHIN CURLY BRACKETS AND BRACKETS ITSELF. Memorado is the name of the other app and SHOULDN'T be translated
 #: lexi/utils/backup.py:236
 #, python-brace-format
 msgid "Memorado database exported successfully: {path}"
-msgstr ""
+msgstr "База даних Memorado успішно експортована: {path}"
