@@ -8,14 +8,15 @@ msgstr ""
 "Project-Id-Version: Lexi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-08-10 21:35+0300\n"
-"PO-Revision-Date: 2025-01-07 23:55+0300\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-11-18 01:51+0000\n"
+"Last-Translator: Francisco Serrador <fserrador@gmail.com>\n"
+"Language-Team: Spanish <https://hosted.weblate.org/projects/lexi/lexi/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.15-dev\n"
 
 #: data/gtk/window.blp:36
 msgid "Lexicons"
@@ -39,14 +40,13 @@ msgstr "Menú"
 
 #: data/gtk/window.blp:80
 msgid "Search…"
-msgstr "Buscar..."
+msgstr "Buscar…"
 
 #: data/gtk/window.blp:127
 msgid "Sort by…"
-msgstr "Ordenar por..."
+msgstr "Ordenar por…"
 
 #: data/gtk/window.blp:134
-#, fuzzy
 msgid "Filter words by types"
 msgstr "Filtrar palabras por tipo"
 
@@ -56,7 +56,7 @@ msgstr "Seleccionar palabras"
 
 #: data/gtk/window.blp:180
 msgid "Delete selected words"
-msgstr "Eliminar las palabras seleccionadas"
+msgstr "Borra palabras seleccionadas"
 
 #: data/gtk/window.blp:191
 msgid "Find a word"
@@ -73,6 +73,15 @@ msgid ""
 "E.g. “#basic#family”, “#basic #suffixes”\n"
 "BUT NOT: “#family mom” or “#famil”"
 msgstr ""
+"Sintaxis solicitada:\n"
+"Basada en palabra: Tan solo palabra o su traducción\n"
+"P.e. «Mamá», «Papá»\n"
+"\n"
+"Basada en etiqueta: Solicitud comienza con “#”, conteniendo nombre "
+"etiquetado COMPLETAMENTE y no\n"
+"contiene solicitud basada en palabra\n"
+"P.e. “#basic#family”, “#basic #suffixes”\n"
+"PERO NO: “#family mom” o “#famil”"
 
 #: data/gtk/window.blp:199 data/gtk/ui/LexiconRow.blp:77
 msgid "Add word"
@@ -101,7 +110,7 @@ msgstr "Tipo de palabra"
 
 #: data/gtk/window.blp:266
 msgid "Assign word type"
-msgstr ""
+msgstr "Asignar tipo de palabra"
 
 #: data/gtk/window.blp:275
 msgid "Examples"
@@ -116,27 +125,24 @@ msgid "References"
 msgstr "Referencias"
 
 #: data/gtk/window.blp:300
-#, fuzzy
 msgid "Add reference"
-msgstr "Ajustes"
+msgstr "Agregar referencia"
 
 #: data/gtk/window.blp:356
 msgid "Refer a Word"
-msgstr "Referenciar una palabra"
+msgstr "Referenciar una Palabra"
 
 #: data/gtk/window.blp:387
-#, fuzzy
 msgid "Assign Word Type"
-msgstr "Tipo de palabra"
+msgstr "Asignar Tipo de Palabra"
 
 #: data/gtk/window.blp:418
 msgid "Filter by Word Type"
 msgstr "Filtrar por tipo de palabra"
 
 #: data/gtk/window.blp:457
-#, fuzzy
 msgid "Reset All"
-msgstr "Reiniciar"
+msgstr "Reiniciar Todo"
 
 #: data/gtk/window.blp:470
 msgid "No Lexicons found yet"
@@ -156,7 +162,7 @@ msgstr "No se han encontrado palabras aún"
 
 #: data/gtk/window.blp:492 data/gtk/ui/LexiconRow.blp:30
 msgid "Add Word"
-msgstr "Agregar palabra"
+msgstr "Agregar Palabra"
 
 #: data/gtk/window.blp:502
 msgid "No Words found"
@@ -198,7 +204,7 @@ msgstr "General"
 
 #: data/gtk/window.blp:540
 msgid "Quit"
-msgstr "Cerrar"
+msgstr "Salir"
 
 #: data/gtk/window.blp:550
 msgid "Search words"
@@ -206,7 +212,7 @@ msgstr "Buscar palabras"
 
 #: data/gtk/window.blp:555
 msgid "Reload words list"
-msgstr ""
+msgstr "Recargar listado de palabras"
 
 #: data/gtk/window.blp:560
 msgid "Show preferences"
@@ -270,7 +276,7 @@ msgstr "Eliminar"
 
 #: data/gtk/ui/Preferences.blp:14
 msgid "Save changes on app exit"
-msgstr ""
+msgstr "Guardar cambios al salir de app"
 
 #: data/gtk/ui/Preferences.blp:15
 msgid ""
@@ -278,28 +284,29 @@ msgid ""
 "disk accesses\n"
 "May cause data loss"
 msgstr ""
+"Guarda los cambios a los archivos solo tras que la apl salga para reducir el "
+"número de\n"
+"acceso al disco pueda causar pérdida de datos"
 
 #: data/gtk/ui/Preferences.blp:20
-#, fuzzy
 msgid "Search"
-msgstr "Buscar..."
+msgstr "Buscar"
 
 #: data/gtk/ui/Preferences.blp:23
 msgid "Ignore accents when searching for words"
-msgstr ""
+msgstr "Omitir tilde cuando busque palabras"
 
 #: data/gtk/ui/Preferences.blp:28
 msgid "Debug"
-msgstr ""
+msgstr "Depurar"
 
 #: data/gtk/ui/Preferences.blp:31
 msgid "Use Debug logging profile"
-msgstr ""
+msgstr "Utilizar perfil de bitácora depuradora"
 
 #: data/gtk/ui/Preferences.blp:37
-#, fuzzy
 msgid "Database"
-msgstr "Exportar base de datos"
+msgstr "Base de datos"
 
 #: data/gtk/ui/Preferences.blp:42
 msgid "Backup"
@@ -314,26 +321,24 @@ msgid "Import Database"
 msgstr "Importar base de datos"
 
 #: data/gtk/ui/Preferences.blp:60
-#, fuzzy
 msgid "Export"
-msgstr "Importar"
+msgstr "Exportar"
 
 #: data/gtk/ui/Preferences.blp:64
 msgid "Export to Memorado"
-msgstr ""
+msgstr "Exportar al Memorando"
 
 #: data/gtk/ui/Preferences.blp:65
 msgid "Export Lexi database as Memorado compatible database"
-msgstr ""
+msgstr "Exportar base de datos Lexi como base de datos compatible de Memorando"
 
 #: data/gtk/ui/Preferences.blp:72
-#, fuzzy
 msgid "Word Types"
-msgstr "Tipo de palabra"
+msgstr "Tipos de palabra"
 
 #: data/gtk/ui/Preferences.blp:78
 msgid "Write new word type name here…"
-msgstr ""
+msgstr "Escribe nombre de tipo de palabra nueva aquí…"
 
 #: data/gtk/ui/Preferences.blp:103
 msgid "Import Database?"
@@ -348,27 +353,28 @@ msgid "Import"
 msgstr "Importar"
 
 #: data/gtk/ui/WordRow.blp:54
-#, fuzzy
 msgid "Add new tag"
-msgstr "Agregar nueva palabra"
+msgstr "Agregar etiqueta nueva"
 
 #: data/gtk/ui/WordRow.blp:67
 msgid "Selection check button"
-msgstr "Botón de selección"
+msgstr "Botón de casilla seleccionadora"
 
 #: data/gtk/ui/WordRow.blp:90
 msgid "Add Tag"
-msgstr ""
+msgstr "Añadir Etiqueta"
 
 #: data/gtk/ui/WordRow.blp:91
 msgid ""
 "Type a new tag WITHOUT hashtag prefix and spaces. Existed tag also would be "
 "rejected"
 msgstr ""
+"Tipo de etiqueta nueva SIN prefijo hashtag y espacios. Etiqueta existente "
+"además sería rechazada"
 
 #: data/gtk/ui/WordRow.blp:96
 msgid "Tag…"
-msgstr ""
+msgstr "Etiqueta…"
 
 #. Translators: The app name is untranslatable. Just rewrite it on your language
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:7
@@ -391,7 +397,7 @@ msgstr ""
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:11
 msgid "You can give words:"
-msgstr "Puedes agregar palabras"
+msgstr "Puedes proporcionar palabras:"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:13
 msgid "Word itself"
@@ -403,7 +409,7 @@ msgstr "Múltiples traducciones"
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:16
 msgid "Word types e.g. Noun, Verb, Adjective e.t.c"
-msgstr "Tipos de palabras, por ejemplo, Sustantivo, Verbo, Adjetivo, etc."
+msgstr "Tipos de palabras, p.e., Sustantivo, Verbo, Adjetivo, etc."
 
 #: data/io.github.dzheremi2.lexi.metainfo.xml.in:17
 msgid "Multiple examples"
@@ -496,12 +502,12 @@ msgstr "Inspiración"
 
 #: lexi/main.py:168
 msgid "Advisers"
-msgstr ""
+msgstr "Avisadores"
 
 #. Translators: This is the name of the another app https://flathub.org/apps/io.github.dzheremi2.lrcmake-gtk
 #: lexi/main.py:177
 msgid "Chronograph"
-msgstr "Chronograph"
+msgstr "Cronógrafo"
 
 #. Translators: This is the summary of the another app https://flathub.org/apps/io.github.dzheremi2.lrcmake-gtk
 #: lexi/main.py:179
@@ -513,36 +519,36 @@ msgid "You have already referenced all words"
 msgstr "Ya ha referenciado todas las palabras"
 
 #: lexi/window.py:498
-#, fuzzy
 msgid "No word types available"
-msgstr "No se han encontrado palabras aún"
+msgstr "Ningún tecleo de palabra disponible"
 
 #: lexi/window.py:498
 msgid "Configure"
-msgstr ""
+msgstr "Configurar"
 
 #: lexi/ui/Preferences.py:190
-#, fuzzy
 msgid "No word types created yet"
-msgstr "No se han encontrado palabras aún"
+msgstr "Ningún tipo de palabra aún"
 
 #: lexi/ui/Preferences.py:191
 msgid "Add a new word type to get started"
-msgstr ""
+msgstr "Añade un tipo de palabra nuevo para ser iniciado"
 
 #: lexi/ui/ReferenceRow.py:21 lexi/ui/TypeRow.py:20
 msgid "Delete this reference"
-msgstr "Eliminar referencia"
+msgstr "Elimina esta referencia"
 
 #: lexi/ui/ReferenceRow.py:34 lexi/ui/WordRow.py:39 lexi/ui/WordRow.py:98
 msgid "No translation yet"
-msgstr "No hay traducción"
+msgstr "Aún no hay traducción"
 
 #: lexi/ui/WordRow.py:133
 msgid ""
 "Click LMB to search words with this tag\n"
 "Click RMB to remove this tag"
 msgstr ""
+"Pulse LMB para buscar palabras con esta etiqueta\n"
+"Pulse RMB para eliminar esta etiqueta"
 
 #. Translators: DO NOT TRANSLATE TEXT WITHIN CURLY BRACKETS AND BRACKETS ITSELF
 #: lexi/utils/backup.py:46
@@ -581,24 +587,25 @@ msgstr "Cerrar"
 
 #: lexi/utils/backup.py:162
 msgid "Database Version Mismatch!"
-msgstr ""
+msgstr "¡No coincide la versión de la BB.DD.!"
 
 #: lexi/utils/backup.py:164
 msgid ""
 "The database version in the archive does not match the current version of "
 "Lexi. Please, restart Lexi after importing this database."
 msgstr ""
+"La versión de la BB.DD. en el archivador no coincide con la versión actual "
+"de Lexi. Reinicie Lexi tras importar esta BB.DD."
 
 #: lexi/utils/backup.py:167
-#, fuzzy
 msgid "Exit Lexi"
-msgstr "Lexi"
+msgstr "Salir de Lexi"
 
 #. Translators: DO NOT TRANSLATE TEXT WITHIN CURLY BRACKETS AND BRACKETS ITSELF. Memorado is the name of the other app and SHOULDN'T be translated
 #: lexi/utils/backup.py:236
-#, fuzzy, python-brace-format
+#, python-brace-format
 msgid "Memorado database exported successfully: {path}"
-msgstr "Respaldo exportado correctamente: {path}"
+msgstr "Base de datos de memorando exportada correctamente: {path}"
 
 #~ msgid "Save"
 #~ msgstr "Guardar"

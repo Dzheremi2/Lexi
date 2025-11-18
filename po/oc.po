@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Lexi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-08-10 21:35+0300\n"
-"PO-Revision-Date: 2025-07-30 16:05+0000\n"
+"PO-Revision-Date: 2025-10-09 14:07+0000\n"
 "Last-Translator: Quentin PAGÈS <quentinantonin@free.fr>\n"
 "Language-Team: Occitan <https://hosted.weblate.org/projects/lexi/lexi/oc/>\n"
 "Language: oc\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.13-dev\n"
+"X-Generator: Weblate 5.14-dev\n"
 
 #: data/gtk/window.blp:36
 msgid "Lexicons"
@@ -288,13 +288,12 @@ msgstr ""
 "Pòt menar a de pèrda de donadas"
 
 #: data/gtk/ui/Preferences.blp:20
-#, fuzzy
 msgid "Search"
-msgstr "Recercar…"
+msgstr "Recercar"
 
 #: data/gtk/ui/Preferences.blp:23
 msgid "Ignore accents when searching for words"
-msgstr ""
+msgstr "Ignorar los accents per la recèrca de mots"
 
 #: data/gtk/ui/Preferences.blp:28
 msgid "Debug"
